@@ -73,10 +73,12 @@ In order to be an iceberg, you're going to see something from it, but it goes de
 
 Today's episode is brought to you by June, the customer analytics for product-focused teams. Are you not sure what users do in your SaaS? What features they use the most? Do you wish that you could know what each company does and use this information to generate incremental lift in revenue? June is the product analytics platform you need. It generates profiles for each of your customers that get you closer to your most important ones. It also connects your product data to your CRM so you can get a full view of your customers in one place. so you can engage with the right message at the right time. What makes June different is that it's made for B2B SaaS. It comes with account-level analyses, fast ways to look up your customers, and CRM integrations to share this information between your product, your success, and sales teams. and one line of code is all you need and you're good to go.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:06)
 
 Sign up for a free trial today at june.so slash akash. That's j-u-n-e dot s-o slash a-a-k-a-s-h. You get a discount if you use my link. All right, so there are seven layers to this iceberg. I'm going to flash those up on the screen, so a bit of a shout out if you want to watch this on YouTube. The first layer is core problem communication. Does this help me solve my problem? Like Jared said, this is the tip. You'll probably notice this from thousands of feet away if you're driving a ship. Layer two is the information for decision. If you start to get close up, if you go to their homepage, if you start to investigate them, you'll learn more, like the features, the price, the social proof, and the differentiation. Then from there, we go under the surface. Getting analysis from a deep dive, for instance, is needed because you actually have to go into the product.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:08)
 
 You have to look at the friction. So that's layer three. How easy is it to try? Layer four, value discovery. How easy is it to learn? Layer five, time to first aha, one that's near and dear to my heart as someone who writes about activation all the time. How quick do users get value? Layer six is that retention loop, repeatable value. How often do users get value? Layer seven is monetization. How well does the product monetize users? And layer eight is flywheels. Do users bring in more users? I think it's a very, very elegant framework. And we're going to spend about 10 minutes now on each of those layers so that people get a true deep dive into what it actually is. So first, let's start with this first layer that we talked about. You can see it from far away. It's core problem communication. What is the difference between core problem communication and the second layer information for decision?
@@ -353,14 +355,17 @@ Like single player is me, myself and I will enjoy this product until the end of 
 
 And obviously a great example is Notion. And you've chatted through Notion a few times. So like, do you want to kind of run through like your take on how Notion drives repeatable value? Because I think they do it so bloody well.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:59:27)
 
 Yeah, I think that Notion has to be the best because if you think about it, their power user is literally only in Notion all day. I've talked to CEOs and founders that are like, the number one thing that's going to drive success in my business is getting my employees to use Notion better. You can build literally your entire business on Notion depending on the operating system you set up within Notion. And that is really the key. One, they're removing your barrier to start new, right? We talked about that and we already walked you through it. But two, you can extend that into a full operating system. Here's an example of a company who's done so. They have their planning in there. They have their objectives in there. They have their playbook. They have their Q&A. And you can build that all out beautifully in the left nav.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:00:16)
 
 That's exactly what the product growth team is doing, by the way. We've recently expanded to four team members. Everything is through a Notion operating system. then they unify that information and workflow. So you can have a single page that has your project tracking, that has your wikis, that has your documents, that has your roadmaps, your embedded content from Figma or Miro. So it's really allowing people to understand, okay, I had the aha moment where I've invited people, we're collaborating on documents. Here's another aha moment for Habit where we're using it as an operating system. And then they have all these advanced functionalities. And you guys probably saw recently last week, they released charting. So that's another one you can add to this list. But just databases, like that alone, there's so much advanced functionality that you as an expert at Backstage, I'm sure you're helping people with views to databases and stuff every day.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:01:12)
 
 So there's all these advanced functionalities. And when people ask me, hey, how can we deepen a repeatable value? For me, it's either Notion as a North Star on B2B side, or it's Fortnite as a North Star on B2C side. And if you look at the metrics for Fortnite, it'll probably blow your mind, guys. Like an average user is spending like 2000 hours a year in the product. We have power users, something like 15% of users, spending 4,000 hours a year on the product. How many products have you heard of with that much value? What's driving that value? That learning curve that Jared talked about. There's basically an infinite learning curve on Fortnite. To get to the pro level, you do need to practice 5,000-6,000 hours a week or 5,000-6,000 hours a year. So people want to practice 4,000 hours a year. They're not even close to pro.
@@ -370,6 +375,7 @@ So there's all these advanced functionalities. And when people ask me, hey, how 
 
 Those are like 90th percentile performers. If you're thinking about developing repeatable value, it's about extending into use cases. It's about creating advanced functionality and creating a learning curve so that it has that low floor, but also that very high ceiling. This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:03:16)
 
 Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash
@@ -382,10 +388,12 @@ product growth. a framework that I'm trying to play around with here, which is, 
 
 You go, oh, now this is twice as value, one plus one equals three kind of thing. I think if you try to structure out what are the very adjacent cases to what we have, it could be customer feedback, whatever, and then glue those together in an interesting way that adds extra value. you just keep stacking these triangles together and you're gonna have this whole ecosystem of different value points. And if you're very good at delivering value one time or multiple times, then that boils down to monetization. And that's kind of where all the value capture happens. Money, money, baby. If you're great at delivering value, but you don't know how to capture any of it for yourself, then you know, one way trip to why they died series. But that's obviously something that you've led at multiple companies. So we'd love to, I think, have you explain like your take on monetization and like where you see it fitting into to this
 
+<!-- sponsor -->
 **Aakash Gupta** (01:06:14)
 
 little iceberg. So we've put monetization towards the end of the iceberg intentionally, even though it can come up pretty early, right? We talked about monetization friction in the form of whether you have a credit card, whether you have a free trial, whether you have a freemium plan. So it does come up, but In my experience, you need to get all of the other stuff right before you start heavily experimenting in monetization. So it's never been the case that I've been a core product leader somewhere and retention isn't working and we start just heavily investing in monetization to fix it. You need to get the core right. You need to get... people signing up, you need to get people to AHA, you need to get people retained. At that point, then you want to start experimenting more with monetization. And monetization can be a lever for some of those things, especially when we get to reverse trials, because reverse trials often do increase retention, but it's not going to solve a problem for you.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:07:16)
 
 Retention is all about you capturing value once you have solved a problem for users. And so I think that what people should think about Is how do I use monetization in order to align value metrics with things that are useful for the user and the business? And somebody that is doing that much better than the newsletter platform we're on Substack is Beehive. And I think I've read your deep dive on Beehive like four times because I'm constantly like, am I going to move over? Me too. Me too. Yeah.
@@ -638,6 +646,7 @@ And I think the trap is when it's very siloed, like, okay, now it's your job to 
 
 Then you're not using your growth team efficiently. And you're going to have kind of a disjointed experience, I think, between onboarding and the PLG iceberg into the production of itself. So that's kind of like where I think the trap is. What percentage of people fall into that trap is difficult to say. I think from the companies that I've spoken to in my deep dives, I would say almost like two to three have like mentioned like this being a problem of like, we didn't think about like the ui properly and like where it is placed and like we kind of had to rethink about like some of the structure between like the growth and the traditional role broadly i don't know what do you think like with that context in mind like what percentage of companies do you think like don't have product and growth working like harmoniously enough together i guess is like the broader question
 
+<!-- sponsor -->
 **Aakash Gupta** (01:57:27)
 
 Probably like 80, 90%, I would say. And Elena Verna just had a post too, where she said like growth teams need to get along with everybody else or else. It happens both ways where it's not just core product teams not thinking enough about adoption features and UI UX of features and default states, but also like growth teams not playing well enough to... jump in, maybe help out, but then also teach and enable and scale what they're learning. So it's kind of a two-sided thing. And as a result, it's like 80, 90% of the industry has room to improve. And I think with the extra nuance in your hot take, I 100% agree as well. So that's often the case with these hot takes, right? The hook, it sounds like, okay, we disagree, but then we unveil a layer or two and... It seems like everybody could agree with that.
@@ -647,6 +656,7 @@ Probably like 80, 90%, I would say. And Elena Verna just had a post too, where s
 
 So, all right, now I want to move into some of your advice for product managers generally. You've said the first and most important thing you can do in any role is focus on building trust. Why trust? Why do you anchor on that? This episode is brought to you by WorkOS. If you're building a SaaS app, at some point your customers will start asking for enterprise features like SAML authentication and SCIM provisioning. That's where WorkOS comes in, making it fast and painless to add enterprise features to your app. Their APIs are easy to understand so that you can ship quickly and get back to building other features. Today, hundreds of companies are already powered by WorkOS, including ones you probably know like Vercel, Webflow, and Loom. WorkOS also recently acquired Warrant, the fine-grained authorization service. Warrant's product is based on a groundbreaking authorization system called Zanzibar, which was originally designed for Google to power Google Docs and YouTube.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:59:12)
 
 This enables fast authorization checks at enormous scale while maintaining a flexible model that can be adapted to even the most complex use cases. I think trust is...

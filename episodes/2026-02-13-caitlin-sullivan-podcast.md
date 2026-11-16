@@ -48,6 +48,7 @@ there's two big types of analysis that people tend to run, surveys and interview
 
 I'm gonna demo how you can use any of the large language models to run a few key steps that I just talked about to get really solid results. Wow, that's insane.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:22)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle. where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, DeepSky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashji.com. And now into today's episode. Quick note for my audio listeners, there are some things that we showed, which you can see on Spotify or YouTube, but we've edited this audio so that it's a really good listening experience nonetheless. Caitlin, welcome to the podcast.
@@ -125,6 +126,7 @@ They might not even know exactly what kind of feature functionality you have bui
 
 If you're enjoying this masterclass in AI analysis, you will love Caitlin's cohort-based course. This runs for the month of March, where Caitlin will walk you through not just these first-level workflows that we've shown here, but the next layer deeper of complex workflows. The agent markdown files, everything you need. She will help you get to the next level of craft using AI for discovery and user research. For my money, it's one of the most important skills for PMs, but not just PMs, designers, engineers, go-to-market people, and obviously user researchers. So if you enjoy what she's saying now, take her course. You will learn even more. She'll walk through all of this in detail. And the best thing is you can get a discount on the course using my code, link in the show notes. So check her course out and back to today's episode. Today's podcast is brought to you by Pendo, the leading software experience management platform.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:56)
 
 McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do, before, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at pendo.io slash akash. That's p-e-n-d-o dot i-o slash a-a-k-a-s-h. And obviously you've chosen Claude. If people have the option to choose between all the AI models, why have you chosen Claude?
@@ -305,6 +307,7 @@ Oh, well, it was probably Saturday and it's Wednesday today, right? So... Very o
 
 But I'm basically asking for contradictions and I'm defining what contradictions look like to me. I've even spelled out what is not a contradiction and a few examples. So I'm consistently giving examples, definitions, and then what that looks like to me to be really, really clear. And just so you see a few contradictions here. So something was revised. The rating was revised from, let's see, original. No, this is confirmed. Sorry. This one is moderate risk in the first place, like at risk of churning. And then it was revised to high risk. So upgraded because it double checked what the person was saying, the stories they were telling and actually realized that there's more risk involved. So this is the sort of correction that I'm looking for. I want to make sure that it has combed through the data again, made sure that the claims, the statements that it made were actually
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:38)
 
 verified. You know what kills momentum? Spending 30 minutes on a brainstorm with Claude and then copy pasting it into a slide tool to create the slides. That loop is dead. Gamma now works inside Claude through Claude Connectors. So you can go from thinking to a finished presentation without ever leaving the conversation. Here's what that actually looks like. You're brainstorming a product strategy in Claude. Mid conversation, you say, turn this into a deck. Gamma generates it right there. You keep refining your thinking and the presentation updates with you. No copying, no pasting, no starting over in another tool. And it gets better. Connect Gmail, Notion, or GitHub alongside Gamma, and Claude will use those connections to pull live data straight into your slides. Weekly business reviews, feature PRDs, all generated from the data you're already using. Your deck finally keeps up with your ideas. Try it now.
@@ -691,6 +694,7 @@ Cool. So if I were to summarize for you guys what we covered today, we gave you 
 
 It was my pleasure. Thanks for having me.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:11:43)
 
 See you later, everyone. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next

@@ -225,6 +225,7 @@ And probably because you're aware of how you can come off. That said, like, I do
 
 Um, And then on the, I tried to catch you off guard to ask for a time. When you went into the answer about a situation, I thought you gave a lot of context before getting to the point. The point was not really, like you gave a lot of context about the OKRs and this. And really the gist of the story is somebody asked you how something was going and you said something very, All the stuff about hitting these other OKRs, it's really part of the story. And so I would understand in your stories what is actually the point of this story and just get to that. And this is a really common mistake. A lot of people give too much context.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:41)
 
 Today's episode is Connect your front end directly to your Gibson built database or drop the API specs into Cursor, V0, or Bolt to build a full stack application seamlessly. From idea stage to millions of users, Gibson scales with you. Gibson optimizes your database as you grow and enables easy schema updates and migrations. So head over to gibsonai.com slash Akash. That's G-I-B-S-O-N-A-I dot com slash A-A-K-A-S-H to sign up for free and experience the future of automated data modeling. Awesome. I think a lot of people can benefit from that. And hopefully you all practice more than I did. I did those off the cuff. So what are the other behavioral interview questions people should be preparing for?

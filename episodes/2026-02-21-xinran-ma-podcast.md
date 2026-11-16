@@ -28,6 +28,7 @@ Shinran is using Google AI Studio and Stitch to create full-fledged prototypes t
 
 I can make it very refined or YOLO, which is going crazy. You know, everyone can rely on AI to generate something. But again, AI is not human, right? It does not really have enough empathy. And that's why this GPT is meant for the very first prompt to AI prototyping. And you didn't use Claude for the prompt. You preferred ChatGPT for the prompt. I like to shift it to ChatGPT in order to save tokens for Claude. There are also other tools like subframe, magic patterns, but they are more specific. I know many people are always facing the blank canvas question. I wanted to design something out of AI, but I'm not really clear about what I wanted to design for.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:57)
 
 Wait, show me what that really means. Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashji.com. And now into today's episode. Jinron, welcome to the podcast.
@@ -101,6 +102,7 @@ And maybe you have an existing website that you can take snapshots from, or you 
 
 Today's episode is brought to you by Naya One. In tech buying, speed is survival. How fast you can get a product in front of customers decides if you will win. If it takes you nine months to buy one piece of tech, you're dead in the water. Right now, financial services are under pressure to get AI live. But in a regulated industry, the roadblocks are real. Naya One changes that. Their air-gapped, cloud-agnostic sandbox lets you find, test, and validate new AI tools much faster. From months to weeks. From stuck to shipped. If you're ready to accelerate AI adoption, check out NayaOne at nayaone.com slash akash. That's N-A-Y-A-O-N-E dot com slash A-A-K-A-S-H. Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:25)
 
 Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. showing you when agents work how they help you grow and when to prioritize on your roadmap pendo agent analytics is the only solution built to do this for product teams start measuring your ai's performance with agent analytics at pendo.io akash that's p-e-n-d-o dot i-o slash a-a-k-a-s-h How many designers are using the Figma Make to Figma workflow?
@@ -629,6 +631,7 @@ It's not like design and PM are suddenly going to get replaced overnight. It's t
 
 Thank you. Thank you for having me.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:01:00)
 
 I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

@@ -40,6 +40,7 @@ I come from Amazon. I used to work at Amazon, so we are used to writing like 20-
 
 We're all going to live in a multi-model, multi-harness world. That's essentially the new bar for UX for the kind of products we build. A lot of these things don't get magically better with AI.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:08)
 
 Where does the line of product manager end and developer begin? Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plan. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. Charles, so I'm fascinated by how you guys work and how you guys have been using AI. What have been some of the big unlocks for your team in productivity?
@@ -472,10 +473,12 @@ I like how measured you guys were in selling the benefits of all of this, where 
 
 Thank you for having us.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:57:52)
 
 I hope you guys enjoyed that episode as much as I did. They have been kind enough to literally open source the tools, the repo, the orchestrator, how they built this. So check the link in description below if you want to get your hands on how to get their I hope you learned as much from today's episode If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we will put on the best shows we possibly can.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:58:53)
 
 Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episode soon.

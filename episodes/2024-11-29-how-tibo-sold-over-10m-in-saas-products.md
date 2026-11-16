@@ -62,6 +62,7 @@ Got it. So you two, I believe together, shipped 11 products every week. And then
 
 It also connects your product data to your CRM so you can get a full view of your customers in one place. So you can engage with the right message at the right time. What makes June different is that it's made for B2B SaaS. It comes with account level analyses, fast ways to look up your customers, and CRM integrations to share this information between your product, your success, and sales teams. and one line of code is all you need, and you're good to go. Sign up for a free trial today at june.so slash akash. That's j-u-n-e dot s-o slash a-a-k-a-s-h. You get a discount if you use my link. This episode is brought to you by Dovetail, the AI first customer insights hub for all teams. Dovetail has always been the go-to tool for teams that want to find insights in customer calls, user interviews or documents.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:07)
 
 Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform channels, or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. Dovetail.com.

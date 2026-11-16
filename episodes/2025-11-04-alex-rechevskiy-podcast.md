@@ -442,6 +442,7 @@ Now, you've already done a lot of this when you did your initial work that we ta
 
 This episode is brought to you by Linear. You know what's broken about product development right now? It's not the coding. We've got AI agents for that. It's everything else. The planning, the feedback synthesis, the endless context switching between tools. You're drowning in PM busy work while the actual product work suffers. Linear started as that issue tracker that engineers actually want to use, which let's be honest is pretty rare, but it's evolved into something way more powerful. Your entire product development hub. Their new AI features are a game changer for PMs. Product intelligence automatically surfaces insights from customer feedback and support tickets. No more manually combing through hundreds of reports and tickets. And their AI agents will help draft PRDs, scope projects, and handle all those status updates nobody wants to take care of. Product teams from OpenAI to Vercel use linear to build complex products at speed.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:55:44)
 
 There's a reason they call it magical. See for yourself at linear.app slash akash. That's L-I-N-E-A-R-A-P-P slash

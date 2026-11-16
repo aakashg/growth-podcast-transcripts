@@ -87,6 +87,7 @@ This episode is brought to you by Explo, a game changer for customer facing anal
 
 Build and embed a fully white-labeled analytics experience in days. Try it free at explo.co. That's E-X-P-L-O dot C-O. This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Adio makes that a reality. As I've profiled in the product growth newsletter, setting up Adio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to attio.com slash product growth and you'll get 15% off your first year.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:29)
 
 That's attio.com slash product growth.
@@ -270,6 +271,7 @@ But over multiple years, the roadmaps remain the same because some of the big id
 
 This episode is brought to you by Interpret. Interpret unifies all your customer interactions, from Gong calls to Zendesk tickets to Twitter threads and App Store reviews, making them available for comprehensive analysis. As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com slash product growth. That's E-N-T-E-R-P-R-E-T dot com slash product growth. Okay. And how do you know after six months that the strategy is good or not?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:37:34)
 
 So

@@ -315,6 +315,7 @@ Yeah. Well, it sounds like you're a lot closer to that than I am. I, and I read,
 
 Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course. It's eight weeks of live cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping, and this is your chance to learn how. Run along with product faculty and Mo Ali, the course has a 4.9 rating with 133 reviews. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's maven.com slash p-r-o-d-u-c-t dash f-a-c-u-l-t-y. So I want to shift gears a little bit. We've been talking a lot about the past, present, and future of Zoom. I want to know how people can use Zoom well.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:08)
 
 Can you walk us through some of the features people might not be using on Zoom but should?

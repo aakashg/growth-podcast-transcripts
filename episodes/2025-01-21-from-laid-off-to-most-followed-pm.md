@@ -98,6 +98,7 @@ And I feel like that's the best timing because you did just get laid off. It fee
 
 The best part? Your end user can use Explo's AI features for their own report and dashboard generation, eliminating customer data requests for your support team. Build and embed a fully white-labeled analytics experience in days. Try it free at explo.co.akash. That's E-X-P-L-O dot C-O slash A-A-K-A-S-H. This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Adio makes that a reality. As I've profiled in the product growth newsletter, setting up Adio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:30)
 
 Join industry leaders like Eleven Labs, Replicate, and Modal. Head to attio.com slash product growth and you'll get 15% off your first year. That's attio.com slash product growth.

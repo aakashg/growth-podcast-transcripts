@@ -44,10 +44,12 @@ How has AI changed what VMs need to be able to do?
 
 I think it's now possible to actually have real back and forth conversations with thousands or even hundreds of thousands of customers every month in a way that would previously require an army of researchers, an army of support reps.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:52)
 
 You cooked it up in just 30 minutes. This is something I haven't seen somebody build before. What is the groundedness? What is the true data source? Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. Engineering is getting faster with AI. Is product management really getting faster? One of the ways I would argue it is, is by helping you talk to more and more of your customers. Now, of course, you've been using Claude to help you synthesize transcripts, but have you been using it to drive automated, proactive research with every single one of your customers?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:04)
 
 How might you actually do so? If you really want to get to that next level of customer research with AI, today's episode is for you. Greg, welcome to the podcast.
@@ -436,10 +438,12 @@ All right, guys. Greg Greiner is the name. LinkedIn is where you can find him on
 
 Of course. Thanks you're having me.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:57:33)
 
 All right guys, if you want more content like this, do comment below who you want to see on the show next, what topics you want to cover next. Should we have more on AI research and discovery or do you want execution and coding? Just let me know and I'll see you in the next episode. I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we We'll put on the best shows we possibly can.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:58:18)
 
 Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episodes.

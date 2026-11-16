@@ -36,10 +36,12 @@ Google isn't going to allow you to just give your company access to an open claw
 
 agree. I think the idea is...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:33)
 
 where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, DeepSky, ReforgeBuild, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. PMs are now being asked to push PRs. PMs are being asked to code. This is the rise of the builder PM. But what is a builder PM? Today I have Mahesh Yadav who's been a PM everywhere. Microsoft, Amazon, Meta. He has seen everything. Last but not least, Google. So he has seen all the top AI companies. He has been an AI PM for a long time and now he's training AI PMs. And today he's gonna help you understand How do I become a builder PM? How do I use N8N? How do I use Cloud Code? How do I use OpenClaw in order to become a more effective and efficient PM, even if I'm not building AI features?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:32)
 
 Mahesh, everybody loved our last episode. Thanks for coming back.
@@ -141,6 +143,7 @@ answer let's see what happens i asked this question and It says, hey, my knowled
 
 If you've been enjoying this episode today, Mahesh's classic whiteboard style, his awesome labs and demos, then you will love Mahesh's cohort based course. It has amongst the highest reviews on Maven and I challenge you to go check this yourself. His courses are always rated 4849. That's because of the 13 years in Big Tech at Microsoft Google, Amazon Meta. He's actually built the things. He's not just talking about it. And his course, everybody I know, my mentees who have taken this course have had a positive opinion of it because it is so interactive. You get the first principles that you're sensing from the podcast today. The coolest thing about his new course, building open clause and with Claude code is that you get a Mac mini. So take advantage, use the discount code that i have below in the description so you get a discount on his course get your mac mini better yet get your company to pay for it he's gonna teach you not just how to become a builder pm but he's gonna be in the trenches with you as he said he will even give you ai pm interview advice so it's all in one course to becoming an ai builder pm check that out on the link just below and back to today's episode Today's episode is brought to you by Amplitude.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:56)
 
 Replays of mobile user engagement are critical to building better products and experiences, but many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. Neither approach gives you a truly mobile experience. Amplitude does things differently. Their mobile replays capture the full experience, every tap, every scroll, and every gesture, with no lag and no performance hit. It's the most accurate way to understand mobile behavior. See the full
@@ -726,6 +729,7 @@ What a way to end it. Mahesh, this is amazing. Your last episode, it was crazy. 
 
 Oh, Akash, thanks a lot. I hope you
 
+<!-- sponsor -->
 **Aakash Gupta** (01:35:55)
 
 enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithms and distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com. to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed.

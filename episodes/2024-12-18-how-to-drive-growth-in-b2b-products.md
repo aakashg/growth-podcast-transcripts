@@ -120,6 +120,7 @@ building a product and distributing that product, a product that solves a meanin
 
 So are you saying that you could have no self-serve motion, no freemium free trial and still? Yeah, I think so. Again,
 
+<!-- sponsor -->
 **Aakash Gupta** (00:17:08)
 
 it goes back to that exact same situation about, um, retention, right? Are you going to be product led through the lens of, of retention? And if you take it that way, then absolutely. You can start to look at the opportunities to monetize on the back of that. Of course, you know, again, when people think about product led sales, the immediate thing they think about is some kind of free trial, some kind of freemium and harvesting those new users, those trial users, those free users to generate new customers. There's a huge part of product led sales that is looking at the existing customer base, looking at their patterns of usage, looking at expansion opportunities and monetizing there. There's zero on the front end, but that's still product led sales.
@@ -192,14 +193,17 @@ Instead of reaching out to someone and it being a kind of more cold conversation
 
 What I've led, like as a VP of product in a product-led sales company, what I found is that the biggest difference for the product people is how much more of a say your sales team wants in your pricing and packaging. What's in your free tier? What's in your pro tier? What's in your enterprise tier? Seems like they have like a hundred times as much feedback. How can product people kind of work well with sales to evolve pricing and packaging if they're doing product-led sales?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:03)
 
 The first thing to do when you're rolling out product at sales is to start small. Okay. So you, you're definitely going to get kind of pushback and folks wanting to dive in and, and interfere with things. Hopefully, you know, I think that they're doing this with good intent, but you're going to get that unless you have started small, proven out a model that is effective and working and then started to scale it. And so what I always recommend is folks start with a tiger team that generally involves someone from product slash growth, someone from RevOps, someone in data and someone on the sales side, because what you're going to need to do is, is build that system whereby, you know, you are, you are confident that you're collecting the right data, the right signals. You're confident that your interpretation of those signals is sound in terms of those being, uh, signals that are predictive of longer term retention.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:09)
 
 And of course, monetization pretend propensity to buy, uh, And that you are treating and dealing with that data and those signals at the right time, not jumping in too soon, at the right time where you are optimizing the likelihood of a conversion. And where you are... applying the right playbooks that have the highest chance of taking that opportunity through to a successful close. And that's just much easier to do when you're working in a small team within a small area. When I say a small area, I'm typically meaning talking about like one playbook, focusing on, for example, Free trial to new paid conversion or existing customer expansion would be another one or churn prevention, whatever, whatever the main focus as a, as a company, as a strategic priority is for you starting there, building that core competency. And then fleshing it out. And it typically takes a lot longer than product teams think about.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:13)
 
 You can start very quickly, but to get confidence in a model, generally I've seen it taking kind of six months upwards to really get that iteration in place, that process, the playbooks, the right data and so on. And then start to think about kind of expanding it. And if you take that approach, I think generally that the rollouts generally go a lot better, a lot smoother than otherwise.

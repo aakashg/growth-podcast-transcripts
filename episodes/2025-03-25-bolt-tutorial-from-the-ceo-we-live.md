@@ -69,6 +69,7 @@ Okay. Love it. Um, okay. So basically, uh, okay. So maybe not as not beautiful. 
 
 Today's episode is brought to To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now. Today's episode is brought to you by Gibson AI, the future of backend development. Imagine designing, deploying and scaling your database as effortlessly as having a conversation. With Gibson AI, that's now a reality. Gibson AI is your AI-powered database engineer. In just minutes, you can chat with Gibson to create production-grade data models, deploy them on Gibson's cloud infrastructure and instantly generate secure REST APIs. Connect your front end directly to your Gibson built database or drop the API specs into Cursor, V0, or Bolt to build a full stack application seamlessly. From idea stage to millions of users, Gibson scales with you. Gibson optimizes your database as you grow and enables easy schema updates and migrations.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:56)
 
 So head over to gibsonai.com slash Akash.

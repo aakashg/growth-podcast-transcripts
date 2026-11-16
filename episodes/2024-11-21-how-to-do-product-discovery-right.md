@@ -58,6 +58,7 @@ Okay, so basically what I'm hearing is all the junior tasks that PMs, designers,
 
 So you can engage with the right message at the right time. What makes June different is that it's made for B2B SaaS. It comes with account-level analyses, fast ways to look up your customers, and CRM integrations to share this information between your product, your success, and sales teams. and one line of code is all you need, and you're good to go. Sign up for a free trial today at june.so slash akash. That's j-u-n-e dot s-o slash a-a-k-a-s-h. You get a discount if you use my link. This episode is brought to you by Sprigg. What if product teams knew exactly what to build to reach their goals? From increasing conversion to boosting engagement, these challenges require a deep understanding of your users, something we can't get from product analytics alone. Meet Sprigg, a product experience platform that generates AI-powered opportunities to continuously improve your product at scale.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:00)
 
 First, Sprigg captures your product experience in real-time through heat maps, replays, surveys, and feedback studies. Then, Sprigg's industry-leading AI instantly analyzes all of your product experience data to generate real-time insights. Sprigg AI goes even further with actionable product recommendations to drive revenue, retention, and user satisfaction. Join product teams at Figma and Notion by uncovering AI-powered product opportunities at scale. Visit sprig.com slash product growth podcast to book a demo and get a $75 gift card.
@@ -479,6 +480,7 @@ Like, for example, to import the data from Gyra to Excel or from Notion to some 
 
 This episode is brought to you by Dovetail, the AI first customer insights hub for all teams. Dovetail has always been the go to tool for teams that want to find insights and customer calls, user interviews or documents. Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform channels. Or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. You've built AI in two. all of your workflows to be more efficient. And I think that's the key here is your average PM, if you go look at Reddit, they're all burned out.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:20:59)
 
 But I think it's probably because they're not using these AI tools enough. They're not creating these custom scripts that they have. They're not leveraging the tools or they're getting sucked into delivery. It sounds like those are the two sort of big things you do in order to manage your time.

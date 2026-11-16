@@ -48,10 +48,12 @@ So what's the roadmap to become a product builder?
 
 Let me give you the step-by-step that just worked for my students to let XR1AI. Step one is...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:08)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. Maybe my most popular podcast guest ever is Ankit Shukla, former senior product manager turned founder of Hello PM. And he messaged me with this new trend. After studying tons of job postings, he's found that there is a new role out there, the product builder. I, for one, am a little bit skeptical. It might be hype. It might not be real. So we're going to go through with Ankit today. Is this a real role? How much does this role pay?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:08)
 
 Who can become this role? He's going to give you the real case studies that have worked for his students to land this role at companies like Meta, Amazon, Google, Even Sarvam AI, one of the leading AI companies in India. And we're not just going to cover how you can land this product builder role. We're going to cover the fundamentals of being a product builder. We're going to go through the power framework to think through how to build things. And we're going to go through a real case study of building a product. So this is an action packed episode. Not a single minute is wasted. And with that, let's get right into it. Ankit, thanks for being back on the podcast.
@@ -508,10 +510,12 @@ If people enjoyed this video, where should they find you online for more?
 
 So two things, you can either go ahead and find me on LinkedIn, you can just search for Ankit Chukla, I'm sure you'll be able to find me. You can also go to our YouTube channel, we have a lot of available like free content available to you that you'll seldom get into the paid courses out there. And the third part is that we are also, we have recently launched our full-fledged Gen AI program for the busy professionals. This is particularly for people who do not have a lot of time to learn about Gen AI and still they want to go ahead and leverage that in order to stay relevant, in order to get ahead in their career. That's a sweet, very advanced, Thank you, Akash. Take care.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:06:54)
 
 I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we We'll put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:07:41)
 
 That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episodes.

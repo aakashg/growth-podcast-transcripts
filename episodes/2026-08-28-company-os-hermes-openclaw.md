@@ -28,10 +28,12 @@ and GPM
 
 We've built everything, our entire stack on top of OpenClaw and Hermes agentic scaffolding. I use this knowledge graph to understand how well teams are doing with customer discovery and how well they are connected to the entire organization. What's gonna happen to my job? What actually will happen is that teams will be smaller, leaner, and faster. Not only it's gonna change, the lines are gonna blur.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:55)
 
 What's gonna happen to the future? Is product management going to exist in the future? I have good news for you, I think. Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise and Mobbin. And now into today's show. I know you guys are overwhelmed with guides on Hermes and OpenClaw and Clodcode and ChatGPT. It seems like there are a million AI tools out there. And more and more of you are reporting to me that you're not even feeling more productive. And Mikael is one of those people. What he has built... At OLX Classifieds is an entire operating system.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:10)
 
 If you've been hearing about buzzwords like OpenClaw and Hermes and saying there's no value for PMs, this episode is the one that will change your mind. He has got his entire team hooked Aakashgupta.com
@@ -78,6 +80,7 @@ Here's a quick word from our sponsors. I need to say something that most AI codi
 
 That's the difference between an AI tool and an AI platform. Check it out at bolt.new slash akash. I used to think I had a retention problem. Turns out I had a messaging problem. I was sending the same onboarding emails to every new user, whether they activated on day one or never logged in again. I had no idea who was slipping or why. Customer.io changed that. Every message I send is now based on What users actually do in the product? Someone hits a key activation moment, they get nudged to the next one. Someone goes quiet, they get a different path entirely. Their AI agent makes it fast. I describe the campaign I want and it builds the full journey form. Triggers, timing, copy, even And when I want to know how something is performing, I just ask the agent directly and it tells me what to do next.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:35)
 
 They also have an MCP server, which means AI tools like Claude can see directly what's happening in your customer data workspace. Your segments, your customer data, So instead of explaining your business context every time you need help, Claude already knows it. Notion used customer.io to personalize their onboarding and hit nearly 50% open rate. Improved conversion by 6-7% with localized candidates. The idea is simple. Customer.io helps you deliver more impact from every message you send. If you're a PM or founder and your onboarding is still one size fits all, try Customer.io at Customer.io.
@@ -200,10 +203,12 @@ Is there anything in this video you should be trying on your own? If there is, t
 
 5,000 plus students have graduated and they have 1,000 plus reviews. Use code AKASH550 to get $550 off your enrollment. I used to live in Report Purgatory. Every team had a different number. Every weekly review started with someone reconciling spreadsheets. We stopped hiring more analysts and gave the reconciliation to an AI employee instead. Victor is an AI employee that lives on Slack and Microsoft Teams. It connects to 3000 plus tools your team already uses, ships real deliverables, and every action goes through your team for approval first. It's the closest thing I've seen to a small team running like a much larger one. Let me share three things that First, AskVictor has replaced our Monday Metrics scramble. Someone types, flag any customer, whose usage dropped 40% week over week, and draft an outreach loom for the account owner to approve. 90 seconds later, the next step is ready.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:03)
 
 Second, scheduled tasks run the work that nobody wants to remember. Every morning, Victor checks overnight support tickets, drafts replies for the on-call to approve, and escalates anything mentioning churn. Nobody had to ask for it. Finally, Spaces ship internal tools in minutes. Ask for a renewals dashboard, Victor builds it, with authentic database, and post the link to your channel. The team can stop opening four tabs to get the same view. So stop chatting with AI and start working with it. Get started at victor.com. There's $100 in free credits with no card required at viktor.com slash akashgupta3. You can find that link in the description. I want to take a second to talk to you about Three months where you're going to have intense sessions, a Monday morning session where I go over your resume, behavioral interviews, LinkedIn. On top of that, Bart Jaworski is going to be teaching you the PM fundamentals in 2026, how to write AI PRDs, how to AI prototype with Google.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:12)
 
 All of the key skills you need to freshen up your knowledge for this market. And Ankit Vermani is going to be teaching you AI product management. He is an AI product manager at Uber, and he is going to teach you how to build AI features that actually work successfully. On top of that, Prasad Reddy is going to be doing one-on-ones with you for market reviews, LinkedIn review, candidate market fit review. So it is a full package. It is three courses in one for one low fee. So join at landpmjob.com. Wow. And Hermes and OpenClaw on their own can figure out how to get into which meeting and which meetings are relevant context and they won't just fill up their context window with random meetings.
@@ -524,10 +529,12 @@ I highly recommend Corporate Waters. If you guys didn't know, Mikael and I did a
 
 It was a pleasure, Akash. Thank you for having me.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:04:56)
 
 The biggest thing is that Mikael agreed to open source the information that he used to build all of this. So go check the link in the description for the GitHub repo on his profile. You can fork that and you can begin building this company I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts, check that you've left ratings We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. What we can do to make it even better, who else we should interview, and we will put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up News.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:05:57)
 
 Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you. And I can't wait to share our next episode soon.

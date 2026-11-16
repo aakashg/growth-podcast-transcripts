@@ -173,6 +173,7 @@ Nice.
 
 I hope you've been enjoying this tutorial on Cloud Code. This episode is brought to you by Linear. And if you love coding AI agents, you will love Linear. because you can actually use linear to call your coding agents. So in your task management software linear, you can create beautiful tasks, then you can call coding agents like CodeGen and linear to actually execute on those tasks. This is a magical way of working. If you've been watching the podcast, you've heard from numerous startup founders about how the linear method for building products has revolutionized how the way they work. because they go away from enterprise software that's very complex to startup software that's really fast. It's no wonder Cursor, OpenAI, and Perplexity are using Linear. So visit Linear.app slash partners slash Akash. That's Linear.app slash partners slash A-A-K-A-S-H. And take advantage of this revolutionary new way of working.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:14:28)
 
 Now, back to your Cloud Code tutorial.
@@ -630,6 +631,7 @@ Yeah, so... In this case, okay, well, we're gonna... Usually helpful, give me on
 
 This episode is brought to you by Linear. You know what's broken about product development right now? It's not the coding. We've got AI helping with that. It's everything else. The planning, the feedback synthesis, the endless context switching between tools. You're drowning in PM busywork while the actual product work suffers. Linear started as that issue tracker engineers actually wanted to use, which, let's be honest, is pretty rare. But it's evolved into something way more powerful, your entire product development hub. Their new AI features are a game changer for product managers. Product intelligence automatically surfaces insights from customer feedback and support tickets. No more manually combing through hundreds of reports. And their AI agents help draft PRDs, scope projects, and handle all those status updates nobody wants to write. Product teams from OpenAI to Vercel use Linear to build complex products at speed. There's a reason they call it magical.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:59:00)
 
 So visit Linear.app slash partners slash Akash. That's Linear.app slash partners slash AAKASH.

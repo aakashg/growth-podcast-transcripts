@@ -36,10 +36,12 @@ So then you haven't really made a strategic choice.
 
 Yeah, but that's the thing. One of my favorite things that I look at to pressure test whatever people put in front of me is this quote from Roger Martin. And honestly, this quote, it's one of those light bulb moments that whoever I'm showing it to, you will never look at strategy the same. So here's this great quote where he says,
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:17)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic [music] of Builder PMs and Cloud Code, everybody is focused on how do you build AI. But for my money, a much more effective use of a product manager's time than trying to become an engineer is to actually influence the strategy, to make leaps on what problems we should be solving, how those impact the business, how we do things at the edge of what's technologically possible. And all of that comes back to building a great strategy. That's why I've brought in my friend for over five years, Tim Herbig.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:22)
 
 I've been following his work in product practice on LinkedIn, and he has consistently been putting out the most thoughtful stuff on how you actually do product strategy in the age of AI. So today we are giving you a masterclass filled with anecdotes from his real work with real PMs. So that you can do better with your strategy work. This is one of those areas we keep hearing about. PMs don't focus too much on execution, focus on strategy. But how do you concretely do that? Today we're going to walk you through everything you need to know. And if you stay to the end, you'll learn how you can get one of five free copies of Tim's book that I'm giving away. Tim, thanks for being
@@ -560,6 +562,7 @@ Step number one. You have to subscribe to my YouTube channel and you have to com
 
 Thank you so much for having me. It was a real pleasure. See you guys in the next episode. [music]
 
+<!-- sponsor -->
 **Aakash Gupta** (01:11:20)
 
 Leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we We'll put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episodes. [music]

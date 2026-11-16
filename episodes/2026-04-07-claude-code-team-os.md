@@ -60,6 +60,7 @@ You said Claude Code is the most misleading name in AI. Why?
 
 Because it's not just for...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:14)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle. where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, MagicPatterns, DeepSky, ReforgeBuild, Descript, and Speechify. So be sure to check that out at bundle.akashi.com. And now into today's episode. Hannah,
@@ -153,6 +154,7 @@ Claude would not be able to go and quickly and easily synthesize, you know, 50 t
 
 Here's the dirty secret about prototyping. You spend two weeks building a prototype. You validate your assumptions. Engineering loves the direction. Then what happens? You throw the whole thing away. Bolt changes this completely. When you prototype in Bolt, you're not building throwaway mockup. You're building real front-end code that integrates with your existing design system. So when you hand it to engineering, they don't throw it away. They ship on top of what you've built. I use Bolt every single day. I host my land PM job cohort on it. And honestly, I'm up till 2am some days just vibing in the tool, having fun, and building. That's when you know a product is good. When you're using it past midnight, not because you need to, but because you want to. Check out Bold at bold.new slash akash. That's b-o-l-t dot n-e-w slash a-a-k-a-s-h. Link in the show notes. Today's episode is brought to you by Jira Product Discovery.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:24)
 
 If you're like most product managers, you're probably in Jira, tracking tickets and managing the backlog. But what about everything that happens before delivery? Jira product discovery helps you move your discovery, prioritization, and even road mapping work out of spreadsheets and into a purpose-built tool designed for product teams. Capture insights, prioritize what matters, and create roadmaps you can easily tailor for any audience. And because it's built to work with Jira, everything stays connected from idea to delivery. Used by product teams at Canva, Deliveroo, and even The Economist. Check out why and try it for free today at Atlassian.com slash product dash discovery. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. So adding some more files in the form of summaries is actually going to help it collect the relevant information faster.
@@ -342,10 +344,12 @@ So the 60-second summary is all of your work should be on a branch. And the proc
 
 Today's episode is brought to you by the experimentation platform Chameleon. Nine out of 10 companies that see themselves as industry leaders and expect to grow this year say experimentation is critical to their business, but most companies still fail at it. Why? requirements require too much developer involvement. Chameleon handles experimentation differently. It enables product and growth teams to create and test prototypes in minutes with prompt based experimentation. You describe what you want. Chameleon builds a variation lets you target a cohort of users, choose KPIs, and runs the experiment for you. Prompt-based experimentation makes what used to take days of developer time turn into minutes. Try prompt-based experimentation on your own web apps. Visit chameleon.com slash prompt Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences, but Many session replay tools don't capture the full picture.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:30)
 
 Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. Amplitude does things differently. Their mobile replays capture the full experience, every tap, every scroll, and every gesture, with no lag and no performance hit. It's the most accurate way to understand mobile behavior. See the full screen. I hope you're enjoying today's episode. by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy. So check out our newsletter articles if you want to see the quality of the type of thinking you'll get. One of my frequent collaborators, Pavel Hearn, is the Build Labs leader.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:35)
 
 So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate. So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode. Awesome. That covers the main elements of the repo. I want to talk a little bit about creating high quality documents. How does someone use this repo to create a 10X PRD or product strategy document?
@@ -674,6 +678,7 @@ This has been a masterclass I have done, I think it's seven or eight cloud code 
 
 They should go read my Substack, which is called In the Weeds. You can find it at hannastolberg.substack.com. Awesome.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:09:37)
 
 I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify, and commented on YouTube, all these things will help the algorithm distribute the show to more and more Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

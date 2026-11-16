@@ -53,10 +53,12 @@ What the reason why that works is and these instructors are getting 80 to 90 per
 
 Today's episode is brought to you by June, the customer analytics for product-focused teams. Are you not sure what users do in your SaaS? What features they use the most? Do you wish that you could know what each company does and use this information to generate incremental lift in revenue? June is the product analytics platform you need. It generates profiles for each of your customers that get you closer to your most important ones. It also connects your product data to your CRM so you can get a full view of your customers in one place. So you can engage with the right message at the right time. What makes June different is that it's made for B2B SaaS. It comes with account level analyses, fast ways to look up your customers, and CRM integrations to share this information between your product, your success, and sales teams. and one line of code is all you need and you're good to go.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:04:57)
 
 Sign up for a free trial today at june.so slash akash. That's j-u-n-e dot s-o slash a-a-k-a-s-h. You get a discount if you use my link. The future of marketing is word of mouth. Turn your users and partners into your most valuable growth channel with podcast partner Cello. Cello is the only all-in-one solution to engage your most passionate users and partners to refer your product with just a few clicks. Best of all, Cello is directly embedded into your product and handles everything from referral payments to tax and compliance. and it runs on autopilot so you can focus on scaling and building your own product. Here's how it works. First, within just a few hours, Cello integrates with your product and existing tools to automate all manual work. In your dashboard, you can then set up your referral campaign, define the reward details and make the referral experience your own.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:59)
 
 After the program goes live, Cello continuously analyzes and scales its performance based on AI-generated recommendations. Plus, you only pay if you're successful. Go give it a try for free and learn more about user-led growth at cello.so slash
@@ -342,6 +344,7 @@ And so the designers are also in that meeting. And so this meeting happens every
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the product growth newsletter, setting up Addio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. Cool. And what's the rest of your product stack?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:50:58)
 
 So we heard about Loom, we heard about Figma and Slack. Those seem like three of the kind of key platforms. Are you guys using Notion, Linear? Are you guys using a tool like Sprig or Amplitude or what is the rest of your stack?

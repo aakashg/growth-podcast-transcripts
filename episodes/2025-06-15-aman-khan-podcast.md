@@ -137,6 +137,7 @@ So it's going to go ahead and create a new directory for me. So it didn't even m
 
 Today's episode is brought to you by Miro. Let me ask you something. How many tools are you juggling just to get a single project across the finish line? One for brainstorming, another for planning, something else for tracking tickets. That's where Miro comes in. It becomes an all-in-one collaboration workspace. Whether you're consolidating user research from several interviews, developing and synthesizing product briefs or a wireframe, or project managing development. Miro brings everyone into the same space. It's fast, intuitive, and fully loaded with features like project templates, two-way Jira Sync, and integration with software like Draw.io and PlantUML. Miro's AI features can be used to synthesize elements in a board to develop a ready-to-review product requirements document in seconds. If you're tired of tab overload and scattered workflows, try Miro. We'll be right back. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:27)
 
 That chain of thought reasoning is really useful too. It seems like that's one of the important steps for people is to actually understand a little bit of what's going on and not just ignore that, but start learning. And as you do that 10, 20 times, then you really get used to it.
@@ -350,6 +351,7 @@ And it will read the terminal lines and understand what's going on and try and i
 
 Yep. Today's episode is brought to you by Maven. If you're enjoying this episode with Aman, you'll love his course on Maven, today's podcast sponsor. The problem with most courses online like Udemy is there's no live component and the instructors aren't experts in their fields, they're professors. At Maven, you get direct live access to experts and operators from the world's best tech companies. You can't get that access anywhere else, in any university, and you usually can't find them on YouTube either. I featured so many of Maven's experts in the newsletter and podcast for that reason. To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H. Today's episode is brought to you by Amplitude.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:42)
 
 Replays of mobile user engagement are critical to building better products and experiences, but many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understandings. And also setting aside enough time to just persevere. Definitely, yeah.

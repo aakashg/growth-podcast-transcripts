@@ -57,6 +57,7 @@ I've spent a lot of time in the trenches. I've spent a lot of time on execution.
 
 This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute, and within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data including things like relationship strength. addio lets you build zapier style automations create powerful reports and works for any go-to-market motion from plg to sales led addio is designed for the next era of companies like yours and companies like yours shouldn't have to deal with inflexible one-size-fits-all crms join industry leaders like 11 labs replicate and modal head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. I'm excited to chat with Andrew Liu, the founder of One Schema.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:29)
 
 Hey, Andrew. Yes, thank you for having me on, Akash. So One Schema recently made an appearance in the newsletter. At that time, I got to know that you work with some pretty amazing customers like Ramp, Vanta, Scale, and Watershed. What's the latest with One Schema? What are you really proud of having shipped recently?

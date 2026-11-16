@@ -64,6 +64,7 @@ So everything you do in order to become the opposite of these five criteria make
 
 It just doesn't exist. It would be super irrational to have a team that is really just overperforming all over the time. Every team, like every human as well, has ups and downs and ups and downs, right? And I think this is something that you need to keep in mind that if you're speaking about high performing teams, it's not a constant thing. It is something that potentially a team shows more often than others. So they tend to be more high performing than others on average over a period of time.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:15)
 
 Is your product team having trouble in capturing the true voice of customers? That's because user feedback is scattered across channels, making it nearly impossible to catch crucial conversations. It's time you're able to centralize your voice of customer from everything like your CRM, customer portals, call recordings, or even public reviews. That's where Zeta.io comes in, our podcast partner today. With Zetas AI, you can plug your customer conversations in and it will allow you to easily slice and dice these into actionable insights for your key product areas so that you can do more to improve NPS scores, analyze features, identify new features, or perhaps understand why you lost a few deals. This paves the way for planning the right features and channeling your efforts into actually planning and building your roadmap to finally close that loop 10 times faster. Product managers around the world use zeta.io and use it to really improve their product discovery.
@@ -73,6 +74,7 @@ Is your product team having trouble in capturing the true voice of customers? Th
 
 It's plug and play in just minutes. So visit zeta.io slash LPS slash Akash Gupta to get an extra 10% off. This episode is brought to you by Interpret. Interpret unifies all your customer interactions, from gong calls to Zendesk tickets to Twitter threads and app store reviews, making them available for comprehensive analysis. As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their Wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com product growth.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:30)
 
 That's E-N-T-E-R-P-R-E-T dot com slash product growth. So what's noticeably absent from that definition is product managers are empowered, your roadmap is now next to later, that you're doing discovery on every feature, that you don't build features based on stakeholder requests. You didn't define kind of what most people put in the bucket of high performing product teams. So why aren't those elements of the definition?

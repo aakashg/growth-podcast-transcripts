@@ -36,10 +36,12 @@ Pavel Hearn is the number one AIPM voice in Europe with over 200,000 LinkedIn fo
 
 working projects or folders. So what you can see here, most people stay in chat forever. That's like using Photoshop only to crop photos. And today we are going to discuss chat, which is part of the cloud desktop, but also co-work, cloud code, dispatch, which allows you to control remote sessions for co-work and code, web sessions, and how to use them all to 10x your productivity.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:18)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. So Pavel is the guest behind our most popular episode ever with over 65,000 views when he gave an impromptu complete course on AI product management. He did the NAN video which absolutely crushed with over 10,000 views. Before that he did a discovery masterclass. Today he is back for a record fourth time. to help you understand how to get the most out of your Cloud Enterprise subscription.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:17)
 
 When to use Cloud on the web, when to use Cloud Cowork, when to use Cloud Code, when to use Cloud Dispatch, Pavel has tried all of the combinations of PM task versus tool and he is going to break down when you should use which tool for what and he is going to break down how you can create a self-improving system that builds upon itself so that every time you do something the system gets better at doing that task. Pavel, welcome back to the podcast. Hi, Akash. Thanks for having me. I love getting your newsletter in my inbox one of the most interesting things you've been writing about recently is how Anthropica has gone from a billion to 30 billion in 16 months on the back of this insane shipping velocity
@@ -80,10 +82,12 @@ grammatically correct or something
 
 both most of the time when starting a session you don't know what exactly you will need and when you start a session in chat there are certain restrictions that you will face sooner or later, like you cannot continue. So let's imagine you have started your work, you're in the middle of the work and you have to leave your desktop. You cannot continue. You can copy the entire chat history to another window and maybe start a remote session, but you cannot continue in this window where the conversations happened. You cannot continue on mobile. and there are restrictions related to what if you decide that now I want to code something. Chat cannot do that and you want to create a HTML page then export this HTML page to infographic and you need this infographic in your email. once again you need to start a different session with a different context and explain what you have been discussing with chat so for me it's easier just to start everything either in with co-work with dispatch or with cloud code and then you can easily navigate between those interfaces does it make sense Aakash?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:44)
 
 Yeah, it does. The issue wasn't the prompts or the tools, it was that I wasn't actually evaluating anything. I didn't have a way to see what my agent was actually doing step by step. Every tool call, every decision. That's where Arise comes in. Let me show you. I'm going to open ClaudeCode and install Arise with just one command. npx skills add arise ai arise skill skill yes. Now ClaudeCode already knows how to instrument my agent. I tell it set up tracing to arise and it automatically analyzes my codebase, figures out where the LLM and tool calls are, and adds instrumentation automatically. Now I can see everything, every trace, every span, every decision, and more importantly, I can evaluate it. That's the Trace what's happening, evaluate where it fails, then fix it. This trace right here, my resume feedback agent was supposed to pull the company's tech stack from the job posting, but instead it hallucinated that they use React when the posting started.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:08:59)
 
 And here's the part that blew my mind. I asked ClaudeCode to look at these traces and tell me what I should be evaluating. It came back with four eval criteria I hadn't Things like picking the right tool and staying grounded in the input. I wrote the evals, ran them, and found that my agent was making the same kind of mistake about 12% of the time. Claude pushed to fix, I re-ran the evals, and it dropped to under 2%. That whole loop, trace, evaluate, fix, took me about 20 minutes and now it runs automatically. If you're building AI products and not evaluating them, you're shipping blind. Try Arise Free at Arise.com and get a year free, a 1260 dollar value with my bundle arise check it out it's one of the top ai evals platforms used by all of the top ai teams for a reason so let's make this more concrete though most pms i talk to they're finally on like a claude pro or max or api enterprise subscription and what they really need is a very clear mapping of if this then that you've mapped all of this out for us can you show us when should a product manager be using co-work versus dispatch versus code so chat
@@ -624,6 +628,7 @@ already Pavel thank you so much for being on the pod
 
 thank you Akash it was a pleasure I hope you enjoyed that episode.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:31:46)
 
 If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify, and commented on YouTube, all these things will help the algorithm distribute the show to more and more as we distribute the show to more people we can grow the show improve the quality of the content and the production to get you better insights to stay ahead in your career finally do check out my bundle at bundle.akashg.com to get access to nine and many other amazing tools that will help you as an AI product manager or builder succeed I'll see you in the next episode

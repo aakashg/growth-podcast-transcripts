@@ -34,6 +34,7 @@ Really quickly, I think a crazy stat is that more than 50% of you listening are 
 
 This enables fast authorization checks at enormous scale while maintaining a flexible model that can be adapted to even the most complex use cases. If you're currently looking to build role-based access control or other enterprise features like single sign-on SCIM or user management, you should consider WorkOS. It's a drop-in replacement for Auth0 and supports up to 1 million monthly active users for free. Check it out at workos.com slash Akash to learn more. That's workos.com slash Akash. Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact. And turned those insights into the digital experience maturity assessment.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:03:06)
 
 In two minutes, you'll be able to see where your team stands and what you can improve to build better products faster. Click the link in the caption to take the free assessment and get a clear path to product growth.

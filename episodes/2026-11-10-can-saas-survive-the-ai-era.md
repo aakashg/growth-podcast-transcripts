@@ -36,10 +36,12 @@ We saw Airtable go from an $11 billion valuation at its peak to a $1 billion acq
 
 I think it's partially justified. Now, if you're growing 10 or 20%, you need way more time to justify the multiple. So you now see two to three X multiples for them, right? So the math itself isn't wrong.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:03)
 
 You guys are raised at a $4 billion valuation at that same time period with the 17 billion Miro, the 11 billion Airtable. So what can you tell us from the inside as an operator, how you're experiencing the SaaS multiple collapse? Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. Linda Tong is the CEO of Webflow. She is a product person at heart. She was chief product officer at Tapjoy, chief product officer at AppDynamics, led product at the NFL, and she's had a really cool Post-product career, which I think will be an inspiration for us all.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:22)
 
 At AppDynamics, after they got acquired by Cisco, she became the general manager. Then she joined Webflow as chief operating officer, promoted to president and COO, and now... She is the CEO. So she's got a really aspirational career arc. She understands product and she can speak to it intimately. And today we're going to talk about can SaaS survive the AI era? She has one of the most unique windows into that question because Webflow has been around before. And so we're going to explore all of that today. Linda, thanks for being on the pod.
@@ -484,10 +486,12 @@ Well, guys, we've covered their product strategy. We even touched a bit on their
 
 Thank you so much. This is awesome.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:05:40)
 
 I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good So let us know what we can do to make it even better, who else we should interview, and we will put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AID. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:06:35)
 
 And I can't wait to share our next episode soon. [music]

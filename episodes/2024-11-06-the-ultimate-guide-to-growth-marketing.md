@@ -69,10 +69,12 @@ Yeah, it is. I mean, generally speaking, so I mean, for a B2B SaaS company, Afte
 
 is brought to you by Interpret. Interpret unifies all your customer interactions, from gong calls to Zendesk tickets to Twitter threads and App Store reviews, making them available for comprehensive analysis. As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their Wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com slash product growth. That's E-N-T-E-R-P-R-E-T dot com slash product growth. This episode is brought to you by Dovetail, the AI-first customer insights hub for all teams.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:49)
 
 Dovetail has always been the go-to tool for teams that want to find insights in customer calls, user interviews, or documents. Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform, Channels. or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. You can even recruit from over 3 million participants directly in Dovetail. All of this is just the tip of the iceberg. Dovetail wants to give everyone in the organization instant access to their customers at any time. From roadmaps, discovery to strategy sessions and more, it's never been easier to make customer-centric decisions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:38)
 
 The good news, listeners of this podcast can try Dovetail's pro plan along with their newest products and features free for 30 days. Just go to dovetail.com slash Akash.
@@ -437,6 +439,7 @@ So for us, actually players, we're the number one game in the world. We have lik
 
 yeah so what i'll say like i'll end this with like you know i mean first focus let's say as you mentioned there's a lot of inventory going on so see once if you let's just focus on the supplier side one day or the other that supplier side will overpower the demand side then this is a clear indicator for you to start working on the demand side as well and if someone has cracked both the codes that person will be the champion in this industry. That business will be the champion in this industry. Yeah. If someone has the tendency or has the ability to crack both the sides, but you can't track both of them simultaneously. You first need to focus on one. Then only you can start working on the other.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:49:44)
 
 Yeah. Kind of like we were just talking about with channels, like you can't just focus on a million channels at once. You need to figure one out, put it on autopilot, then shift your focus there. And as a head of growth, yes, you're going to hire amazing teammates, but ultimately a lot of the brain power and decision you need to take. And we can't focus on a million things at once. So that's why focus is really important. True, true. I totally agree with that. Okay. So this user feedback loop that we started with before we went on the detour of which side marketplace to focus on, I think it's a very, very important point for people. And I'm curious, like, how did you develop those initial relationships, that Rolodex? How did, did you just reach out to people randomly? Like, Hey, I'm head of growth. I've seen you use it via email or what's the best way.

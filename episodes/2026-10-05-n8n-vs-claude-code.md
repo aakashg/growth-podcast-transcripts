@@ -36,6 +36,7 @@ from John Ennis. Remember N8N? Went irrelevant pretty quickly, huh? Do you need 
 
 I think we have been called dead probably a thousand times. I don't remember half of the things that killed us over the years.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:39)
 
 You guys actually existed before ChatGPT and you talked about in a podcast how you said you were scared a little bit. N8N was literally the hottest AI tool in the world in 2025. Now people are declaring you all dead. Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin.
@@ -221,6 +222,7 @@ Certain ones are, for example, the more important reliability and security is ob
 
 And so it means more or less anything that is not a private use case that is very often why people normally choose NNN over other solutions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:46)
 
 Here's what I did last week that changed how I think about AI coding tools. I built a full internal dashboard in Bolt at noon. Took me about two hours. Looked good, worked well, had all the functionality the team needed. Then I did something you can't do in most AI coding tools. I sent the actual source code to my engineer. In Base44, in Lovable, in most of the tools, the code lives inside the platform. Your engineer can't pull it. They look at your prototype, say cool, and rebuild the whole thing from scratch. Bolt.new is different. The code is pullable. Real, production-grade, front-end code. My engineer opened it, reviewed it, and started building on top of what I'd already made. No rebuild, no start from scratch. The prototype became the product. I use Bolt.new every single day. I built my entire paid cohort platform on it. 75 product managers log into something I made in Bolt.new.
@@ -235,6 +237,7 @@ Try it yourself, Bolt.new slash A-A-K-A-S-H. That's Bolt.new slash Akash. Today'
 
 You'll go deep into AI prototyping, evaluations, agents, AI-native workflows, cloud code, openclaw, latency, cost, guardrails, rag, routing, fine-tuning, and production systems. You'll even build your own AI product as your capstone with unlimited one-on-one support. So if you wanna stop just learning AI and actually build AI products that work, join Product Faculty's AIPM certification on Maven. 5,000 plus students have graduated and they have 1,000 plus reviews. Use code AKASH550 to get $550 off your enrollment. I feel like you guys have so much power that sometimes it's almost hard for people to figure out, at least when I talk to them about it, about like, what is the specific thing that I should go do next? So we've showed them the email and productivity assistant. We've given them a preview. This is amazing for security and compliance use cases. If you're a product manager, you've built the email productivity assistant.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:50)
 
 What is the like second, third, fourth thing you should build in any of them?

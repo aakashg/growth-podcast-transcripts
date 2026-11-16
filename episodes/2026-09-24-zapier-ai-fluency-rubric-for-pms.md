@@ -56,6 +56,7 @@ So if you saw me running a product team like this, how would you grade my output
 
 So if I'm spotting things like are obvious to me and not to you, I'm like, ooh, that makes me nervous, right? And I'm like...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:19)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic
@@ -125,10 +126,12 @@ Well, you know, I remember at the tail end of last year, we had all these new, y
 
 Here's a quick word from our sponsors. Building a lot of AI products lately, my job search OS has 16 different agents. My newsletter has a recommendation engine. And I kept running into the same problem. I'd ship something, it would work in my testing, and then I'd get messages from users The issue wasn't the prompts or the tools, it was that I wasn't actually evaluating anything. I didn't have a way to see what my agent was actually doing step by step. Every tool call, every decision. That's where Arise comes in. Let me show you. I'm going to open Cloud Code and install Arise with just one command. NPX skills, add Arise AI, Arise skills, skill, yes. Now Cloud Code already knows how to instrument my agent. I tell it, set up tracing to Arise. And it automatically analyzes my codebase, figures out where the LLM and tool calls are, and adds instrumentation automatically.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:09)
 
 Now I can see everything, every trace, every span, every decision. And more importantly, I can evaluate it. That's the shift. Trace what's happening, evaluate where it fails, then fix it. This trace right here, my resume feedback agent was supposed to pull the company's tech stack from the job posting, but instead it hallucinated that they use React when the posting said Python. I never would have caught that And here's the part that blew my mind. I asked Cloud Code to look at these traces and tell me what I should be evaluating. It came back with four eval criteria I hadn't written. Things like picking the right tool and staying grounded in the input. I wrote the evals, ran them, and found that my agent was making the same kind of mistake about 12% of the time. Claude pushed a fix, I re-ran the evals and it dropped to under 2%.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:57)
 
 That whole loop, trace, evaluate, fix, took me about 20 minutes and now it runs So alongside of that, a thing that we started to see a lot of folks doing both online, but even in turn inside of Zapier was building
@@ -577,6 +580,7 @@ All right, everyone. If you want more episodes like this with killer CEOs, comme
 
 I hope you learned as much from today's episode as I did.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:13:05)
 
 If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we We'll put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episode soon.

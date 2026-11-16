@@ -149,6 +149,7 @@ And the last part that we have seen is where the insights came from is the data.
 
 AI evals are one of the most important skills for PMs. And I know you know they matter. The question is, are you doing them right? Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI, they've cracked the code on systematic evaluation. Four weeks. Live instruction. Next cohort starts July 21st. Start shipping AI that actually works. Enroll at maven.com with my code ag-product-growth for over $800 off. That's ag-p-r-o-d-u-c-t-g-r-o-w-t-h. Today's episode is brought to you by Maven. The problem with most courses online, like Udemy, is there's no live component, and the instructors aren't experts in their fields. They're professors. At Maven, you get direct live access to experts and operators from the world's best tech companies. You can't get that access anywhere else, in any university, and you usually can't find them on YouTube either. I've featured so many of Maven's experts in the newsletter and podcast for that reason.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:54)
 
 To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H.

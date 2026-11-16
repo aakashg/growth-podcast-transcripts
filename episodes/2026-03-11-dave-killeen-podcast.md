@@ -40,6 +40,7 @@ AI. field chief product officer at the PM giant Pendo.io.
 
 So we're hyping it up. I have to ask you, what's overhyped versus underhyped in AI tooling?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:16)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle. where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, DeepSky, ReforgeBuild, Descript, and Speechify. So be sure to check that out at bundle.akashi.com. And now into today's episode. Dave, welcome to the podcast.
@@ -145,6 +146,7 @@ It knows that there's an x-ray skill in here, whose job essentially is to pull t
 
 Today's episode is brought to you by Pendo, one of those product management softwares that I've been using for nearly a decade now, which started with things like analytics, but now is much more. It has agent analytics so you can measure how your agent deployments are doing internally. It has churn prediction so that you can proactively understand this user is about to leave. Let's go take some action. It has guides. It has pretty much everything a product management team might want. So if you want to take your product management team from the old way of working to the new way that we're showcasing in this episode, be sure to book a demo for Pendo. Use the link in the description. If you're a big enterprise account in EMEA, you might even get Dave on the call. And now back into today's episode. Today's episode is brought to you by Jira Product Discovery.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:14)
 
 Thank you. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. And you use Claude from the Cursor agent. So you're actually not using Claude in the terminal, which a lot of people are scared about. You're just using Cursor's chat.
@@ -225,6 +227,7 @@ No, no. I think with AI, it's all about the taste, right? I mean, you could go t
 
 But it's fantastic. You're just orchestrating everything and orchestrating this sense of taste and delight, which is brilliant. One of the analogies I've been giving before is it's a bit like we're all Michelin head chefs at restaurants, right? Michelin-starred restaurants. And we're not in the kitchen doing all the gubbins. We're literally just, we design the menu and we have, you know, the AI chefs in the kitchen doing it for us. And I think that's where we're all at right now.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:18:29)
 
 Brilliant. And you guys can get a free year of Magic Patterns Pro if you sign up for Akash's Bundle.
@@ -346,10 +349,12 @@ What's broken? I have not done too much in terms of expanding my strategic influ
 
 Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences, but many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understandings. Neither approach gives you a truly mobile experience. Amplitude does things differently. Their mobile replays capture the full experience. Every tap, every scroll, and every gesture. With no lag and no performance hit. It's the most accurate way to understand mobile behavior. See the full story with Amplitude. Today's episode is brought to you by Naya One. In tech buying, speed is survival. How fast you can get a product in front of customers decides if you will win. If it takes you nine months to buy one piece of tech, you're dead in the water.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:48)
 
 Right now, financial services are under pressure to get AI live. But in a regulated industry, the roadblocks are real. Naya One changes that. Their air-gapped, cloud-agnostic sandbox lets you find, test, and validate new AI tools much faster. From months to weeks. From stuck to shipped. If you're ready to accelerate AI adoption, check out Naya One at nayaone.com slash Akash. That's N-A-Y-A-O-N-E dot com slash A-A-K-A-S-H. I hope you're enjoying today's episode. Are you interested in becoming an AI product manager? making hundreds of thousands of dollars more, joining OpenAI and Anthropic, then you might want to do a course that I've taken myself, the AIPM certificate ran by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:44)
 
 So check out our newsletter articles if you want to see the quality of the type of thinking you'll get. One of my frequent collaborators, Pavel Hearn, is the Build Labs leader. So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate. So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode. Wow. And so that resonated with you. You felt like that was on point feedback.
@@ -510,14 +515,17 @@ answer in a bit of a weird way. What's hyped? Open claw. What's underhyped? Open
 
 So I think we're seeing something really interesting happening with OpenClaw that I myself want to spend a lot more time working with. because I think it's directionally fascinating in terms of what kind of business models it opens up, what ways of working yourself that it opens up and changes. It's security. There's an issue around security right now, but I think if you do it in the right way, it's fascinating. Kimmy just recently for $39 a month now, you can go to kimmy.com and open up OpenClaw hosted in a browser. And it's just fascinating what's happening in that space, which is why obviously Sam Altman has put down allegedly a billion dollars to OpenClaw to get them on board.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:50:30)
 
 The man who predicted a one man billion dollar startup ended up buying one. So we have walked you guys through end to end what it looks like from a daily plan to knowledge scanning across the web. to prd to kanban board through to skills mcps and hooks you now have enough information stop watching start doing clone the repo like we just showed you if you prefer you can take my pm operating system there are other resources out there you can build your own from scratch after what you've learned the most important thing for you to do is take a little bit of time to try out these tools even if your product leaders haven't given you access to these internally and you can't connect to your internal mcp tools go build a side project try this out this is not hype this is coming from somebody with 25 years of experience you can see how enthusiastic he is how he has embraced the tooling There's a lot here.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:51:30)
 
 Even if you're not working on AI products, if you're not working on AI features, there's a lot here. If you need a little more guidance, I have a couple more guides with Carl Velotti, with Rachel Wolin, with Caitlin Sullivan on this podcast. I have a couple guides in my newsletter. Go take out those extra resources if you need. Dave just mentioned Alex Finn. He's a great resource on YouTube and Twitter as well. Take advantage of all these content creators, build out a system, and I guarantee you, you will find some value. of it until the next episode we'll see you later i hope you enjoyed that episode if you could take a moment to double check that you have followed on apple and spotify podcasts subscribed on youtube left a rating a review on apple or spotify and commented on youtube all these things will help the algorithm distribute the show to more and more people As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:52:26)
 
 Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode. you

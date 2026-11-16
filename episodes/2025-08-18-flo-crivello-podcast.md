@@ -204,6 +204,7 @@ You don't have to give a raise to your agents, but you do have a lot of control 
 
 This is a work tool, almost a creative tool. It's like a very powerful tool that you use to orchestrate an entire army of AI agents.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:54)
 
 Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, Whatever you're facing. Over 1.7 million product builders use Mobbin to benchmark against best-in-class products and show their team's proven solutions. Whether you need to convince stakeholders there's a better way to handle user activation or research how top apps approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash Akash.
@@ -213,6 +214,7 @@ Before we dive deeper, let's talk about something every PM faces, getting alignm
 
 That's M-O-B-B-I-N dot com slash A-A-K-A-S-H and get 20% off your first year. Today's episode is brought to you by Jira Product Discovery. If you're like most product managers, you're probably in Jira, tracking tickets and managing the backlog. But what about everything that happens before delivery? Jira Product Discovery helps you move your discovery, prioritization, and even roadmapping work out of spreadsheets and into a purpose-built tool designed for product teams, capture insights, prioritize what matters, and create roadmaps you can easily tailor for any audience. And because it's built to work with Jira, everything stays connected from idea to delivery. Used by product teams at Canva, Deliveroo, and even The Economist. Check out why and try it for free today at Atlassian.com slash product dash discovery. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira product discovery. Build the right thing. And I think on the cost component, people will intuitively understand like there are cheaper and more expensive models.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:17:57)
 
 I think maybe what they don't have an intuitive grasp on is how much context increases the cost. So how do you think about that?
@@ -370,6 +372,7 @@ And so we build that. And then we've got customers that are like, I wish it coul
 
 Today's episode is brought to you by Maven. The problem with most courses online, like Udemy, is there's no live component and the instructors aren't experts in their fields, they're professors. At Maven, you get direct live access to experts and operators from the world's best tech companies. You can't get that access anywhere else, in any university, and you usually can't find them on YouTube either. I've featured so many of Maven's experts in the newsletter and podcast for that reason. To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H. Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:17)
 
 It's eight weeks of live cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping, and this is your chance to learn how. Run along with product faculty and Mo Ali, the course has a 4.9 rating with 133 reviews. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's M-A-V-E-N dot com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y. Wow. So it's a mix of responding to a variety of customer requests and then figuring out, okay, what if we abstract this one layer further to build a full platform? Is that kind of the key insight that you had?

@@ -40,10 +40,12 @@ Gabor Meyer is a product manager at Google who has spent the last five months bu
 
 The best place to start, if you just want to do it for yourself, pull up your favorite AI, ChatGPT Gemini Crowdcode, and start asking questions on how to do things.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:13)
 
 If you stay to the end, you'll see a live demo of Gabor's agent workflow and see how to set up your own agent team. Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. As PMs, we've been working in this model where we work with human developers, human designers. But what if Cloud Code was your designer, your developer, your systems analyst? I've had plenty of episodes on Cloud Code, but today's episode is different.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:11)
 
 It's not a PM operating system. It's a startup operating system. Gabor Meyer is a PM at Google who has been staying up till 4 or 5 a.m. every day playing in Cloud Code, and he has figured out how to create an entire startup inside Cloud Code. front-end engineers, back-end engineers, legal counsel. And in today's episode, he's going to walk you through his agent setup and he's going to show you how you can go from zero to an actual app in the app store in just a couple of hours. Gabor, welcome to the podcast.
@@ -937,6 +939,7 @@ So check out his Maven course and I think he's a great follow on LinkedIn as wel
 
 you. Thank you so much. Bye everyone.
 
+<!-- sponsor -->
 **Aakash Gupta** (02:14:32)
 
 I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more Finally, do check out my bundle at bundle.akashg.com to get access to nine I'll see you in the next episode.

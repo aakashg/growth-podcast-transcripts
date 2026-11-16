@@ -157,6 +157,7 @@ So for example, summary for... here for a credible and citations so what pages i
 
 Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences. But many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. neither approach gives you a truly mobile experience amplitude does things differently their mobile replays capture the full experience every tap every scroll and every gesture with no lag and no performance hit it's the most accurate way to understand mobile behavior see the full story with amplitude trust isn't just earned it's demanded whether you're a startup founder navigating your first audit or a seasoned professional scaling your grc program Proving your commitment to security has never been more critical or more complex. That's where Vanta comes in.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:04)
 
 Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC 2 and ISO 27001, centralized security workflows, complete questionnaires up to five times faster, and proactively manage vendor risk. Vanta can help you start or scale your security program by connecting you with auditors and experts to conduct your audit and set up your security program quickly. Plus, with automation and AI throughout the platform, Vanta gives you time back so you can focus on building your company. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. For a limited time, my listeners get $1,000 off Vanta at vanta.com. That's V-A-N-T-A dot com slash A-A-K-A-S-H for $1,000 off.
@@ -631,10 +632,12 @@ Well, this has been a masterclass. If you guys want to see more about Pavel teac
 
 Thank you, Akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:58:07)
 
 And be sure to check out his newsletter, ProductCompass.pm. It is one of the best resources you can find on AI and product management. And we'll see you guys in the next one. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:59:00)
 
 I'll see you in the next episode. you

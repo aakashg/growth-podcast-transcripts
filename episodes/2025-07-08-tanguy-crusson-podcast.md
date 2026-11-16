@@ -77,6 +77,7 @@ And I think we need to be reasonable with expectations. And right now I'm loving
 
 Transcription by CastingWords That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course. It's eight weeks of live cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping, and this is your chance to learn how. Run along with product faculty and Mo Ali, the course has a 4.9 rating with 133 reviews. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's M-A-V-E-N dot com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y. It seems like every PM you talk to is just, oh, my calendar is slammed, my to-do list is slammed.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:39)
 
 And so AI is going to be one of those things that allows PMs to focus on these high leverage tasks, these discovery tasks to get out of the minutia, the details sometimes that can bog down people like status updates and things like that.
@@ -165,6 +166,7 @@ We're humans, we're trying to make the other person feel comfortable. We're gonn
 
 More like get training from a researcher. It will drastically change everything that you do afterwards. Otherwise, I can promise you that you are going to have many conversations and it's going to prove what you think is right.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:30)
 
 Trust isn't just earned, it's demanded. Whether you're a startup founder navigating your first audit or a seasoned professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. That's where Vanta comes in. Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC 2 and ISO 27001. centralized security workflows, complete questionnaires up to five times faster, and proactively manage vendor risk. Vanta can help you start or scale your security program by connecting you with auditors and experts to conduct your audit and set up your security program quickly. Plus, with automation and AI throughout the platform, Vanta gives you time back so you can focus on building your company. Join over 9,000 global companies like Atlassian, Kuora, and Factory who use Vanta to manage risk and prove security in real time. For a limited time, my listeners get $1,000 off Vanta at Vanta.com slash Akash.

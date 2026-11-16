@@ -149,10 +149,12 @@ And nine times out of ten, it doesn't matter because you're adding, you know, a 
 
 Today's episode is brought to you by Vanta. As a founder, you're moving fast toward product market fit, your next round, or your first big enterprise deal. But with AI accelerating how quickly startups build and ship, security expectations are higher earlier than ever. Getting security and compliance right can unlock growth or stall it if you wait too long. With deep integrations and automated workflows built for fast moving teams, Vanta gets you audit ready fast and keeps you secure with continuous monitoring as your models, infra and customers evolve. Fast scoring startups like LinkChain, Writer and Cursor trusted Vanta to build a scalable foundation from the start. So go to Vanta.com slash Akash. That's V-A-N-T-A dot com slash A-A-K-A-S-H to save $1,000 and join over 10,000 ambitious companies already scaling with Vanta. Today's episode is brought to you by the experimentation platform Chameleon. Nine out of 10 companies that see themselves as industry leaders and expect to grow this year say experimentation is critical to their business.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:33)
 
 But most companies still fail at it. Why? Because most experiments require too much developer involvement. Chameleon handles experimentation differently. It enables product and growth teams to create and test prototypes in minutes with prompt-based experimentation. You describe what you want, Chameleon builds a variation of your webpage, lets you target a cohort of users, choose KPIs, and runs the experiment for you. Prompt-based experimentation makes what used to take days of developer time turn into minutes. Try prompt-based experimentation on your own web apps. Visit chameleon.com slash prompt to join the waitlist. That's K-A-M-E-L-E-O-O-N dot com slash prompt. So a consistent takeaway I'm hearing about AI features versus regular features is that you're gonna have to go work with the research team on the underlying AI, whether that is the training data that is going into it or some of the evals that are built on top of it. Perhaps they create an eval that When expanding human body around private parts, go through these checks.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:17:40)
 
 Are we showing enough diversity? Maybe that's a good time for us to show an A and B option to a user. I don't know. We have to think through it correctly, but there could be some more sensitive ways to handle it. And I really liked your point on then outside of working with the AI, actually working with the UI as well. So having that UI really clear to whoever it was, poor person on that social media team for that conference.
@@ -247,6 +249,7 @@ Today's episode is brought to you by the AIPM certification on Maven. Run by Mik
 
 AI evals are one of the most important skills for PMs. And do you know who large parts of the OpenAI and Anthropic teams learned AI evals from? Hamal Hussain and Shreya Shankar. Today's episode is brought to you by their AI evals for engineers and PM scores on Maven. Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI They've cracked the code on systematic evaluation. Hamel and Shreya's Live Maven course will teach you their battle-tested frameworks behind 25-plus production AI implementations. It's four weeks with live instruction and insane guest speakers, plus a free book. Enroll at maven.com with my code AG-EVLAS for over $1,330 off. That's AG-EVLAS. Start shipping AI that actually works. Okay. So it sounds like key takeaway is big unlock was moving it out of the discord platform into the web browser, making it easier for people to onboard similar way chat GPT, open it up.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:00)
 
 You can use it. That's really important for an AI product, whether that's a chat product or an image generation product. The other really important category of AI products is voice products. How do you design for AI voice?

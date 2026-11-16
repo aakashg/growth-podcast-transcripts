@@ -297,6 +297,7 @@ you have those steps of iteration with your designer, you're gonna be able to bu
 
 That's right.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:09)
 
 You know that feeling when you try to prototype something with AI and it spits out something completely generic? Then you spend hours tweaking colors, fonts, copy, and features just to make it feel like your actual product? Here's the problem. Most AI app builders aren't built for product teams. They're built for those starting from scratch. But product teams aren't building from zero. You have an existing product, real customers, design guidelines, a backlog full of ideas you need to explore and validate fast. That's what Reforge Build does. AI prototyping that starts from your product. Add your customer feedback, strategy docs, and product features as context. Create reusable templates using your product design. Explore multiple variants side by side. Collaborate with your team in one place. Reforge Build generates prototypes that reflect your real pricing tiers, real features, real customer language, not generic placeholder. Stop fighting tools built for founders.
@@ -570,6 +571,7 @@ Great question. I'm biased because I am fairly technical. And recently I've been
 
 I think if you adopt that, you're very quickly going to start to see the value of prototyping. And it might be a faster on-ramp to getting your organization going with tools like this.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:10:25)
 
 All right, guys, you heard it. Reforge, build, and magic patterns. And you know what the crazy thing is? Both of those are part of Akash's bundle. So if you become an annual paid subscriber of my newsletter, you literally get 12 months of Sachin's top two recommended AI prototyping tools for free. If you have watched this far, it's a no-brainer. Check it out. Sachin, what else are you doing with your time these days? If people want to learn more about AI prototyping from you, where should they go?
@@ -578,6 +580,7 @@ All right, guys, you heard it. Reforge, build, and magic patterns. And you know 
 
 So first thing to do is follow me on LinkedIn. I always share my hot takes on product management, especially as it has to do with AI. So it's a great place to start. If you really want to go deeper on this stuff, I built out a course called AI Productivity with Reforge that not only teaches you all of these prototyping skills in detail, but is really about how do PMs use AI in general to be more effective in their role. We talk customer insights, we talk product strategy, we talk product execution, and all the tools that you could use to really do that well. So I encourage you to check that out as well.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:11:30)
 
 Sachin, thank you for dropping so much knowledge. There are a lot of PNs and product leaders who you have just saved hours of time and you have just helped them do their job much, much better. Really appreciate you dropping all this knowledge. Of course. Happy to help. All right, everyone. See you later. All these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

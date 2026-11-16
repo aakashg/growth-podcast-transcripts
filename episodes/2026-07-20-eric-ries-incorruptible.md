@@ -56,14 +56,17 @@ So what were the choices you and Jeremy made? I believe you actually have Answer
 
 one simple question before you agree to what they say.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:14)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. We have a different episode for you guys today. You come to this podcast for a lot of AIPM tool breakdowns and AIPM courses. One of the things that people don't talk about enough is governance. And in AIPM it really matters. AI safety and ethics is one of the top things that AIPMs are evaluated on in interviews and on the job.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:07)
 
 And governance is one of the most important angles. Today we have on one of my personal heroes and legends, Eric Ries. He's kind of, as I told him, 20 years ahead of me in his career. He's created the amazing book, the amazing movement, the amazing brand. He's run a bunch of companies through it, some of which you'll get to hear about in today's episode. And in today's episode, he's going to break down the famous open AI versus anthropic structural battle. He's going to walk you through exactly how companies get corrupted. He's going to help you understand Enron versus Costco and he's going to help you see How you can structure your company, how you can make decisions on a day-to-day level that actually contribute, that actually are incorruptible. So if you want to get better at the craft of business, if you want to get better at AI, this episode is for you.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:54)
 
 Eric, I think the structure that is on the top of everybody's mind is OpenAI. OpenAI started as a non-profit, it created a capped profit arm, then they just converted to a for-profit PBC.
@@ -576,6 +579,7 @@ People say I have a lot of businesses and a lot of things going on, but now they
 
 Take care. Thanks a lot. Thanks for the kind words. That's really very nice of you.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:18:57)
 
 I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify, and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

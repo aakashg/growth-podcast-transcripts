@@ -161,10 +161,12 @@ And then the night of the IPO, they basically tell us how many shares does the R
 
 Today's episode is brought to you by the experimentation platform Chameleon. Nine out of 10 companies that see themselves as industry leaders and expect to grow this year say experimentation is critical to their business. But most companies still fail at it. Why? Because most experiments require too much developer involvement. Chameleon handles experimentation differently. It enables product and growth teams to create and test prototypes in minutes with prompt based experimentation. You describe what you want, Chameleon builds a variation of your webpage, lets you target a cohort of users, choose KPIs, and runs the experiment for you. Prompt-based experimentation makes what used to take days of developer time turn into minutes. Try prompt-based experimentation on your own web apps. Visit chameleon.com slash prompt to join the waitlist. That's K-A-M-E-L-E-O-O-N dot com slash prompt. Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:35)
 
 You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, whatever you're facing over 1.7 million product builders use mobbin to benchmark against best-in-class products and show their team's proven solutions whether you need to convince stakeholders there's a better way to handle user activation or research a top app's approach future discovery mobbin gives you the visual proof to back up your product decisions check out mobbin.com akash that's m-o-b-b-i-n dot com slash a-a-k-a-s-h and get 20 off your first year And I think you guys are just an engine of products like these, whether it was fractionalized stocks before that, or even just giving buyers with the initial inception of the app an easy way to sell in one click.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:41)
 
 If you try to sell at your big bank, if you're keeping your stocks there, it's like 20 clicks

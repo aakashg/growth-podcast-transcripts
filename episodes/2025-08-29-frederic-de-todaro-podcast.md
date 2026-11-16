@@ -153,6 +153,7 @@ And maybe you didn't know it because another team had run that experiment alread
 
 is very, very important. Today's episode is brought to you by Jira Product Discovery. If you're like most product managers, you're probably in Jira, tracking tickets and managing the backlog. But what about everything that happens before delivery? Jira Product Discovery helps you move your discovery, prioritization, and even road mapping work out of spreadsheets and into a purpose-built tool Transcription by CastingWords That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course. It's eight weeks of live cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping, and this is your chance to learn how. Run along with Product Faculty and Mo Ali, the course has a 4.9 rating with 133 reviews.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:31)
 
 Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's M-A-V-E-N dot com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y. I want to dive into that in a little bit in a second. But before we get there, let's take the historical point of view on this. How would you break this down historically? How has AI changed experimentation over time?
@@ -257,6 +258,7 @@ Yeah, so the reason we've built or we've seen this kind of feature is because if
 
 Like again, this variation is performing well on mobile devices. Maybe if you personalize the experience for mobile device users and you show that variation, you will increase the performance. of your website and ultimately the revenue of your website. So that's the main goal of AI Opportunity Detection. It's trying to spot out some opportunities to do better.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:55)
 
 Yeah. If 80% of what you're shipping isn't going to hit your metrics, you want to make sure that you're still learning something from that 80%. And so this is really going to help you in that step. Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobbin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, whatever you're facing. Over 1.7 million product builders use Mobbin to benchmark against best-in-class products and show their team's proven solutions.
@@ -266,6 +268,7 @@ Yeah. If 80% of what you're shipping isn't going to hit your metrics, you want t
 
 Whether you need to convince stakeholders there's a better way to handle user activation or research how top apps approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash Akash. That's M-O-B-B-I-N dot com slash A-A-K-A-S-H. You can get 20% off your first year. Today's episode is brought to you by Maven. The problem with most courses online, like Udemy, is there's no live component, and the instructors aren't experts in their fields. They're professors. At Maven, you get direct live access to experts and operators from the world's best tech companies. You can't get that access anywhere else, in any university, and you usually can't find them on YouTube either. I've featured so many of Maven's experts in the newsletter and podcast for that reason. To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:38)
 
 This includes courses like AI prototyping for PMs, Product Sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash a-a-k-a-s-h. Talk to me a little bit about content generation. I'm curious, do you have any stories yourself that your team has used where AI content generation has led to a win?

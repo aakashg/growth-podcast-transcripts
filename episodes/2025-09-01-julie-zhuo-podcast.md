@@ -197,6 +197,7 @@ So I
 
 want you to break these down for us. So you talk about what is a manager's job, right? And so You talk about your initial definition of what a manager's job was, have meetings with reports to help them solve their problems, share feedback about what is or isn't going well, and figure out who should be promoted and who should be fired. But what's the real definition of what a manager's job is? Today's episode is brought to you by Jira Product Discovery. Thank you. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Before we dive deeper, let's talk about something every PM faces. Getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:13)
 
 Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, Whatever you're facing. Over 1.7 million product builders use Mobbin to benchmark against best-in-class products and show their team's proven solutions. Whether you need to convince stakeholders there's a better way to handle user activation or research how top apps approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash akash. That's m-o-b-b-i-n dot com slash a-a-k-a-s-h and get 20% off your first year.
@@ -383,6 +384,7 @@ Today's episode is brought to you by the AIPM certification on Maven. Run by Mik
 
 Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI, they've cracked the code on systematic evaluation. Today's episode is brought to you by the AI evals for engineers and PMs course by Hamil Hussain and Shreya Shankar. This live Maven course will teach you the battle-tested frameworks from Hamil and Shreya, who are the engineers behind GitHub Copilot's evaluation system and 25-plus production AI implementations. Four weeks, live instruction, next cohort starts July 21st. Start shipping AI that actually works. Enroll at maven.com with my code ag-product-growth for over $800 off. That's ag-p-r-o-d-u-c-t-g-r-o-w-t-h. I think anyone who's been a manager could empathize with that. So let's move into this third one. Let's say you're now leading a small team. You said that trust is the most important ingredient. And I totally agree, right? Trust is everything. You want people to be able to bring negative issues to you.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:45)
 
 And I think most of us can understand that, but the harder part is actually making an environment where people feel trust, feel safe. So how do you establish that culture?

@@ -53,6 +53,7 @@ I am so humbled at this point by the advances of technology that I see in a fiel
 
 Today's episode is brought to you by Gibson AI, the future of backend development. Imagine a world where designing, deploying, and scaling your database is as intuitive as having a conversation. Gibson AI makes that a reality. Gibson AI is your very own AI database engineer. In just minutes, you can chat with Gibson to design production-grade data models, automatically generate secure REST APIs, and even eliminate technical debt that's been holding your team back. Whether you're launching a brand new product or modernizing an existing app, Gibson AI handles everything from data migrations to integration, so you can focus on building what matters most. Gibson AI is built for the modern engineering team, empowering you to accelerate development, reduce tedious coding, and deliver powerful solutions faster than ever before. Head over to gibsonai.com slash Akash to experience the future of automated data modeling. That's G-I-B-S-O-N-A-I dot com slash A-A-K-A-S-H. And use code Akash50 for 50% off your first 12 months.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:41)
 
 Today's episode is brought to To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H.

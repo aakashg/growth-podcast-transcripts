@@ -85,10 +85,12 @@ um you know fundamentally we're a project management tool for uh software develo
 
 AI evals are one of the most important skills for PMs. And I know you know they matter. The question is, are you doing them right? Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI, they've cracked the code on systematic evaluation. Today's episode is brought to you by the AI evals for engineers and PMs course, by Hamal Hussain and Shreya Shankar. This live Maven course will teach you the battle-tested frameworks from Hamal and Shreya, who are the engineers behind GitHub Copilot's evaluation system and 25-plus production AI implementations. Four weeks, live instruction, next cohort starts July 21st. Start shipping AI that actually works. Enroll at maven.com with my code ag-product-growth for over $800 off. That's ag-p-r-o-d-u-c-t-g-r-o-w-t-h. Today's episode is brought to you by Vanta. As a founder, you're moving fast toward product market fit, your next round, or your first big enterprise deal.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:52)
 
 But with AI accelerating how quickly startups build and ship, security expectations are higher earlier than ever. Getting security and compliance right can unlock growth, or stall it if you wait too long. With deep integrations and automated workflows built for fast-moving teams, Vanta gets you audit-ready fast and keeps you secure with continuous monitoring as your models, infra, and customers evolve. Fast-scoring startups like LinkChain, Writer, and Cursor trusted Vanta to build a scalable foundation from the start. So go to Vanta.com slash Akash, that's V-A-N-T-A dot com slash A-A-K-A-S-H, to save $1,000 and join over 10,000 ambitious companies already scaling with Vanta. So it's a red ocean market, right? That's a space that we all have tried tons of tools in. But you guys are winning. And I think a lot of it comes down to how you guys build product, this linear method. So how would you summarize?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:52)
 
 What's the 60-second pitch for what the linear method is?
@@ -166,6 +168,7 @@ I think we plan for maybe three quarters out at all, and then with dramatically 
 
 Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course. It's eight weeks of live cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping. And this is your chance to learn how. Run along with product faculty and Mo Ali. The course has a 4.9 rating with 133 reviews. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's M-A-V-E-N dot com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y. Today's episode is brought to To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:24)
 
 This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H. And what does that planning process look like? Your average company, they're taking maybe like a month of time where everybody's all hands on decks on this large planning exercise. How do you guys run it internally?

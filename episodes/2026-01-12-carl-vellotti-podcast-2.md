@@ -48,62 +48,77 @@ But when you're really as you kind of start to pay attention, just thinking abou
 
 Whoa.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:14)
 
 Because I have workflows for all those things already built, I can do it just all straight in one shot in like one morning. So it took our PRD and now created 19 engineering tickets. And it also gave them priority, which would be based on what was in that PRD.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:27)
 
 Is there anything else people should be exploring when they're thinking about cloud code for PM? Bye. If you get any value out of this podcast, do me a huge favor and follow on Spotify and Apple Podcasts and subscribe on YouTube. It helps the show tremendously. If you become an annual subscriber to my newsletter, you get access to nine incredible AI products for an entire year. This is an over $3,000 value across tools like Mobbin, Linear, Descript, Magic Patterns, Reforge Build, Relay, Deep Sky, Dove Carl, welcome back to the podcast.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:23)
 
 Hey, I'm super excited to be here. Our last episode was really kind of for me to like a good intro into using cloud code and really figuring out how to use it as a tool in its own right. And ever since then, it's kind of amazing. Even I think it's been about two months since we recorded that last episode. I've continued to use cloud code, continue to explore like more of its more advanced features. And now I basically just live in cloud code all day. I start my day in cloud code, I can do literally almost anything in cloud code. If I can't do it in cloud code, I figure out how to make it possible in cloud code. And they keep adding new features that just allow more and more powerful workflows. And we're at the point now where every time you know, you start something from scratch, you have to figure out how to use cloud code for the first time to do that.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:03:04)
 
 But then when you go from there, You build this workflow that the next time you do that task, it's faster. And then you realize a couple other ways you can improve that workflow. And then the next time it's faster. And it's at the point where there's just certain like many things where it would have taken me, you know, maybe a whole week of work because I have workflows for all those things already built. I can do it just all straight in one shot in like one morning. So I'm really excited to show kind of these more advanced features today. We're going to dive into how you can connect cloud code to MCPs so you can pull in and push out information from everywhere. And then we're going to look at some of the newest features. Skills are really exciting. Skills are a way for cloud code to basically automatically know how to do really complicated things without you even having to really prompt it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:03:44)
 
 And then we'll do some like really advanced stuff where we'll show how if you have your PRDs and all your documents in a GitHub repo, how you can have Claude take actions in those repos automatically. So you can be out, you can be at the beach, you can realize, oh, I forgot this requirement. And then you can open up your GitHub app, you can make an issue at Claude. And then by the time you get back to your desk, it will already be done. So really excited. There's so much to explore today. And I think we're going to really do some more really good work today.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:04:11)
 
 There's this crazy news about Claude Code, which I'm not even sure exactly how Anthropic is figuring out what of its revenue is Claude Code versus regular Claude. But they have said that Claude Code has reached a $1 billion ARR milestone. If it hit that on December 2nd, it's been out for six months. That makes it pretty much the fastest ever to $1 billion ARR in less than six months. What's led to the continued success of Claude Code in the face of competition? We saw Google release anti-gravity. Obviously, OpenAI has Codex, which we've done an episode on recently. Why has Cloud Code continued to do so well?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:04:46)
 
 Yeah, I think what it really comes down to is, you know, you have kind of like the main frontier labs. We have OpenAI, we have Google, and we have Anthropic. And they're all taking their own bets on how to approach using their LLMs. So for OpenAI through ChatGPT, I think you really see kind of like general usage. So for kind of like regular people who aren't like necessarily using it all the time it's a very good like general tool like it's good for search it's good for images it can it can do some amount of coding that's pretty it's very good as well so they're much more general for google you see that they really have taken a lot of big bets on being the absolute king of multimodal so they can ingest i think it's still the only llm that can like watch a video and understand what's in it they have the best image generation now with nano banana pro but they haven't really gone in depth to like the super deep workflows around coding And they're trying with anti-gravity, but they're definitely kind of didn't start there.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:34)
 
 And that's not where their big bets are. And with Anthropic, they've really kind of focused on how can this be the best tool for coding and for work? And where I think and what I think is so powerful about that is that these are the types of things where I kind of was talking about earlier. I spend all day in cloud code because it can do more and more parts of my workflow. Like I don't need a general tool and I don't really need to be multimodal. I need to be really good at text and code. the tool so i think what they're getting is they're getting maybe fewer users but they are like absolutely just power users and as soon as you start using it it almost becomes addictive to where you just keep doing more and more stuff in it and so i think that's why they're just so successful is because they have a smaller part of the market but it goes so deep and it keeps getting deeper and um We're really at the point where the rest of the industry is just kind of trying to catch up.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:22)
 
 I think if you look at anti-gravity or you look at Codex, they definitely like most of their features are features that already exist in Cloud Code. And Cloud Code is just way ahead and keep shipping new things. And to see the extent where Anthropic came out with MCPs, they were the first kind of company to come up with a standard for how LLMs can connect to other services. They actually just donated that as part of like a agentic foundation or something where like anybody can use it. So they open sourced it. I think just today, Skills, which was something that we're going to cover today, And Anthropic kind of came up with first as a way for you to really give an LLM like clear tasks that it can complete. Now the rest of the world is adopting that same standard. So they're just way ahead of those advanced workflows to the point where competitors kind of just have to copy them to try to keep up.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:03)
 
 I can say from my personal usage, after our episode, I had to switch to the Claude 5X plan, $100 a month. I was like, oh my God, someone canceled some other subscriptions that I had to make the budget. And then I started using Claude Code and I hit the 5X limits quickly and I had to go up to the 20X plan. One of the things about Claude Code that makes it unique is it's basically limitless. Like with Claude, when you go tell it to do something, you're like, hey, I wrote. So one of the things I asked you actually was I said, hey, I wrote like 90 newsletter articles this year. I want you to like pull all this down. And I specifically want you to analyze like how my own style has changed over the course of the year. Normal Claude challenged at it. Cloud code?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:42)
 
 All right, let's do it. Downloading all the things. Even hit a rate limit error on Substack, but eventually downloaded all the articles. I told it to put it in a place. It was able to put them. It was able to analyze them. And so I think you're right. It's this power user functionality, which is insane. And that's what we're going to teach you guys today.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:59)
 
 Yeah, especially another thing since we last had our last podcast, Opus 4.5 came out, which is what I'll use today for our demo. And a lot of people are saying, you know, I think it's always this term gets thrown around all the time, but people are really starting to feel the AGI. People are saying Opus 4.5 is basically AGI, where you can give it a task and you can kind of just trust it to like walk away from your computer and it will just keep going forward in the task. And if it hits a block, it'll find a way forward. Of course, it's not perfect. And we'll talk about that some today. But it's really impressively powerful now.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:08:29)
 
 So what's the difference between people who are using cloud code and not being productive versus people who are actually getting productivity gains out of it? Because sometimes it can just seem like you're watching the AI thing. It's taking a long time. Am I actually doing something the right way and saving myself time?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:08:44)
 
 Yeah, I think the big difference between maybe cloud on the browser versus a beginner cloud code user versus an advanced cloud code user is that for an advanced cloud code user, you're really paying attention to what are the workflows that you're doing multiple times. And then how can you define, you know, files so that you can go step by step and really define those workflows so that the next time you do that, that it can run through all of that in like one shot versus I think when you first start using cloud code, it's easy to say, okay, do this. Okay, do this. Okay, do this. But when you're really, as you kind of start to pay attention, you see, oh, this is something I'm doing over and over again. Let me define like rules for that. So that the next time I can just point it at this file and it will know exactly how to approach it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:09:26)
 
 So I think that's really what it is, is just thinking about the whole system that you're building with Claude rather than just having to do individual tasks.
@@ -113,42 +128,52 @@ So I think that's really what it is, is just thinking about the whole system tha
 
 All right. Shall we just get started? I'd love to see this in action. Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences. But many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. neither approach gives you a truly mobile experience amplitude does things differently their mobile replays capture the full experience every tap every scroll and every gesture with no lag and no performance hit it's the most accurate way to understand mobile behavior see the full story with amplitude Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:26)
 
 So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at Pendo.io slash Akash. That's P-E-N-D-O dot I-O slash A-A-K-A-S-H. So shall we start with MCP servers?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:06)
 
 Yeah, let's go ahead and start with MCP. So I'm going to go ahead and share my screen here. And then so one thing to kind of call out is I definitely recommend if you haven't seen the first video, this one will still be good and you'll still see like a lot of good demos. And it's actually good because we're not going to cover too many features that we did in the first video. So in the first video, we've covered things like if you have a markdown file, how you can point cloud to it, agents that can run stuff in parallel. We're going to mostly cover new stuff in this video. Everything that we cover stacks with that first video. It's helpful to have that context, but everything here will make sense even if you haven't done it. The only thing I'll call out is there are lots of different ways you can use cloud code because it's kind of just, you know, it has the files on your computer and there's different ways you can show those.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:44)
 
 Last time we focused, we were mostly in cursor. I'm going to be in cursor this time. We're not using any cursor specific features. We're just using it kind of like as our IDE. So I'll just call that out. So we're in we're in cursor here. And let's go ahead and get started. And then the other thing, I'm going to start Claude. I pretty much always use Claude with the dangerously skip permissions turned on because I just I don't know, I haven't had any issues with it. So that's one other thing to call out. I'm not going to have to approve any like actions or files or things that it wants to do because I have this turned on. So with that, let's go ahead and fire this up.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:15)
 
 Also known as YOLO mode.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:17)
 
 Yeah, YOLO mode. All right, cool. Okay, so let's go ahead and get started. So we're in cursor here and we'll get going. So the first thing that I want to cover today is one question that people have is, okay, we're in Cloud Code and we're on our computer here, but... If I'm, you know, I'm a product manager, I need to write PRDs, I need other people to see those. How do I actually get other people to be able to like see my work? How do I get stuff that's in cloud code out into the world so that someone else can see it? And then if I have like stuff in Notion or have stuff in Google Docs or have stuff in confluence? How do I bring that into cloud code in a way that's not just copying and pasting it? So that's what we'll cover first.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:55)
 
 And the main answer is we're going to use something called MCPs. So this stands for model context protocol. And it's something that was invented by Anthropic. And it's basically just the standard for how LLMs connect with services. So like many companies now, they have built their own MCP servers that make it so that you can basically just say, hey, here's the MCP I want you to connect to, connect to it, and then it will give you a ton of options kind of with that. So we'll go ahead and we'll start and I'll show you just how to set up an MCP because that's a question that a lot of people have. We'll start with setting one up for linear. Are you familiar with linear, Akash?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:31)
 
 For sure. Yes. Linear is one of the presenting sponsors of this podcast. So that was an organic mention there.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:37)
 
 Yeah. Cool. So Linear, if anyone isn't familiar, it is a really sort of very modern. I don't know. I don't know the exactly approved way to say it, but it's basically a modern version of JIRA. It's a way for engineers to manage their tickets. And it's really nice. The thing I'm showing here, you could do a JIRA. I just don't have a personal JIRA account, so I can show you a linear, but all the concepts are the same here. So it's pretty easy. So I'm going to just show you almost like in general. And this is kind of like a mindset that you should have if you're a cloud code user is you should think, OK, I want cloud code to be able to connect to this thing. You can pretty much you can ask cloud code like, hey, does linear have an MCP server? And then it will search for you.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:14:15)
 
 Or you can, of course, just do our old school Google search. And linear does have an MCP server. And then on these on these pages, it will usually tell you how you can set it up. And so what I'm going to do here is this is the command. So it's just literally we're just going to copy this and then we're going to run it. And this will add this MCP into our cloud code. So I'm going to go ahead and copy here. And we'll go back to Claude. That was a that was like not a command that you put into Claude itself. You just put that into your terminal itself. So I'm going to go ahead and copy that. And then, okay, so what we see here is it said that it added it. So file modified. So basically, what it's saying is it just added it to the Claude JSON.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:14:54)
 
 So that when we go back into Claude, it will have now have access to it. So literally, it was just one command, many companies, they have it set up this easily. So you can do it like this. And then when we come back into Claude, one thing to know is you usually have to restart Claude for it to sort of pick up whatever changes there were to its settings. And now we're going to start Claude again.
@@ -353,34 +378,42 @@ And the way that this is supposed to work is you have a name for it, and then yo
 
 Yeah.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:26)
 
 That alone is something that we've kind of seen before. You could say, hey, Claude, analyze this information and use this file that has a template. The cool thing about skills and what I'm hoping that we see next. Okay, so...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:36)
 
 It's supposed to invoke the skill whenever it's irrelevant, but I found it's not always reliable. So sometimes I'm just prompting, like, use X skill and then do Y.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:45)
 
 Yeah, well, that'll be our backup. We'll try this one more time and see if it figures it out. But the way it's supposed to work is we have this very clear trigger. Triggers on requests to analyze, synthesize, or find patterns in user research. And then the prompt, oh, it might be, well, okay. So it's putting it into a new markdown. And then one thing you can do it with Claude is you can send it a message and then that'll basically queue it. So as soon as it has completed this, then it will do this. It's really nice if you kind of like know what the output is going to be and you know the next thing you want to do and then you like want to go do something else. You can queue up that message. Seems like Claude in general is being a bit slow today.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:21)
 
 Maybe lots of people trying to get some work done. on the
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:24)
 
 end this might not be the most uh difficult query so if you're facing that issue and you're saying i need to go faster you can always switch to a sonnet or even a haiku
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:32)
 
 yeah that's true and the way you do that is you type model and then you could switch it to another one but not while it's also going okay so created that now we can see all the responses from that file in Google Drive. And then now I asked it to synthesize. So now it says now synthesize the survey response to the new analysis document. We'll see if it finds a skill. If it doesn't find the skill, that's okay. I think there are some other examples from today where we'll see it use it more.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:57)
 
 In
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:57)
 
 general, I think it's kind of an improving feature for Claude.
@@ -390,38 +423,47 @@ general, I think it's kind of an improving feature for Claude.
 
 Thank you. Thank you. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Today's episode is brought to you by Miro. Let me ask you something. How many tools are you juggling just to get a single project across the finish line? One for brainstorming, another for planning, something else for tracking tickets. That's where Miro comes in. It becomes an all-in-one collaboration workspace. Whether you're consolidating user research from several interviews, developing and synthesizing product briefs or a wireframe, or project managing development. Miro brings everyone into the same space. It's fast, intuitive, and fully loaded with features like project templates, two-way Jira Sync, and integration with software like Draw.io and PlantUML. Miro's AI features can be used to synthesize elements in a board to develop a ready-to-review product requirements document in seconds. If you're tired of tab overload and scattered workflows, try Miro.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:46)
 
 Head to Miro.com and see why over 90 million users choose Miro to guide from idea to outcome. Skills themselves, though, are amazing. And I highly recommend people watching build skills. I built skills for like everything I do. And when it doesn't invoke the skill, I get very angry because the response is much worse.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:04)
 
 Yeah. What are some of the things you use skills for?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:07)
 
 So personally, I have just even for this podcast, I have a podcast production guide skill, which is like my lifesaver. Like after I create the production guide with my team, I put it into there and it always comes out much better. I also have a skill for editing. my newsletters, for editing my Twitter posts, editing my LinkedIn posts. Both of those are pretty good. What else do I have skills for? I have a skill for creating the takeaways from a podcast using a transcript. I have a skill for coming up with new newsletter topics. So yeah, so many skills at this point.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:40)
 
 yeah that's awesome yeah so that's that's like a those are all really good examples where you've probably done those things a million times and now you're like okay i should just invest in letting claude really give get all the power out of that skill of doing this every time i do it
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:52)
 
 it didn't take as long as you might think like usually what i'll do is like let's say i want to do like an editor right i'll give like two or three examples here's version a and version final three times notice like how i edited it how i improved it take that down then you do it and then you can just run vibe checks like two or three times i'll just have it edit two or three posts i'll edit the skill two or three times and it's pretty much good to go after that
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:13)
 
 yeah that's awesome and it's cool because this stacks too like if you had agents you could give the agents access to different skills and then when they're working they'll they'll have those skills okay cool so all right so we have this this synthesis we'll go from here okay so in general the concept of skills is that they're supposed to trigger when you do different things The question might be, okay, so we already had this skill in our kind of dot cloud here. What, where do skills come from? So you can, this one I already had, there's a couple of different places that skills can come from. So one is there are a lot of these, like people share them all the time on Twitter, on LinkedIn, there are like these big GitHub repos with tons of skills. So there are a lot of skills that kind of already exist.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:50)
 
 So let's say like this, this is a repo that just has tons of skills. And so what you can do is you can just kind of like look at one of these libraries and And you can choose.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:59)
 
 We want to warn everybody. You guys are very susceptible to prompt injection hacks if you are downloading a skill and running in dangerously skipped permissions. So be really, really careful about that.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:34:08)
 
 Good. Yeah, good tip. I should also keep that in mind. I think, yeah, definitely be careful. Maybe it'd be good to even like have Claude almost investigate your skill. Maybe you could build your own skill that's a skill investigator whenever you add a new skill. Literally not a terrible idea. But yeah, that's true. Some people will put stuff into these that can be especially for people like me who are just using them kind of willy nilly who knows what the triggers are and what exactly they do okay but there are just tons of different skills that people are building all the time so here we see an artifact builder an ios simulator an mcp builder there was one in here that i thought looked good we'll have i think it's a document oh internal comms so that's something that like you know as a product manager you might want this so we're going to go ahead we're just going to literally copy and paste this github link and we'll say to a new session of claude put and clear this
@@ -934,86 +976,107 @@ Like if I were to download this project from GitHub, it would just have all of t
 
 Okay, so
 
+<!-- sponsor -->
 **Aakash Gupta** (01:09:13)
 
 it's gonna check and then sync. And then the very last thing we're gonna do is we're gonna actually add Claude as an app to our GitHub repo. And I'll show you why this is like so cool. so right now it's saying there's nothing new in the repo so we're going to be go ahead we're going to be good to just go ahead and push everything into it so it's cool all of the work that we've done locally it's otherwise only on this computer that we just looked at all this on but by pushing it to github now it is like all of those files in the current state are saved in github so if we went to another computer we could just pull all that same information down work there push it back up so it's a good way for you to you know, transfer work between different computers, or if you had something collaborative, they could download it.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:09:51)
 
 So that's why it's so awesome for engineers. Okay, so it's now synced. So we can go ahead and open this. And then this repo, I will make accessible to everyone who's watching this video. So you can, it has all the files that we use throughout the whole team, whole time so that you can follow along. And so if you were on another computer, you could just copy this into, you could just tell Claude, hey, let's work on this repo. And it would pull all those files in. Okay, so the last thing we're going to do here is we're going to go ahead and we're going to add Claude as an app. And then I'll show you something cool that you can do with that. Okay, so the way it works is you go to github.com slash app slash Claude. So there's all different kinds of apps you can add to your GitHub repo.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:10:26)
 
 We're going to configure this. And then... I already have mine turned on so that Claude basically has access to all the repos. But then there's still one more step that you have to do, which is you have to go into that specific project. And so in order for Claude to be able to work in here, you have to add your API key. So what we're going to do is we're just going to add my Claude API key, which is anthropic key. And then again, I'll go ahead and delete this key right after the video, but we will include it here. Okay, so now Claude has been added to this repo. So what's cool is we can open up a new issue. So let's go ahead and test this. Create a new issue that just says say hello. Great. Then we're going to make a comment at Claude.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:11:06)
 
 Say hello. And now what's going to happen is Claude has been assigned that. So I could be, and I could do this from my app. I could do it from anywhere else. Right away, we kind of see this. Whoa, we get like a real emoji reaction here. Claude is telling us that he has seen it. And then now he's going to work this ticket and it will be a new comment. And the way that you can see these is if you go to actions. Oh, it actually picked that first one up too. So we go to our actions in GitHub and there's a lot, you know, as we kind of saw with hooks like when you get into some more of the engineering world there's like a lot of customization and setups you can do but this is just sort of the simplest thing where we're going to add Claude as an app so that it can take actions for us in the repo so now we can open one of these and uh oh my gosh could not man all these these demos are not working as well as I would have hoped today okay well One thing that you can do also is like with this repo, because we have Claude also here, we can say, look at the open issues.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:11:59)
 
 Why was Claude not able to work them? OK, so now our Claude that we have like on our own device is going to investigate and it will be able to look at the details and it will tell us. So this is like another good thing is like you can have and this is like a good workflow in general is let's say like as a as a real world scenario. So let's say that you as a product manager You have your PRD on your own device locally, and then you also have it in Google Workplace. But let's say you're at lunch and, you know, you're talking to your engineer and something comes up where it's like, oh, did we consider for that calendar integration feature? Did we consider how we should handle time zones? It's like, oh, yeah. I forgot Arizona actually doesn't have daylight savings. Then, you know, that's one of those things that you kind of normally you just have to remember when you're back at your desk, start a Slack conversation about it or something.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:12:43)
 
 But what you could do instead is you could actually just go into your GitHub repo on your phone or something. You could create an issue that says, make sure that we account for time zones in Arizona, you could create that and then you could act Claude. And then by the time you get back to your desk, it will have already worked that ticket so that you can then just pull it back down. And then you can see what it updated. And you can do all this stuff when you're like not even at your computer. One thing I personally use it for is I think I'm kind of a crazy person for doing this. But I have like my whole journal is like on GitHub. Luckily, it's a private repo. And I will just open an issue that's like a voice transcription of my day. And then I'll like at Claude and then Claude will add that to my journal for me.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:13:24)
 
 So there's all these kind of different things you can do when you are away from your computer with Claude, like accessible in the cloud. And that's just kind of the last thing I wanted to show is there's like step one of, you know, using Claude code while you're at your computer, but there's a lot more automations you can start to do if you add Claude into your repo. And then there's other stuff you can do too, where like, You can have it automatically run every day and then maybe check a couple of different sources and synthesize them and then add them into your repo so that you can pull them down when you're at your computer. So even though we covered fairly advanced features here, there's still like a lot more to kind of keep exploring with Claude and these automations when it's in the cloud.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:14:00)
 
 And since we've put people on GitHub, can you just give them the basics of using GitHub? Because I think a lot of people aren't going to know like pushing and pull requests and branching. What do they need to know about these terms that they've heard if they're going to use GitHub?
 
+<!-- sponsor -->
 **Aakash Gupta** (01:14:12)
 
 Yeah, so GitHub is, it's just the best place to kind of like store your files. It's just the easiest way for Cloud to work with these files. I was reading something and it said that Cloud is fiercely competent with Git. And that's kind of, Git is like the language of using GitHub. And so like literally anytime you need to do anything with GitHub or with Git, you can kind of just ask Cloud and it will basically do it correctly. But the main things to know are... So we have our this is a repo or a repository with all of our files. If we want to get those files onto our own computer, then we're going to pull them. And then if we've done work on our computer and then we wanted to go back into the repo, then we're going to push them. That's the really that's like the absolute basics.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:14:53)
 
 And then one thing that Claude will do, for example, let's say that you have Don't work on your computer, but you also want to pull work in. It will make sure that it's very, very good. It is fiercely competent. I get sold to make sure no work is lost. That's that's really the basics. If it's like a private repo where it's mostly just your own stuff, then it's really just pulling and pushing. The one other thing to know is like, let's say you're prototyping or building your own feature. then you might want to before you actually like just push that code like all the way into like the main repo like let's say that we had a website that was reading from this and we wanted to make sure that the website was like working with the new code rather than just sort of like pushing it onto like our main live site then what you can do is you can open up a branch and what that is is it's basically like a branch of that code that has new stuff and you can push the branch, but that won't make it go to like, whatever is actually deployed.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:15:44)
 
 And then you can test that branch. And then the last thing to know is that once you said, okay, this branch looks good, then you can merge it into main, which is sort of like your main repository. But I would say for most use cases of product managers, you kind of just need to know that you need to pull files down and then you need to push them up. And that's how you're able to sync them.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:16:01)
 
 Cool. So it's simple enough. Pull it from your GitHub, push it back when you're done. If you do this at the beginning and end of your session, now you can use GitHub. Now you can have Claude as your remote worker when you're out on the go.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:16:13)
 
 Yeah, exactly. And we won't cover it here. But once you have Claude in your GitHub repo, then you can just have like your local Claude set up all kinds of cool stuff. You can have it set up workflows where it checks a certain website for you every day and then sends you an email with updates from that website. You can do kind of like all types of things. And once you kind of get into that GitHub world where Claude is up there, then you can work with your Cloud Claude and your local Claude to do just even more stuff.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:16:39)
 
 Powerful stuff. Awesome. So if we had to summarize, right, what we've taught you guys today is from the beginning to the end of the feature, how you can get your survey responses, write your PRD, create your slides, create your tickets, even potentially service some of those tickets with Claude as an agent on your code base. So these are the big use cases of Claude Code. Is there anything else people should be exploring when they're thinking about Claude Code for PMs? I
 
+<!-- sponsor -->
 **Aakash Gupta** (01:17:04)
 
 think the main thing is just it's around everything that we've covered today. I kind of hope that it was really just like a good kind of inspirational example of seeing you can use Cloud Code locally. It can pull stuff in from anywhere. You can work on it locally and then you can push it back out. And anytime you're starting like a new task or something else, Just see, can I do it in cloud code is my best advice. Just can I do it in cloud code? And cloud is very good at understanding how cloud code works. And it will kind of help you figure out how to do that. And so the more you're able to do this, the more you build these workflows. And every time the first time will be done from scratch. But the next time you do it, you'll already have that workflow from the first time you did it.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:17:43)
 
 So just really have like a mindset of experimentation and know that the first time it won't be perfectly smooth. We didn't have everything work here perfectly today. But even just right now, from that demo that we just tried, now it actually just worked. Now Claude is saying hello. So it might not work perfectly the first time. But Claude is kind of there to help you and just keep that mindset of experimentation and keep trying to see how much more you can do. Because really, these tools are just going to get more powerful. They're just going to get more powerful. We have Cloud 4.5. By the time you see this, there might be Cloud 5 or Cloud 5.5, and it's going to be even more competent. And this is just the way that work is going to happen in the future. So I would say if you haven't started using Cloud Code, start using it now.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:18:22)
 
 And if you aren't using it for everything, see if you can use it for everything.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:18:25)
 
 That's our challenge to you guys. Try to do cloud code for more. And if I'm honest, you know, I don't use cloud code for everything. I use the UI for a lot of stuff, but I use cloud code for all of my big tasks, my tough tasks, the ones where I want to connect into various MCP servers, the ones where I want to use various context files, the ones where, like I said, I want it to pull down 200 web pages. So for anything powerful you want to do, try to use cloud code. Bring that into your way of working because the people who get ahead of these tools, the people who are really learning how to use these tools first, First of all, all your companies are now evaluating you on how you use AI. So you're going to do well on that. Second of all, you're going to become known as that person amongst your PM team, your product leadership.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:19:05)
 
 So when your product leaders have a question about cloud code, they'll start coming to you. And then finally, you yourself will become more productive. Some of these things, as we saw, they don't make you more productive. So I want you to be careful about where you use it. But... Figure out the intuition for when you should and shouldn't use it. Bring Cloud Code in. My guess is the way PMs work, what they spend time on five years from now will look nothing like what they're doing today, which already looks nothing like what it was five years ago. So stay ahead of this. And Carl, thank you so much for bringing us along the bleeding edge of it.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:19:36)
 
 Yeah, thanks for having me. It was great.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:19:38)
 
 Bye everyone. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akushg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder

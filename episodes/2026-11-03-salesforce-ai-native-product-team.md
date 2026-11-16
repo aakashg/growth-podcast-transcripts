@@ -44,6 +44,7 @@ I think that third layer now is the life cycle that all of this is under. I thin
 
 One piece of advice I have always is
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:08)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. Jayesh Govindarajan has spent over 25 years in the tech industry, rising up from being a software engineer to leading a huge 400-person engineering org at Avaya, starting his own four-person startup which was acquired by Salesforce, and now has worked his way up to leading a 700-person org which is responsible for Salesforce AI, And agent force. So he has a ton to teach you about how to build an AI native company, an AI native engineering team, and an AI native product team.
@@ -416,10 +417,12 @@ All right. Jayesh, thank you so much for being on the podcast.
 
 Absolutely. My pleasure.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:56:19)
 
 All right. I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check the I hope that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better. We should interview and we will put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter. Plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:57:08)
 
 That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you. And I can't wait to share our next episode.

@@ -88,6 +88,7 @@ But in reasoning models, it will actually iterate on those steps. Another one is
 
 So what should be the prompt, assuming this is the outcome? And that's a very powerful technique.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:09:42)
 
 Okay, so that's skill one for AI product managers. You need to be able to prompt well. You can't just prompt like an average person, right? You need to be prompting at a very high level. The way I would think about prompting is try to think about it like chess, right? hey let me take a quick break to talk about something that's completely changed my product management workflow linear as a pm i was drowning in tools one for planning another for issue tracking roadmaps and sheets and jumping between slack intercom and app reviews just to piece together customer feedback sound familiar i was spending more time keeping systems in sync than actually building product every time development kicked off my carefully crafted plans would immediately need updating i was the human api between all our teams constantly chasing updates and translating between tools That's why I love Linear.
@@ -97,6 +98,7 @@ Okay, so that's skill one for AI product managers. You need to be able to prompt
 
 I can capture customer feedback, shape product ideas collaboratively, quarterback cross-functional teams, and monitor development progress in one place. It cuts through the maze of disconnected systems that are complicating my life. Product teams at OpenAI, Vercel, Brex, and Cash App all use Linear. If you're tired of spending your days keeping different tools and teams in sync, check out Linear at linear.app.com. That's linear.app.com. today's episode is brought to you by miro let me ask you something how many tools are you juggling just to get a single project across the finish line one for brainstorming another for planning something else for tracking tickets that's where miro comes in it becomes an all-in-one collaboration workspace whether you're consolidating user research from several interviews developing and synthesizing product briefs or a wireframe or project managing development Miro brings everyone into the same space. It's fast, intuitive, and fully loaded with features like project templates, two-way Jira Sync, and integration with software like Draw.io and PlantUML.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:27)
 
 Miro's AI features can be used to synthesize elements in a board to develop a ready-to-review product requirements document in seconds. If you're tired of tab overload and scattered workflows, try Miro. Head to Miro.com and see why over 90 million users choose Miro to guide from idea to outcome. You can get pretty good at chess if you put in a couple hundred hours, but you're not going to suddenly be Magnus Carlsen until you put in 10, 20, 30,000 hours. And so Paul is sharing some of his hard-won tips and tricks after putting in those hundreds and thousands of hours. I want to move to the next area for AIPMs, which I think this is the one where... It's now veering really into the PM skills, which is an AI PRD. How do you write a PRD in an AI context?
@@ -203,6 +205,7 @@ This is probably must have forever any query, any prompt that you are executing 
 
 Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact and turn those insights into the digital experience maturity assessment. In two minutes you'll be able to see where your team stands and what you can improve to build better products faster. Click the link in the caption to take the free assessment and get a clear path to product growth. Because we know those expensive models, they're way too expensive if you have somebody paying you $20 a month. So you have to reduce the cost on these things, and this is how you do it. So the other concept that people talk a lot about is rag.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:07)
 
 Can you explain that to us and show us how that works?

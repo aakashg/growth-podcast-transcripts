@@ -57,6 +57,7 @@ That's probably one of the big ones that comes up is if we position, let's say, 
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute, and within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's attio.com slash product growth. When it comes to strategy, people are always thinking about the market and the use case.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:44)
 
 And you've written about there being two types of positioning. Can you explain those?
@@ -270,6 +271,7 @@ You have these amazing product claims of what it's going to do and it doesn't de
 
 Let's talk about one of the biggest untapped opportunities in product management, unstructured data. You've got tons of it, customer calls, emails, surveys, tickets, Slack messages, you name it. We all know that hidden in that chaos are the insights that could define our next product feature. But how do you extract those insights without losing hours sifting through the noise? That's where BuildBetter.ai comes in. BuildBetter doesn't just organize your data, it transforms it. Imagine every customer call, every internal discussion instantly turned into structured, actionable insights. That's BuildBetter.ai. Ready to transform how your team handles unstructured data? head over to buildbetter.ai and see for yourself. Use code AKASH15 for 15% off your first three months and get five hours of free recording time. That's buildbetter.ai because in product management, insights are everything. And that brings us nicely into the second section of our conversation. So we've just gone through a masterclass in positioning.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:40:29)
 
 And what did Anthony mention? There's a difference between how you position in a sales call versus on your homepage. And that's where we want to double click now, your homepage. What is the purpose of a homepage?

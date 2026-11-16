@@ -44,10 +44,12 @@ That's kind of like career reputation suicide, I feel like, for a PM at this poi
 
 In my opinion, yes, unless...
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:56)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now into today's show. Everybody keeps saying loops are the new prompts. What does that actually mean for product managers? How do you actually build a loop that's effective? What are the steps to improving that loop? Today, we brought in somebody who has the data scientist He has a scientist and engineering background. He is the chief AI officer. He leads up product and engineering at one of Utah's most exciting startups, JobNimbus. Tyler is going to walk you through not only how to set this up, How to improve these loops, how to think about these loops.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:00)
 
 Nobody is teaching you how to do loops specifically for product work. If you are an engineer, if you are a designer, if you are a founder, you're going to learn so much about how you can potentially vibe PM. If you are a product manager, you are going to learn how to make loops and use loops. So I hope you enjoy this episode as much as I did. Tyler, thanks for being here.
@@ -129,6 +131,7 @@ Because what we're seeing is these loops that you might build or these skills or
 
 Yes, I felt that way about a lot of my core skills. Here's a quick word from our sponsors. I used to think I had a retention problem. Turns out I had a messaging problem. I was sending the same onboarding emails to every new user whether they activated on day one or never logged in again. I had no idea who was slipping or why. Customer.io changed that. Every message I send is now based on The AI agent makes it fast. I describe the campaign I want and it builds the full journey form. Triggers, timing, copy, even And when I want to know how something is performing, I just ask the agent directly and it tells me what to do next. They also have an MCP server, which means AI tools like Claude can see directly what's happening in your Customer.io workspace. Your segments, your customer data, So instead of explaining your business context every time you need help, Claude already knows it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:55)
 
 Notion used customer.io to personalize their onboarding and hit nearly 50% open rate. Improved conversion by 6-7% with localized candidates. The idea is simple. Customer.io helps you deliver more impact from every message you send. If you're a PM or founder and your onboarding is still one-size-fits-all, try Customer.io at Customer.io. If you've worked at any company bigger than 30 people, you know this one. The CEO sets strategy. By the time it reaches the people actually doing the work, it goes through three or four layers of translation. Half of it gets lost and nobody finds out until the quarter is over. That's the problem Ariso is built for. This is my operating partner for every manager and team. It connects to where work actually happens, the meetings, the messages, the docs, and it turns
@@ -335,6 +338,7 @@ Quick thought experiment for you. Is there anything in this video you should be 
 
 First, Ask Victor has replaced our Monday Second, scheduled tasks run the work that no Nobody wants to remember. Every morning, Victor checks overnight support tickets, drafts replies for the on-call to approve, and escalates anything mentioning churn. Nobody had to ask for it. Finally, spaces ship internal tools in minutes. Ask for a renewals dashboard, Victor builds it. The team can stop opening four tabs to get the same view. So stop chatting with AI and start working with it. Get started at victor.com. There's $100 in free credits with no card required at VIP. Quick question. Does your AI coding tool have a design system or a theme? Because there's a massive difference. A theme is a few hex codes, a font and a logo. You paste it in and your AI built app sort of looks like your brand. Sort of. The buttons are wrong, the spacing is off, and if your engineer tries to use the code, they're rewriting every component from scratch.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:46)
 
 A design system is your actual component library,
@@ -348,6 +352,7 @@ your buttons, your modals, your token definition.
 
 The code your engineers already ship with. Bolt.new's design system agent ingests your real system, upload your NPM packages, your CSS, your documentation. The agent builds a complete design system from your actual code. Every project on Bolt.new uses your real components. So when engineering pulls the code, they see their own primary button, their own design tokens, their own architecture, nothing to rewrite. Every other AI tool gives you a costume. Bolt.new gives you the actual uniform. Check it out at bolt.new slash akash. Imagine learning AI product management, AI product strategy, AI product leadership, advanced PM with Claude Code, all from frontier leaders at OpenAI, Anthropic, and Google for less than $10 a day. Actually, you don't have to imagine it. That's exactly what Product Faculty's AI Builder Fellowship gets you. One yearly membership, six live cohorts. Not recorded videos or another content library you never finish. Real live sessions with frontier AI leaders, hands-on AI build labs, executive Insight sessions, capstone projects, unlimited retakes, and continuous access to new programs as the AI landscape evolves.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:35:09)
 
 You'll also get every new certification they add while you're a fellow at no extra cost. The goal is simple, help you master Frontier AI skills to become an AI native product builder and operator, not just someone who talks about AI. Purchased separately, these programs are worth more than $19,245. The lowest price certification alone starts at $2,700. But founding members can join the entire fellowship for less than $3,600 per year. That's less than $10 a day. Soon, the price increases to $5,000 a year. So if you're serious about becoming the person your company turns to for AI, this is one of the highest ROI decisions you can make this year. Join the AI Builder Fellowship at productfaculty.com.
@@ -592,6 +597,7 @@ Sounds like a place where you can actually improve your AI skillset instead of b
 
 with your learnings and time today. Yeah, thanks so much for having me. It was super fun. See you guys in the next episode.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:07:43)
 
 I hope you learned as much from today's episode as I did. If you can do one thing that's totally Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. Trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we will put on the best shows we possibly can. Finally, don't forget my offer. For the bundle, you get an entire year of my paid newsletter, plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episodes.

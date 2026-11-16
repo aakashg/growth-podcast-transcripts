@@ -65,14 +65,17 @@ So even if you have a go-to-market model and the growth model identified, there'
 
 Today's episode is brought to you by June, the customer analytics for product-focused teams. Are you not sure what users do in your SaaS? What features they use the most? Do you wish that you could know what each company does and use this information to generate incremental lift in revenue? June is the product analytics platform you need. It generates profiles for each of your customers that get you closer to your most important ones. It also connects your product data to your CRM so you can get a full view of your customers in one place. So you can engage with the right message at the right time. What makes June different is that it's made for B2B SaaS. It comes with account level analyses, fast ways to look up your customers, and CRM integrations to share this information between your product, your success, and sales teams. and one line of code is all you need, and you're good to go.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:06)
 
 Sign up for a free trial today at june.so slash akash. That's j-u-n-e dot s-o slash a-a-k-a-s-h. You get a discount if you use my link. Building great products is not easy, but today's podcast partner Statsig provides a complete platform for product growth. Here's how. Step one, keep building features behind feature gates. Statsig will allow you to turn these on whenever everything is ready. Even better, you can just open a feature to 5% of your users to validate it before launching. Step two, run A-B experiments easily. you can make data-informed decisions about your product. What's even cooler, Statsig will give you valuable insights based on events you log. And step three, analyze. Statsig is a full tool for product analytics, session replays, and web analytics. Used by customers like OpenAI and Notion, Statsig is the most modern all-in-one data platform. And best of all, it can be used as fully cloud-hosted or run on top of your data warehouse.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:17)
 
 So check out statsig.com slash growth. And if you reach out, tell them Akash sent you. It seems to me like there's basically three DNAs of growth organizations. One is like the growth product DNA. So these are the types of people who they're leading teams of engineers and designers, and they're going into different parts of the product. Maybe they own like in a PLG motion, the self-serve areas, like activation, expansion. Yeah. pricing and packaging. And then there's the growth marketing flavored growth leader, where oftentimes they're very focused on programmatic ways to buy direct response advertising, optimizing the funnel of that direct response advertising all the way through to kind of retention. Then there's this final element, which is like the growth sales leader, which is all about acquiring leads, thinking about how Installing this dialer that is injecting nitrous into your SDRs that is forcing them to call 500 times a day and booking you 24 more meetings by creating your AI SDR and then funneling that through to your enterprise account exec who uses usage stats in the free version of your product, right?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:30)
 
 These are like kind of like the three that I have encountered. Do you think that's a fair taxonomy of kind of the three types of heads of growth?
@@ -806,6 +809,7 @@ Do you think this would work? I started consulting with them a little bit. And t
 
 This episode is brought to you by Dovetail, the AI first customer insights hub for all teams. Dovetail has always been the go-to tool for teams that want to find insights in customer calls, user interviews, or documents. Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform channels, or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. You can even recruit from over three million participants directly in dovetail all of this is just the tip of the iceberg dovetail wants to give everyone in the organization instant access to their customers at any time from roadmaps discovery to strategy sessions and more it's never been easier to make customer-centric decisions the good news listeners of this podcast can try dovetails pro plan along with their newest products and features free for 30 days just go to dovetail.com slash akash That's the candidate side.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:38:35)
 
 Let's flip to the company for a second. If you're thinking about hiring a head of growth, what are the profiles you should be looking for? How should you be finding, okay, these are the background elements I want in my head of growth.

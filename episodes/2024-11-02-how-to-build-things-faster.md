@@ -65,10 +65,12 @@ Well, the family history part can now tell who... in your ancestor group, like w
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the product growth newsletter, setting up Addio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. This episode is brought to you by Dovetail, the AI-first customer insights hub for all teams.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:35)
 
 Dovetail has always been the go-to tool for teams that want to find insights in customer calls, user interviews or documents. Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform, Channels, or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. You can even recruit from over 3 million participants directly in Dovetail. All of this is just the tip of the iceberg. Dovetail wants to give everyone in the organization instant access to their customers at any time. From roadmaps, discovery to strategy sessions and more, it's never been easier to make customer-centric decisions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:23)
 
 The good news? Listeners of this podcast can try Dovetail's pro plan along with their newest products and features free for 30 days. Just go to dovetail.com slash akash. So both of those are like B2C. And is there a B2B component of Ancestry's business?
@@ -438,6 +440,7 @@ And this is based on the data that I have seen in the past. So it's not just lik
 
 This episode is brought to you by Interpret. Interpret unifies all your customer interactions, from Gong calls to Zendesk tickets to Twitter threads and App Store reviews, making them available for comprehensive analysis. As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their Wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com slash product growth. That's E-N-T-E-R-P-R-E-T dot com slash product growth. How do you think about that across a trio?
 
+<!-- sponsor -->
 **Aakash Gupta** (01:04:41)
 
 So do you have like a growth product design lead who's your counterpart and a growth product engineering lead who's your counterpart who's helping make those decisions?

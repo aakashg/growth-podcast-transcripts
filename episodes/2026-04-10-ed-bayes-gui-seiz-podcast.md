@@ -44,10 +44,12 @@ Yeah, I would agree with a lot of that. I can then copy a link to this component
 
 Now I don't need to. Now I can just ask a question and be like, can you build this? And if it starts to do something, I can ask,
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:11)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashji.com. And now into today's episode. When should you start in code and when should you start in Canvas? What does this step-by-step roadmap look like for designing in the new AI design workflow? And how should PMs be working with designers and engineers in 2026? They share everything. There's a million people talking about design with AI, but few sit at the frontier like Ed Baes and Guy Sayes.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:03)
 
 Ed is the head of design for Codex at OpenAI and Guy Sayes is the head of design for AI at Figma. These are the two companies defining the future of AI design. And today they're answering how you should design with AI, how you should move from Codex to Figma and back again, how you should start in code and when you should start in Canvas. They're giving you the roadmap so that as you are designing any product, you can design it with the latest and greatest tools. This is never before seen access and they rarely do podcasts. You're getting a once in a lifetime opportunity to learn design from the best. Guy, Ed, welcome to the podcast.
@@ -148,6 +150,7 @@ Um, And then the very cool thing, so like, you know, this is just a small change
 
 But this doesn't block you, right? Now you and your engineer can kind of collaborate in a more seamless way and it no longer becomes these like siloed areas. It's like way more fluid and the handoff is like much simpler.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:45)
 
 Here's the dirty secret about prototyping. You spend two weeks building a prototype. You validate your assumptions. Engineering loves the direction. Then what happens? You throw the whole thing away. Bolt changes this completely. When you prototype in Bolt, you're not building throwaway mockup. You're building real front-end code that integrates with your existing design system. So when you hand it to engineering, they don't throw it away. They ship on top of what you've built. I use Bolt every single day. I host my LAN PM job cohort on it. And honestly, I'm up till 2 AM some days just vibing in the tool, having fun, and building. That's when you know a product is good. When you're using it past midnight, not because you need to, but because you want to. Check out Bolt at bolt.new slash akash. That's B-O-L-T dot N-E-W slash A-A-K-A-S-H. Link in the show notes.
@@ -375,6 +378,7 @@ I could probably ask you guys another hour of questions just on this topic, but 
 
 Thank you. Thank you for having me. All
 
+<!-- sponsor -->
 **Aakash Gupta** (00:52:48)
 
 right, everyone. See you later. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the Finally, do check out my bundle at bundle.akashi. to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

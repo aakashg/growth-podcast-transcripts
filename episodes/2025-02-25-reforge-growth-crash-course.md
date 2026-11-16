@@ -49,10 +49,12 @@ And the three parts of the engine are essentially acquisition, retention, and mo
 
 Today's episode is brought to you by Gibson AI, the future of backend development. Imagine a world where designing, deploying, and scaling your database is as intuitive as having a conversation. Gibson AI makes that a reality. Gibson AI is your very own AI database engineer. In just minutes, you can chat with Gibson to design production-grade data models, automatically generate secure REST APIs, and even eliminate technical debt that's been holding your team back. Whether you're launching a brand new product or modernizing an existing app, Gibson AI handles everything from data migrations to integration, so you can focus on building what matters most. Gibson AI is built for the modern engineering team, empowering you to accelerate development, reduce tedious coding, and deliver powerful solutions faster than ever before. Head over to gibsonai.com slash Akash to experience the future of automated data modeling. That's G-I-B-S-O-N-A-I dot com slash A-A-K-A-S-H. And use code Akash50 for 50% off your first 12 months.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:41)
 
 Trust isn't just earned, it's demanded. Whether you're a startup founder navigating your first audit or a seasoned professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. That's where Vanta comes in. Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC 2 and ISO 27001. centralized security workflows, complete questionnaires up to five times faster, and proactively manage vendor risk. Vanta can help you start or scale your security program by connecting you with auditors and experts to conduct your audit and set up your security program quickly. Plus, with automation and AI throughout the platform, Vanta gives you time back so you can focus on building your company. Join over 9,000 global companies like Atlassian, Quora, and Factory who use Vanta to manage risk and prove security in real time. For a limited time, my listeners get $1,000 off Vanta at Vanta.com slash Akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:38)
 
 That's V-A-N-T-A dot com slash A-A-K-A-S-H for $1,000 off.

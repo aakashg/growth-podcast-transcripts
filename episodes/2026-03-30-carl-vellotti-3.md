@@ -48,10 +48,12 @@ This is how most people use Cloud Code. Type a prompt and get output. Carl Vlade
 
 When you understand how Claude works, it makes it feel less like you're just prompting Claude and watching it and more like you understand how it works and you're working together.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:20)
 
 where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, DeepSky, ReforgeBuild, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. OpenAI just acquired OpenClaw, Anthropic released Cowork, and the question on the top of everybody's minds is, does Claude Code still matter? Karl Velati has been knee deep in these tools and he says the answer is yes. His last two episodes crossed over a million views across platforms and if the first episode was the beginner version of Claude Code and the second episode was the advanced masterclass, today is the operating system layer. If you're already an 80 out of 100 on cloud code, we're going to bring you to a 95 out of 100. And if you stay till the end, you will understand context management, creating sub agents to manage your context for you, auto triggering skills and building an operating system around it all.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:22)
 
 So let's get right into it. The question on the top of everybody's minds is, should they still be using cloud code in a world of co-work and open claw? What do you think?
@@ -116,6 +118,7 @@ Yeah, that's a good question. First of all, I would say the compacting is kind o
 
 But the real kind of the real even like bigger and more important lesson is that as I've been using AI more and using cloud code more, I knew this before that everyone says it's not about prompt engineering anymore. It's about context engineering. But that's just absolutely, it's kind of the golden rule of using these AI and using these really powerful tools. They are able to work with the information that they have. And so you want to make sure that they're only having the information that you actually need them to have, but that when they need that information, it's kind of everything that they could possibly use. And so you can, if you're limiting the things that they don't need, then it provides a lot more room for you to include the things that you do need. And the overall quality just really dramatically goes up.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:18)
 
 Exactly. And I think that there's still this phenomena of context rot, which has been measured, which is that as you get longer into the conversation, the quality degrades. And as you use up your context window, you're going to see that happen. So you actually want to give AI minimal amount of context to actually have it understand what you want it to do. Exactly. Exactly. Here's the dirty secret about prototyping. You spend two weeks building a prototype. You validate your assumptions. Engineering loves the direction. Then what happens? You throw the whole thing away. Bolt changes this completely. When you prototype in Bolt, you're not building throwaway mock-up. You're building real front-end code that integrates with your existing design system. So when you hand it to engineering, they don't throw it away. They ship on top of what you've built. I use Bolt every single day. I host my LAN PM job cohort on it.
@@ -125,6 +128,7 @@ Exactly. And I think that there's still this phenomena of context rot, which has
 
 And honestly, I'm up till 2 AM some days just vibing in the tool, having fun, and building. That's when you know a product is good. When you're using it past midnight, not because you need to, but because you want to. Check out Bold at bold.new slash akash. That's B-O-L-T dot N-E-W slash A-A-K-A-S-H. Link in the show notes. Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences. But many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. Neither approach gives you a truly mobile experience. Amplitude does things differently. Their mobile replays capture the full experience. Every tap, every scroll, and every gesture with no lag and no performance hit.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:00)
 
 It's the most accurate way to understand mobile behavior. See the full story with amplitude.
@@ -322,10 +326,12 @@ Yes. Skills with tools are definitely more powerful. So that's what we'll look a
 
 Today's podcast is brought to you by Pendo. Welcome to the SaaS plus AI agent era, where every product team, no matter the size, can build world-class experiences. Meet Pendo AI agents, virtual teammates that read your product data, chat with users, and take smart in-app actions so you don't have to. With Agent Analytics, Pendo shows exactly how those agents drive adoption, complete tasks, and even cut churn. No extra engineering lift, fully SOC2, and HIPAA ready. And because Pendo's behavioral insights sync straight back into your BI stack, you get AI-ready data to fine-tune models and prove ROI in one place. Smaller team, bigger ambitions. You no longer need an army to deliver software your customers love. Grab early access at Pendo.com slash Akash. That's P-E-N-D-O dot com slash A-A-K-A-S-H. Today's episode is brought to you by Naya One. In tech buying, speed is survival. How fast you can get a product in front of customers decides if you will win.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:14)
 
 If it takes you nine months to buy one piece of tech, you're dead in the water. Right now, financial services are under pressure to get AI live. But in a regulated industry, the roadblocks are real. NIA1 changes that. Their air-gapped, cloud-agnostic sandbox lets you find, test, and validate new AI tools much faster. From months to weeks. From stuck to shit. Thank you for listening. making hundreds of thousands of dollars more, joining OpenAI and Anthropic, then you might want to do a course that I've taken myself, the AIPM certificate ran by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy. So check out our newsletter articles if you want to see the quality of the type of thinking you'll get.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:19)
 
 One of my frequent collaborators, Pavel Hearn, is the Build Labs leader. So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate. So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode.
@@ -622,6 +628,7 @@ Amazing. We love having you, Carl. Thank you so, so much.
 
 All right. Thank you. Bye,
 
+<!-- sponsor -->
 **Aakash Gupta** (01:06:01)
 
 everyone. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode. you

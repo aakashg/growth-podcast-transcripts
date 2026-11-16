@@ -44,6 +44,7 @@ How can I become an AI PM in 2026?
 
 Follow these steps. Number one is make sure that your product sense skills are exceptional. The second part is make yourself aware about certain technical concepts and some Gen AI concepts. Most of the PMs have no idea about how to write evaluations. They have no idea about how to go ahead and build a production level app. In these 60 minutes, I'm going to assure you that you are not only going to understand the fundamentals of evals, but I'll give you a real case study where we are going to help you understand how to plan your evals like a pro AI PM. Let's get
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:12)
 
 right into it. Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. Quick note for my audio listeners, there are some things that we showed, which you can see on Spotify or YouTube, but we've edited this audio so that it's a really good listening experience nonetheless. Ankit, welcome to the podcast.
@@ -437,6 +438,7 @@ Correct. We don't understand. Your evaluation did not come out of your own mind.
 
 Which is, I've just done the evals, the product is done, now what do I need to do? But if you're not observing, if you're not setting a cadence for improving your evals, improving your prompts, then you are going to suffer from data drift. And it happens with many of the products. Initially, when it launches, it looks very good. But after a certain period of time, the expectations of the users are also increasing. That is one thing. But the quality of the things get reduced because now the data has changed. Like the evaluations need to go ahead and evolve. Right. So this is like the end to end, how you are going to go ahead and do like a real life production level in your evaluation documentation as a product manager. I understand you don't need to like create this detailed documentation, at least create something basic and take the help of LLMs and just make sure that before you reach to the team, you are able to take a quick look on the same.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:55:44)
 
 You know that feeling when you try to prototype something with AI and it spits out something completely generic? Then you spend hours tweaking colors, fonts, copy, and features just to make it feel like your actual product? Here's the problem. Most AI app builders aren't built for product teams. They're built for those starting from scratch. But product teams aren't building from zero. You have an existing product, real customers, design guidelines, a backlog full of ideas you need to explore and validate fast. That's what Reforge Build does. AI prototyping that starts from your product. Add your customer feedback, strategy docs, and product features as context. Create reusable templates using your product design. Explore multiple variants side by side. Collaborate with your team in one place. Reforge Build generates prototypes that reflect your real pricing tiers, real features, real customer language, not generic placeholder. Stop fighting tools built for founders.
@@ -494,6 +496,7 @@ So that'll give you all the resources to go build these evals yourself. Don't be
 
 Thanks, Arulakash. Happy to be here and happy to be helpful.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:03:11)
 
 See y'all later. Take care, guys. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating, a review on Apple or Spotify and commented on YouTube. All these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akushg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

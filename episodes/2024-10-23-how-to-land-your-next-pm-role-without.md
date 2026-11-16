@@ -53,10 +53,12 @@ So much more powerful, so much more appealing than the generic product leader wi
 
 This episode is brought to you by Interpret. Interpret unifies all your customer interactions, from gong calls to Zendesk tickets to Twitter threads and app store reviews, making them available for comprehensive analysis. As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their Wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com slash product growth. That's E-N-T-E-R-P-R-E-T dot com slash product growth. This episode is brought to you by Sprigg.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:46)
 
 What if product teams knew exactly what to build to reach their goals? From increasing conversion to boosting engagement, these challenges require a deep understanding of your users, something we can't get from product analytics alone. Meet Sprigg, a product experience platform that generates AI-powered opportunities to continuously improve your product at scale. First, Sprigg captures your product experience in real time through heat maps, replays, surveys, and feedback studies. Then, Sprigg's industry-leading AI instantly analyzes all of your product experience data to generate real-time insights. Sprigg AI goes even further with actionable product recommendations to drive revenue, retention, and user satisfaction. Join product teams at Figma and Notion by uncovering AI-powered product opportunities at scale. Visit sprig.com slash product growth podcast to book a demo and get a $75 gift card. 100%. So when you coach people on the angle of mastery, what is the fine line between choosing something you're truly an expert in and something you want to be an expert in?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:58)
 
 How much experience do you need to say, okay, I'm a master of this or pitch yourself in a specific area?
@@ -362,6 +364,7 @@ Why do you think we're having this? Okay, well, have you noticed the implication
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. I'm going to send this to her. Okay.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:49:12)
 
 So communication matters. And you have this statement that I like that PMs often fail because they don't focus on communication. So what's a framework or tactic that's worked for you to align teams around product decisions?

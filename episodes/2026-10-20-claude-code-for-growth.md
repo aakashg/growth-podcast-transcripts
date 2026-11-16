@@ -44,6 +44,7 @@ So you've taught over 400 people now. What do most people get wrong as they're
 
 learning this stuff?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:18)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now, into today's show. We've been talking a lot about how you use Claude Code for product work,
@@ -584,10 +585,12 @@ So I've got your LinkedIn here. People got the GitHub link below. You're on YouT
 
 I think you've covered it. I mean... I post daily tips on LinkedIn. I am posting a good video every week on YouTube. If you want to book a call with me, there's a link on the Agent Accelerator website to find out if we would be a good fit. But yeah, I think you are more prepared than I was there with all the links. So I think that covers it.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:06:15)
 
 All right, guys, we'll put those in the description or the email where you found this and see you in the next episode. I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we We'll put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tools, Boltut New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:07:09)
 
 That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you, and I can't wait to share our next episodes.

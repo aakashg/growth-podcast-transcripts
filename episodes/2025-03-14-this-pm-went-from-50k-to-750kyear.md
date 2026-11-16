@@ -53,10 +53,12 @@ Yahoo? Yeah. So... At Yahoo, I started with a compensation between like 125 to 1
 
 If you're enjoying this episode with Satish, you'll love his course on Maven, today's podcast sponsor. The problem with most courses online like Udemy is there's no live component and the instructors aren't experts in their fields, they're professors. At Maven, you get direct live access to experts and operators from the world's best tech companies. You can't get that access anywhere else, in any university, and you usually can't find them on YouTube either. I featured so many of Maven's experts in the newsletter and podcast for that reason. To help you out, I've put together a collection of courses I recommend at maven.com slash x slash Akash. This includes courses like AI prototyping for PMs, product sense for PMs, and getting an AI PM certification. Visit it now at maven.com slash x slash A-A-K-A-S-H. Today's episode is brought to you by Gibson AI, the future of backend development. Imagine designing, deploying and scaling your database as effortlessly as having a conversation.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:29)
 
 With Gibson AI, that's now a reality. Gibson AI is your AI-powered database engineer. In just minutes, you can chat with Gibson to create production-grade data models, deploy them on Gibson's cloud infrastructure, and instantly generate secure REST APIs. Connect your front end directly to your Gibson built database or drop the API specs into Cursor, V0, or Bolt to build a full stack application seamlessly. From idea stage to millions of users, Gibson scales with you. Gibson optimizes your database as you grow and enables easy schema updates and migrations. So head over to gibsonai.com slash Akash. That's G-I-B-S-O-N-A-I dot com slash A-A-K-A-S-H to sign up for free and experience the future of automated data modeling. So would you say, I believe you had a VP title when you were an engineer. You went all the way down to the lowest level of PM. How were you so bold to do that?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:32)
 
 And was the compensation at least similar to what you were making? Or did you take a big cut in compensation as well? So at the startup that I was working,

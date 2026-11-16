@@ -44,10 +44,12 @@ bad code. Transformation is a big goal. Can you go ahead and show people how the
 
 It has four steps. The first one, lovable. The second step, a mix of lovable and plot codes. The third step is plot code and versell. And the fourth step is multi-clot code, multi-versell, and a lot of automation and agents.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:53)
 
 One of the things you wrote about on LinkedIn is that there are now only four jobs. Can you explain this? Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. If you're like me, you're getting overwhelmed by all of the AI tools, all the AI noise out there, and 90% of the guides assume that you are technical and you're an expert in cloud code. Today's episode is nothing like that.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:47)
 
 We are going to show you very step by step how you can start with lovable and AI prototyping, how you can layer in cloud code to your lovable workflow, then how you can move to full cloud code, and finally how you can use Cloud Code with tools like Vercel and Cursor to actually ship updates to your code base. There is not an episode like this on YouTube and I think I brought in the best person to do it. Andre Albuquerque really excels in giving you simple understandings, building up your knowledge from zero. So if you're a non-technical PM and you watch till the end, I guarantee you will feel more confident using Cloud Code and we will even give you the Monday morning roadmap to go talk to your engineer. So let's get into it. Andre, welcome to the podcast.
@@ -101,6 +103,7 @@ I used to think I had a retention
 
 problem Turns out I had a messaging problem I was sending the same onboarding emails to every new user whether they activated on day one or never logged in again I had no idea who was slipping or why Customer.io changed that Every message I send is now based on what users actually do in the product Someone hits a key activation They also have an MCP server, which means AI tools like Claude can see directly what's happening in your customer.io workspace. Your segments, your customer data, your attribution, all of it. So instead of explaining your business context every time you need help, Claude already knows it. Notion used customer.io to personalize their onboarding and hit nearly 50% open rate. Improved conversion The idea is simple. Customer.io helps you deliver more impact from every message you send. If you're a PM or founder and your onboarding is still one-size-fits-all, try Today's episode is brought to you by Amplitude.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:34)
 
 Replays of mobile user engagement are critical to building better products and experiences. But many session replay tools don't capture the full picture. Some tools take screenshots every second. leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understanding. Neither approach gives you a truly mobile experience. Amplitude does things differently. Their mobile replays capture the full experience. Every tap, every scroll and every gesture with no lag and no performance hit. It's the most accurate way to understand mobile behavior. See the full story with amplitude.

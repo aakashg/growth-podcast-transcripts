@@ -36,10 +36,12 @@ and this is completely dead.
 
 Here's my employment registration error. I wish I could be making this money. I don't, but that's not my real life.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:46)
 
 I thought you just doxxed your salary. For your fellow CPOs out there who are running product teams that aren't where you're at now, what is the roadmap to transform your team into this new way of work? Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now into today's show. Look, we've had a lot of startup CPOs on the podcast, AI native CPOs on the podcast who are showing you how their teams build with AI. The difference with today's episode is you have the CPO of a public company.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:47)
 
 Freshworks went public in 2021. They're valued at $3.8 billion. They're known for their employee experience and customer service platform. They have over 70,000 customers. They are a giant of SaaS. How do you move a giant, which is serving enterprises, into the new way of building AI? Freshworks was known for a six-month release cycle. How do you go from a six-month release cycle to a two-week release cycle? Srini drops all of the knowledge today. And one of the coolest things about today's episode is he doesn't just talk about it. He actually shows you. So I hope you enjoy this episode as much as I did.
@@ -453,10 +455,12 @@ It was a pleasure. All right, guys. So I hope you enjoyed that deep dive into ho
 
 If you want more episodes like this, comment below.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:04:08)
 
 I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview, and we will put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter, plus my favorite AI tool. Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:04:59)
 
 That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you. And I can't wait to share our next episode soon.

@@ -30,7 +30,9 @@ This repo is every episode of The Growth Podcast with Aakash Gupta, one markdown
   (the `youtube_url` at the timestamp) before you publish a quote.
 - `speaker_names: "substack"` means names came from the episode's speaker map. `"inferred"` means they were set from
   the title and the host's intro, so double-check who is talking on short turns.
-- Some episodes carry sponsor reads. They are normal turns spoken by the host.
+- Sponsor reads are marked with `<!-- sponsor -->` on the line above where they were detected (about 1,000 paragraphs).
+  Detection is best effort: a few mid-roll reads that name no URL or code are unmarked, so skip host monologues about a
+  product that has nothing to do with the episode.
 - Attribute every claim to the person who said it, with the episode and timestamp. Never invent a quote.
 
 ## License

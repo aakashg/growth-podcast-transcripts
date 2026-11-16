@@ -153,6 +153,7 @@ Okay, makes sense. So just to play that back, right? The easier way, what you're
 
 Yeah, so the hard way would be basically spinning up your own MCP server. That's the first thing. Getting that hosted on the internet somewhere. And then understanding how to write the code to build these tool definitions, as well as to build the UI. And there is something called bundling that has to happen, which is when it translates your UI code into something that ChatTPT can actually understand and render. Because the code that you write doesn't just get downloaded and rendered in the same format inside of ChatTPT. It has to go through this little process, bundling. And so you'd have to also bundle your kind of UI code. And then the last thing is just understanding what the options are. So like, you know, how to interact with the full screen version of apps versus maybe like the picture in picture or inline. All that kind of like guidelines that ChatGPT provides or OpenAI provides on how apps should be built.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:23)
 
 All that stuff is kind of built into this agent. But
@@ -169,6 +170,7 @@ to do it the hard way, you kind of have to learn some of that stuff and then hos
 
 Okay, so you'd probably be using like a cursor cloud code sort of format versus here you have more of like a AI prototyping interface to build that.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:42)
 
 Yeah, exactly. And you know, you can kind of get the experience of testing the tool that you built without going through all the steps of connecting it to ChatGPT. The reason I built this actually is because I was working on a completely different app for ChatGPT. And it was such a pain to go through the iterations of like, every time I wanted to make a small UI tweak, I had to rebundle the code, make the change, go back into Chat2PT, update it, and then see if I liked it. Whereas here, I can at least visually see it and then kind of play with it in the UI without having to go through that whole process every single time. Cool.

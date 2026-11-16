@@ -69,10 +69,12 @@ And I think that's the way sort of a lot of these things get fixed. And I think 
 
 Let's talk about one of the biggest untapped opportunities in product management, unstructured data. You've got tons of it, customer calls, emails, surveys, tickets, Slack messages, you name it. We all know that hidden in that chaos are the insights that could define our next product feature. But how do you extract those insights without losing hours sifting through the noise? That's where BuildBetter.ai comes in. BuildBetter doesn't just organize your data, it transforms it. Imagine every customer call, every internal discussion instantly turned into structured, actionable insights. That's BuildBetter.ai. Ready to transform how your team handles unstructured data? head over to buildbetter.ai and see for yourself. Use code AKASH15 for 15% off your first three months and get five hours of free recording time. That's buildbetter.ai because in product management, insights are everything. This episode is brought to you by Interpret. Interpret unifies all your customer interactions, from gong calls to Zendesk tickets to Twitter threads and app store reviews, making them available for comprehensive analysis.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:25)
 
 As we've profiled in the newsletter, it's the trusted choice of product organizations like Canva, Notion, and Descript. They rely on Interpret to drive forward their voice of customer programs. What makes Interpret special is its ability to, one, build customer-specific AI models that provide more accurate categorization. Two, connect customer feedback directly to revenue impact so you can prioritize confidently. And three, uncover insights with their Wisdom AI co-pilot so you have an intuitive chat interface to access your data. So if you want a custom model built for your organization, get in touch with the team at interpret.com slash product growth. That's E-N-T-E-R-P-R-E-T dot com slash product growth. And within Google, how has the AI directive come down? How have you experienced it on the ground? I think you recently moved into an AI team. Has that been kind of like the high-level company strategy? And then people have been getting reallocated into these AI investment areas.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:08:40)
 
 How has it felt inside Google?
@@ -366,6 +368,7 @@ So occasionally, I'll pick an OKR and the team that is doing the core work will 
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute, and within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth, and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. Okay. An interesting question I once saw you ask an audience in a 60-minute masterclass on strategy was what companies are good at strategy?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:47:03)
 
 So I have to ask the question to you.

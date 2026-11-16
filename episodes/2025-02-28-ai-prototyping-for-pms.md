@@ -82,6 +82,7 @@ Today's episode is brought to you by Gibson AI, the future of backend developmen
 
 And use code Akash50 for 50% off your first 12 months. Trust isn't just earned, it's demanded. Whether you're a startup founder navigating your first audit, or a seasoned professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. That's where Vanta comes in. Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC 2 and ISO 27001. centralized security workflows, complete questionnaires up to five times faster, and proactively manage vendor risk. Vanta can help you start or scale your security program by connecting you with auditors and experts to conduct your audit and set up your security program quickly. Plus, with automation and AI throughout the platform, Vanta gives you time back so you can focus on building your company. Join over 9,000 global companies like Atlassian, Kuora, and Factory who use Vanta to manage risk and prove security in real time.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:08:32)
 
 For a limited time, my listeners get $1,000 off Vanta at Vanta.com slash Akash. That's V-A-N-T-A dot com slash A-A-K-A-S-H for $1,000

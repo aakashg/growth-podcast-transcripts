@@ -204,6 +204,7 @@ It's like, okay, is this person, can we, back to the business skills you talked 
 
 So I think there's a lot of that awareness and character and personality kind of goes into it as well. And then obviously, you know, like the matrix of hard skills that they've acquired over the years too.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:16:58)
 
 Hey, let me take a quick break to talk about something that's completely changed my product management workflow, linear. As a PM, I was drowning in tools, one for planning, another for issue tracking, roadmaps and sheets, and jumping between Slack, intercom, and app reviews just to piece together customer feedback. Sound familiar? I was spending more time keeping systems in sync than actually building product. Every time development kicked off, my carefully crafted plans would immediately need updating. I was the human API between all our teams, constantly chasing updates and translating between tools. That's why I love Linear. I can capture customer feedback, shape product ideas collaboratively, quarterback cross-functional teams, and monitor development progress in one place. It cuts through the maze of disconnected systems that are complicating my life. Product teams at OpenAI, Vercel, Brex, and Cash App all use Linear. If you're tired of spending your days keeping different tools and teams in sync, check out Linear at linear.app.partners.aakash.
@@ -213,10 +214,12 @@ Hey, let me take a quick break to talk about something that's completely changed
 
 That's linear.app.partners.akash. Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact and turn those insights into the digital experience maturity assessment. In two minutes, you'll be able to see where your team stands and what you can improve to build better products faster. Click the link in the caption to take the free assessment and get a clear path to product growth. Yeah, a lot of it I think about in terms of at least what's standard across PM roles is that your most junior level, this level we're just about closing, tying the bow on, you're typically doing feature level success, right?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:18:39)
 
 And so what I want to see out of you is that You're doing an awesome job with those features. You're not just, for instance, taking the feature as it was described to you. You're doing discovery on the problem. You're redefining potentially the problem a little bit after you learn it better. You're actually doing solution discovery where you look at multiple either designs or prototypes, or at least you sketch out different options. You might even put those in front of customers in terms of like an alpha or a beta group before you roll it out to everybody. And then there's also some measurable impact, right? And I think that that's one thing that I saw with some PMs. who might have been stuck at the level, for instance, is, yeah, okay, the features that they're working on, they shipped, but we're not really sure what impact. Was there an ROI overall?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:19:25)
 
 And I think now more than ever, PMs need to think about what is the total cost that we spent on this feature? If there were three engineers who spent half a quarter plus me half a quarter, that's basically... three, half, half, half, that's like two headcount for half a quarter. So then what's the cost for a headcount half a quarter? Maybe that's, you know, $100,000 roughly. So do we get $100,000 back from the company? I think it's very important to also think about that when you're working on features. Yep, I agree. So do you have ROI? Do you have results? So if you're a PM at this stage, I think Execute on your task, like you said, execute on your career skills, like I said, and then make sure you have that measurable impact.
@@ -294,6 +297,7 @@ Yeah, I think that's a totally fair ask. So
 
 proactively managing it. For me, I noticed that some of the people who got stuck at this stage... My peers, like the other directors of product, when I was trying to promote this person into manager, they were kind of questioning like how much of a leader that person was. Like they would say like, oh, but are they really going to be a leader at this company? Have you ever run into that? And how can people show that they're a leader? Yeah. This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Adio makes that a reality. As I've profiled in the product growth newsletter, setting up Adio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:08)
 
 Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours, and companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Yeah, probably a little different phrasing for us, but I think that concept is definitely something I have seen. Um,

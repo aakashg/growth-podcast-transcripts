@@ -32,10 +32,12 @@ Peter Thiel. These are like names that are legends. Sean Parker was there. I've 
 
 Nobody was legends though. Zuck and Sean and it was 2006. So the Facebook was like two years old. Zuck was staying up all night. Drinking Diet Cokes and eating M&Ms and working. Peter did a brilliant presentation for all of us on housing bubble, which he was two years too early on. None of us had an agenda. No one was trying to network. No one was trying to like sell anything to anyone, get anything. And that's what made it great. It was just 35 people came together by choice to like all be in these conversations. That's why I called it a think weekend.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:06)
 
 Talking about consumer, you said it isn't investable right now, but that's the reason to build it. Can you break that down? Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now into today's show. If you've been working in tech for any period of time, you know Mark Pincus. He is the founder of Zynga. Billions of people literally have played his games. And like me, if you've been around San Francisco, it has been one of the institutions in San Francisco. Walking by the Zynga building every day for years myself, I've always looked up to Mark.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:15)
 
 He is a legend in the product space. He recently just published Life at the Speed of Play. Literally, the subtext for this book is launch products people love. There couldn't be a better billionaire to have on this product podcast than Mark. He is somebody who has thought very deeply about how it is that you build Really successful products. And he has a bunch of hot takes that we're gonna cover today. We're even gonna go to the whiteboard so you can learn his Proven Better New framework, which is a framework I personally use when I'm thinking about building products. And so I'm at the edge of my seat to get a personal masterclass. I hope you enjoy this episode as much as I do. Marc, thanks for being here.
@@ -92,6 +94,7 @@ So let's see how Cloud Code did. The first version says basically here is a PMOS
 
 The new version says what
 
+<!-- sponsor -->
 **Aakash Gupta** (00:09:26)
 
 changes for the PMs after they buy it. The proof is higher. The pricing block actually fits. This is closer to how good product teams work. Study shipped apps, understand the pattern, then make something original. And it's not just for generation. You can use Mob and MCP for product audit, PRDs with real examples, or giving your AI agents examples grounded in real, The point is not to clone anyone's work. It's to study the patterns behind good decisions. Good product builders study good products. Mobbin MCP gives your AI agent better references to work from. Mobbin MCP is on beta for all paid Mobbin plans. Setup took me under a minute, and it works with Cloud Code, Cursor, Lovable, and any other vibe coding tool. If you're building product with AI, check out Mobbin MCP. You get a full year of the paid plan from my bundle, which is just a one-year newsletter subscription, or you can check out the description URL.
@@ -392,10 +395,12 @@ Can't think of a better way to end it, guys. That's where the framework takes yo
 
 My only social network is Axe. You can go to at Mark Pink and, you know, post something to me.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:53:47)
 
 All right, everyone. I think that was the deepest dive Mark has ever done on Proven Better New. I hope you got as much out of the episode as I did. His new book, it's pretty awesome. If you watched till this far and you comment below, I watched till the end. I will reach out to ten of you guys and we will get you a copy of his book so that you can learn more from Mark. And if you want more content like this, do make sure you are subscribed to the channel and we'll see you the next episode. I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:54:32)
 
 I hope that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better. We should interview and we will put on the best shows we possibly can. Finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter. Plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you. And I can't wait to share our next episodes. [music]

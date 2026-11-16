@@ -280,6 +280,7 @@ That
 
 is
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:54)
 
 AI. So as you can see, obviously I've been not the greatest prompter here again, but from what has been my experience it'll and keep in mind that these videos aren't even playing right now that one actually hasn't even gotten to the video it's still just the ad before the video but what i had found before was because it has all of the context stored in across the two videos that were open here in which in which in our case were the aipm video and the other one which is here like it obviously goes through the entire thing and because it's your video akash maybe you can tell me if this stuff even tracks so it's talking about forget the hype aipm sign prompt magicians they decide when not to use ai is this sounding like stuff that you had covered in that video would you say I mean, as you can see, I think this is pretty comprehensive.

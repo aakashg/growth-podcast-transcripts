@@ -28,6 +28,7 @@ So I've got one of the heads of AIPM at Amplitude, the principal PM in charge of
 
 I automate a lot of my weekly business reporting using a bunch of dashboard agents. I can easily analyze, run successive queries, pull in a bunch of data and just run a bunch of analysis on my product data. Wow. They made this conscious decision on like, how do we make the most powerful agent or what are the most powerful features and set of context that can provide the model so that People can code in ways that they've never been able to do before.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:00)
 
 What is the biggest mistake people make when using MCP? where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, MagicPatterns, DeepSky, ReforgeBuild, Descript, and Speechify. So be sure to check that out at bundle.akashi.com. And now into today's episode. Frank, welcome to the podcast.
@@ -121,6 +122,7 @@ Yeah, sounds good. At the simplest, like,
 
 I have a product folder. Today's episode is brought to you by Amplitude. Replays of mobile user engagement are critical to building better products and experiences. But many session replay tools don't capture the full picture. Some tools take screenshots every second, leading to choppy replays and high storage costs from enormous capture sizes. Others use wireframes, but key moments go missing, creating gaps in your understandings. neither approach gives you a truly mobile experience amplitude does things differently their mobile replays capture the full experience every tap every scroll and every gesture with no lag and no performance hit it's the most accurate way to understand mobile behavior see the full story with amplitude Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:35)
 
 Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at Pendo.io slash Akash. That's P-E-N-D-O dot I-O slash A-A-K-A-S-H.
@@ -493,18 +495,22 @@ If people want to learn more, contact you. Where can they find you?
 
 If people want to get started, you should jump to Amplitude.com. If you want to see what's happening within this launch, you can go to Amplitude.com slash AI. And once you're jumping into the product, regardless of what plan you are, you can interact with our agents, you can set them up in Slack. You could connect to all of our data within Cloud, Chai Chibuti, Cursor, Cloud Code using MCP. And then if you want to hit me up directly, I'm frank.lee on Twitter, but you can also hit me on LinkedIn.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:50:21)
 
 Frank, thank you so much for this masterclass in using Cloud Code, using analytics and the future of agency analytics. Thank you. All right, guys, so we've walked you through what I think is the future of PMing. We were joking off air. This is vibe PMing. Just like there's vibe engineering, vibe coding, vibe designing, all these different trends. This is vibe PMing. We walked you through five workflows using Cloud Code and MCP connected to your analytics tool. And by the way, if you don't have an analytics tool that is pulling in your Gong data and your Salesforce data and the other data, use those MCPs to pull in that data and your Zendesk data, etc. and inform your insights create specs even potentially code something like he showed you using a cursor or cloud code agent or create the relevant tickets in linear to get your engineering team to do it this is the future way pms are going to be working if you are not in an org that is giving you this access that is allowing you to do this stuff you should be making the request.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:51:15)
 
 And if you're a product leader, you should be using this video as an example to get everything through your IT departments because this makes PMs much more effective. When we talk about all PMs becoming AI PMs, this is exactly why. Everybody should be getting cloud code access. Everybody should be getting cursor access. Everybody should be getting GitHub access to the code base. This is what not just teams like Amplitude will be doing, but the Toyotas and the Fords and the UnitedHealth Groups and the Mount Sinai systems. In two or three years, they will be doing that too. And there's going to be a huge advantage if you are one of the teams that adopts this sooner. So if you need more help on this, be sure to check out my newsletter where we're going to have a deep walkthrough of everything he presented today. Check out my other tutorials on MCP, which is with the CTO of Zapier, with Cloud Code, with the Fullstack PM on this channel to learn more, to make sure you're comfortable with it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:52:07)
 
 And send me what you built. Share the insights so that we can continue to create better content for you. And I'll see you in the next episode. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akushg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:52:58)
 
 I'll see you in the next episode. you

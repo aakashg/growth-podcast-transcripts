@@ -81,6 +81,7 @@ So you just named one go-to-market motion right away, which is inbound us produc
 
 Well, I guess we could pay for ads to promote it because it's pretty high quality product. Partner with people and offer them a cut of the revenue as like affiliate or referral commission. I think we could, I'm trying to relate this back to the go-to-market motions now. I think we could reach out to people who this might be interesting to and say, hey, you might be interested in this. So that might be like an outbound motion. What am I missing? This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute, and within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:55)
 
 Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth.

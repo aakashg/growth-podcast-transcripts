@@ -49,6 +49,7 @@ So you can see that trickle down effect happens when people do not understand th
 
 This episode is brought to you by Addio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Addio makes that a reality. As I've profiled in the Product Growth Newsletter, setting up Addio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Addio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Addio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year. That's A-T-T-I-O dot com slash product growth. We're to summarize what transformation then is in terms of a transformation of how we work.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:15)
 
 What are those key tenets that you tend to rely on outside of like the length of your definition that you might find in the book, which includes almost, I think, 20 product principles? What is sort of the like 30 second elevator pitch for folks?
@@ -271,6 +272,7 @@ This episode is brought to you by WorkOS. If you're building a SaaS app, at some
 
 It's a drop-in replacement for Auth0 and supports up to 1 million monthly active users for free. Check it out at workos.com to learn more. That's workos.com. Tired of spending your days and nights managing all your paperwork processes with multiple tools? Good news. Today's podcast partner, Anvil, is a document AI that helps you build software for your paperwork processes at ludicrous speed. Turn your PDFs into templates in seconds. Anvil Document AI identifies input fields, assigns labels, and even prepares your document for signature. What if you could transform your templates into web forms in the blink of an eye and embed them into your application for a seamless user experience? The best part? Anvil separates your structured data from your PDFs so you can power your business with data, not documents, making it fully operational. The next time you're stuck processing PDFs, creating web forms, or gathering e-signatures, remember, you can do it faster with Anvil Document AI.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:45:44)
 
 So visit useanvil.com slash akash. That's U-S-E-A-N-V-I-L dot com slash akash. A-A-K-A-S-H. Don't get PDFed. I think that is probably the fastest route to credibility as a PM, right? Is going out there, talking to more users and not just your founder, but your manager too. Your design partner too. Your tech lead also. Telling them things they didn't know.

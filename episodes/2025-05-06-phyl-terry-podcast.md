@@ -116,6 +116,7 @@ And then you will go through this experience together like you did. And we have 
 
 And it's just been great to see the product world, you know, take this on and embrace it. And sometimes people say, is this only for product people? No. No, no, it's certainly for product people. They understand it the best because of the methodology. But it's kind of like what I like to tell people. This is what the product community has done to reinvent the job search, right? We've taken the product mindset and then we're giving it to the world. And I really hope that we can help many, many people.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:10:37)
 
 Hey, let me take a quick break to talk about something that's completely changed my product management workflow, linear. As a PM, I was drowning in tools, one for planning, another for issue tracking, roadmaps and sheets, and jumping between Slack, intercom, and app reviews just to piece together customer feedback. Sound familiar? I was spending more time keeping systems in sync than actually building product. Every time development kicked off, my carefully crafted plans would immediately need updating. I was the human API between all our teams, constantly chasing updates and translating between tools. That's why I love Linear. I can capture customer feedback, shape product ideas collaboratively, quarterback cross-functional teams, and monitor development progress in one place. It cuts through the maze of disconnected systems that are complicating my life. Product teams at OpenAI, Vercel, Brex, and Cash App all use Linear. If you're tired of spending your days keeping different tools and teams in sync, check out Linear at linear.app.com.
@@ -238,6 +239,7 @@ Every single one of them, right? So what's going to exist 25 years from now that
 
 One of the most powerful things I find about candidate market fit that you mentioned was the story of the guy who decided he wasn't going to be a PM anymore. Yeah. If you're getting a signal from the universe that, hey, I've been laid off from my last three jobs, it's now an opportunity to kind of look back and say, were those jobs a fit for me? Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact. and turn those insights into the Digital Experience Maturity Assessment. In two minutes, you'll be able to see where your team stands and what you can improve to build better products faster.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:37)
 
 Click the link in the caption to take the free assessment and get a clear path to product growth.

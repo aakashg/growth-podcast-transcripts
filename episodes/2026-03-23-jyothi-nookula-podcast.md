@@ -133,6 +133,7 @@ As an AI PM, you must treat data as a product experience because poor data will 
 
 Today's episode is brought to you design for product teams capture insights prioritize what matters and create roadmaps you can easily tailor for any audience and because it's built to work with jira everything stays connected from idea to delivery used by product teams at canva deliveroo and even the economist check out why and try it for free today at atlassian.com product-discovery That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Today's episode is brought to you by Vanta. As a founder, you're moving fast toward product market fit, your next round, or your first big enterprise deal. But with AI accelerating how quickly startups build and ship, security expectations are higher earlier than ever. Getting security and compliance right can unlock growth or stall it if you wait too long. With deep integrations and automated workflows built for fast-moving teams, Vanta gets you audit-ready fast and keeps you secure with continuous monitoring as your models, infra, and customers evolve.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:13:14)
 
 Fast-scoring startups like LinkChain, Writer, and Cursor trusted Vanta to build a scalable foundation from the start. So go to Vanta.com slash Akash. That's V-A-N-T-A dot com slash A-A-K-A-S-H to save $1,000 and join over 10,000 ambitious companies already scaling with Vanta.
@@ -258,6 +259,7 @@ Whereas an agent, the characteristic of the architecture of an agent is very dif
 
 Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at Pendo.io slash Akash. That's P-E-N-D-O dot I-O slash A-A-K-A-S-H.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:10)
 
 Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, whatever you're facing. Over 1.7 million product builders use Mobin to benchmark against best-in-class products and show their teams proven solutions. Whether you need to convince stakeholders there's a better way to handle user activation or research how top apps approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash akash.
@@ -267,6 +269,7 @@ Before we dive deeper, let's talk about something every PM faces, getting alignm
 
 That's M-O-B-B-I-N dot com slash A-A-K-A-S-H and get 20% off your first year. Today's episode is brought to you by the AI PM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course. It's eight weeks of live cohort-based learning with the leader at one of the top companies in tech. As you know by now, the future of PM is AI. and this certificate will give you the learnings plus the hardware to show you are ready for an AIPM role. I myself took the course and recommend it. Put on by the amazing team at product faculty including Mo Ali and Pavel Hearn, it's worth it. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $550 off, use my code AKASH550C7.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:33:58)
 
 That's A-A-K-A-S-H 550C7. And head to maven.com slash product-faculty. That's M-A-V-E-N.com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y.

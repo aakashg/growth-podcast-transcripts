@@ -52,6 +52,7 @@ You need to think about from day zero, what does success look like? If it's the 
 
 Let me walk through
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:06)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now into today's show. Welcome to the podcast.
@@ -117,10 +118,12 @@ We think of models that are like winning gold medals at International Math Olymp
 
 Here's a quick word from our sponsors. If you're building anything that uses live data from the web, eventually you hit the same wall. An agent, a research tool, a trends dashboard. They all need fresh data. Scraping that data is the worst part. Captchas, proxy, layouts that change every week. It's a whole side project you didn't sign up for. That's where SERP API comes in. SERP API gives you clean, structured results from Google, YouTube, Bing, Google News, Google Scholar, and more. One API call, one clean JSON response. They handle the captchas, proxies, and layout changes for you. Take the Google Scholar API as one example. Say you're building a research assistant or pulling sources for a literature review. You hit one endpoint. You get peer-reviewed articles back. With full text or metadata, titles, links, publications, citation info, all of it. Across publishers and formats. No scraping a dozen publisher sites and gluing the data together yourself.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:04)
 
 The same idea extends across the rest of Are you looking to up your AI product management chops? I highly recommend the AI product management certification by product faculty. It has a 4.7 with 1,249 reviews on Maven for a reason. I myself took the course back in 2024 and it was awesome. Since then, they have upgraded it. So now you get to learn from product leaders at OpenAI and Anthropic. On top of that, Paul Hearn, author of the Product Compass, leads the Build Labs. So you will go from theoretical knowledge about AIPM to a very practical course. It's going to help you identify AI leverage opportunities. It's going to help you design trustworthy AI experience. It's going to help you systematically optimize outputs for accuracy and relevance, build rigorous evaluation suites, architect AI agentic systems that work, and select the perfect LLM for your use case. It's normally $2,500, but you get a discount when you use my link.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:21)
 
 The next cohort starts June 22nd and goes to August 9th, so do check it out with my link in the description. They have been one of my longest sponsors for a reason. I trust this product and I think you should consider the cohort.
@@ -209,10 +212,12 @@ This is the canonical cystic fibrosis gene. So what this is telling us, going ba
 
 Now a quick word from our sponsors before we get into the back half of the pod.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:51)
 
 If you've worked at any company bigger than 30 people, you know this one. The CEO sets strategy. By the time it reaches the people actually doing the work, it goes through three or four layers of translation. Half of it gets lost and nobody finds out until the quarter is over. That's the problem Mariso is built for. AI operating partner for every manager and team. It connects to where work actually happens, the meetings, the messages, the docs, and it turns all that fragmented activity into a clear picture of execution. Managers get real coaching grounded in their team's actual work, not generic advice. Teams stay aligned with strategy as it changes, not as it was last quarter. And leaders see where execution is drifting in weeks. Not in the postmortem. One shared memory for the whole org. Everyone finally working from the same picture. If you lead a team, check out ariso.ai slash akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:37)
 
 That's A-R-I-S-O dot A-I slash A-A-K-A-S-H. I want to take a second to talk to you about the fourth cohort of LAN PM job. I trained 30 students in cohort one, 50 students in cohort two, and 75 students in cohort three. And I am bringing back a program for cohort four. It starts in August and it lasts Three months where you're going to have intense sessions, a Monday morning session where I go over your resume, behavioral interviews, LinkedIn. On top of that, Bart Jaworski is going to be teaching you the PM fundamentals in 2026, how to write AI PRDs, how to AI prototype with cloud code, all of the key skills you need to freshen up your knowledge for this market. And Ankit Vermani is going to be teaching you AI product management. He is an AI product manager at Uber, and he is going to teach you how to build AI features that actually work successfully.
@@ -222,6 +227,7 @@ That's A-R-I-S-O dot A-I slash A-A-K-A-S-H. I want to take a second to talk to y
 
 On top of that, Prasad Reddy is going to be doing one-on-ones with you for market reviews, LinkedIn review, candidate market fit review. So it is a full package. It is three courses in one for one low fee. So join at landpmjob.com. Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:16)
 
 Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at pendo.io slash akash. That's p-e-n-d-o dot i-o slash a-a-k-a-s-h.
@@ -366,10 +372,12 @@ Wow. So a lot of you guys I know, at least in my audience, you want to become th
 
 Yeah, I want to leave with just one parting thought is the Metas and the Googles and all the other large companies have to reinvent themselves right now in the age of AI. If you're inside these companies, it is very, very interesting to see how this classic I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts, check that you've left
 
+<!-- sponsor -->
 **Aakash Gupta** (00:55:46)
 
 ratings and reviews Check that you're subscribed on YouTube, leave a like and a comment on this video, and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make And finally, don't forget my offer for the bundle. You get an entire year of my paid newsletter. Plus my favorite AI tools, Bolt Up New, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. That's $27,000 worth of value for just $150. So check that out at bundle.akashgu.com if it interests you.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:56:44)
 
 And I can't wait to share our next episode soon.

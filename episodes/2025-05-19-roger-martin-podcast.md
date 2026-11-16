@@ -90,6 +90,7 @@ not somebody else. This episode is brought to you by WorkOS. If you're building 
 
 It's a drop-in replacement for Auth0 and supports up to 1 million monthly active users for free. Check it out at workos.com slash Akash to learn more. That's workos.com slash Akash. Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact and turn those insights into the Digital Experience Maturity Assessment. In two minutes, you'll be able to see where your team stands and what you can improve to build better products faster. Click the link in the caption to take the free assessment and get a clear path to product growth. So that's the core framework. If people have read Playing to Win, they're very well familiar with these five questions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:33)
 
 Yes. You've said that business schools aren't teaching this the right way. I myself, Wharton MBA, spent, I don't know, $200,000 in costs plus, I don't know, half a million dollars in sacrificed income to go there. So three quarters of a million dollars to do it. What didn't they teach me with that three quarters of a million dollars that I spent?

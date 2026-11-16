@@ -109,6 +109,7 @@ I'm an AI PM. I'm an AI this. They put some, like, crappy two-hour certificate p
 
 Yeah. I hope you're enjoying this masterclass on AI product management with Todd Olson. Today's episode is brought to you by Reforge. You know that feeling when you try to prototype something with AI and it spits out something completely generic? The problem is that most AI app builders aren't built for product teams, for product managers like me and you. They're built for founders who are starting from scratch. But product teams aren't building from zero. You have an existing product, real customers, design guidelines. Reforge's new product, Reforge Build, generates prototypes that reflect your real pricing tiers, real features, real customer language, not generic placeholder. So stop fighting tools built for founders. Start using a tool purpose-built for product managers to AI prototype well in the way that we're teaching this episode with Todd. Try it for free at reforge.com slash akash. That's reforge.com slash A-A-K-A-S-H and use the code build for one free month of premium.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:55)
 
 The people who are fibbing on their resume, they aren't landing these jobs. Like all these jobs are pretty rigorous processes. And in general, what I found is that if you're going to want to land one of these AIPM jobs, you would have had production jobs. at scale, successful AI feature experience. And all three elements of those are key. It's not like production successful at a one person startup that you created last month, but production at scale with 20 000 paying b2b customers now that's what they're looking for right and so for a lot of people it's going to be how do i develop the experience internally at my own company and my current pm role and doing that via upskilling in order to land one of these roles
@@ -513,6 +514,7 @@ And the thing I always worry about is, you know, sometimes pendulum swing too fa
 
 So when you're building it, I would encourage everyone to build things like treating it like quicksand because it kind of is.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:02:53)
 
 You know that feeling when you try to prototype something with AI and it spits out something completely generic? Then you spend hours tweaking colors, fonts, copy, and features just to make it feel like your actual product? Here's the problem. Most AI app builders aren't built for product teams. They're built for those starting from scratch. But product teams aren't building from zero. You have an existing product, real customers, design guidelines, a backlog full of ideas you need to explore and validate fast. That's what Reforge Build does. AI prototyping that starts from your product. Add your customer feedback, strategy docs, and product features as context. Create reusable templates using your product design. Explore multiple variants side by side. Collaborate with your team in one place. Reforge Build generates prototypes that reflect your real pricing tiers, real features, real customer language, not generic placeholder. Stop fighting tools built for founders.

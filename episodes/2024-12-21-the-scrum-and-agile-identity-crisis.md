@@ -71,6 +71,7 @@ Product managers around the world use Zeta.io and use it to really improve their
 
 This enables fast authorization checks at enormous scale while maintaining a flexible model that can be adapted to even the most complex use cases. If you're currently looking to build role-based access control or other enterprise features like single sign-on SCIM or user management, you should consider WorkOS. It's a drop-in replacement for Auth0 and supports up to 1 million monthly active users for free. Check it out at workos.com slash Akash to learn more. That's workos.com slash Akash. That is what I was trying to research before this piece. I was just putting into LinkedIn like Agile Coach, Location US. And what I was noticing was that role seems to be more common in what I call the digital transformation companies, companies that weren't like natively digital. Like maybe they were a car company, but now tech is a very important part of cars. So they have a tech org.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:07:22)
 
 Those people seem more likely or financial services or health care. Those industries seem to have a greater prevalence of it than pure technology.
@@ -600,6 +601,7 @@ And this way you also collaborate because you look at this system. I really like
 
 This episode is brought to you by Dovetail, the AI-first customer insights hub for all teams. Dovetail has always been the go-to tool for teams that want to find insights in customer calls, user interviews, or documents. Now they've stepped it up with the release of Dovetail 3.0. It's three new products and a ton of AI features that make it faster and easier than ever before to truly get to the heart of what your customers want. You can get a real-time pulse on what your customers are thinking with Dovetail's automated feedback analysis platform channels. Or pull summaries and insights from every customer interaction your team has ever had using their conversational AI, Ask Dovetail. You can even recruit from over 3 million participants directly in Dovetail. All of this is just the tip of the iceberg. Dovetail wants to give everyone in the organization instant access to their customers at any time.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:42:16)
 
 From roadmaps, discovery to strategy sessions and more, it's never been easier to make customer-centric decisions. The good news? Listeners of this podcast can try Dovetail's pro plan along with their newest products and features free for 30 days. Just go to dovetail.com slash akash. Now I want to shift to Maria a little bit and talk about you. So you have some different things going on. You have a podcast that you started way before podcasts were cool. It sounds like you do Kanban workshops and trainings. You do agile coaching. What are the constellation of things? People are always interested in solopreneurs and creators like us. What are the things that are driving your revenue? How would you break down the percentage buckets?

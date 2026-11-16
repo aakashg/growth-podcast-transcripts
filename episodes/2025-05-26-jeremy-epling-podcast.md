@@ -113,6 +113,7 @@ But I love looking at things where it's, hey, can I see five different versions 
 
 Hey, let me take a quick break to talk about something that's completely changed my product management workflow, linear. As a PM, I was drowning in tools, one for planning, another for issue tracking, roadmaps and sheets and jumping between Slack, intercom and app reviews just to piece together customer feedback. Sound familiar? I was spending more time Today's episode is brought to you by Amplitude. Building great digital products is hard. You know that better than anyone. Getting teams aligned, measuring what matters, and scaling your product strategy isn't easy. But what if you had a clear framework to guide your next steps? That's exactly what Amplitude built. They studied the best product teams to understand what really drives impact. and turn those insights into the Digital Experience Maturity Assessment. In two minutes, you'll be able to see where your team stands and what you can improve to build better products faster.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:17)
 
 Click the link in the caption to take the free assessment and get a clear path to product growth.

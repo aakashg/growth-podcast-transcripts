@@ -36,6 +36,7 @@ Can you open up that scaffolding skill and we can see what is inside it and how 
 
 Yes. So it's, it is multi skills here. You can see that it has a master skill that MD, and then it has a bunch of sub skills where it would do market research. I've been a product manager for 25 years and I've never really felt that coding was worth my time until now.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:03)
 
 Before we get into today's show, please take a second to check that you're subscribed on YouTube and following on Apple and Spotify podcasts. If you want access to all of my favorite AI tools, I've gotten them to give you an entire year of their paid plans. Check out bundle.akashg.com for an entire year of Bolt.new, Airtable, Speechify, Descript, Magic Patterns, Linear, Dovetail, Arise, and Mobbin. And now into today's show. OG, what are people going to learn today if they stay till the end?
@@ -105,10 +106,12 @@ Continuous integration is settled. And if you give it its GitHub repo, it can st
 
 Here's a quick word from our sponsors. Here's what I did last week that changed how I think about AI coding tools. I built a full internal dashboard in Bolt at noon. Took me about two hours. Looked good, worked well, had all the functionality the team needed. Then I did something you can't do I sent the actual source code to my engineer. In Base44, in Lovable, in most of the tools, the code lives inside the platform. Your engineer can't pull it. They look at your prototype, say cool, and rebuild the whole thing from scratch. Boltat knew is different. The code is pullable. Real, production-grade, front-end code. My engineer opened it, reviewed it, and started building on top of what I'd already made. No rebuild, no start from scratch. The prototype became the product. I use Bolt.new every single day. I built my entire paid cohort platform on it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:14:30)
 
 75 product managers log into something I made in Bolt.new. Try it yourself, Bolt.new slash A-A-K-A-S-H. That's Bolt.new slash Aakashgupta. Here's the problem with most AI tools. They just sit there waiting for you to prompt them. You do all the remembering, they do the typing. Ari from Ariso flipped that for me. It connects to my email, calendar, Slack, and it works the other way around. It comes to me. Monday morning, there's a briefing waiting. It reminds me what we covered last time and what I promised to send. When a follow-up slips, it nudges me before the other person has to. Every commitment, every thread, every contact, tracked and organized without lifting a finger. And because it has continuous memory, it actually gets smarter the longer I use it. It's not a chat window. It's one AI partner that knows my whole working life and it keeps me prepared for all of it.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:15:16)
 
 If you're tired of being your own chief of staff, try ARI at oriso.ai slash akash. That's A-R-I-S-O dot A-I slash A-A-K-A-S-H. Can we scroll through that file a little bit just to see how it's put together?
@@ -194,6 +197,7 @@ That is correct. That is correct. We want you to think about the full stack of t
 
 Quick thought experiment for you. Is there anything in this video you should be trying on your own? If there is, try it, take a screenshot, post it on LinkedIn or X, and tag me. I'd love to see what you're learning. Now a quick word from our sponsors before we get into the back half of the pod. I used to think I had a retention problem. Turns out I had a messaging problem. I was sending the same onboarding emails to every new use, whether they activated on day one or never logged in again. I had no idea who was slipping or why. Customer.io changed that. Every message I send is now based on what users actually do in the product. Someone hits a key activation. And when I want to know how something is performing, I just ask They also have an MCP server, which means AI tools like Claude can see directly what's happening in your Customer.io workspace.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:28:11)
 
 Your segments, your customer data, your attribution, all of it. So instead of explaining your business context every day, Notion used Customer.io to personalize their onboarding and hit nearly 50% open rate, improved conversion by 6-7% with localized campaigns, and pushed open rates up another 20% through The idea is simple. Customer.io helps you deliver more impact from every message you send. If you're a PM or founder and your onboarding is still one size fits all, try Customer.io at Customer.io. Are you looking to land your next product management job? I am accepting a group of Just 30 product managers into a 12-week cohort led by me where every Monday for 90 minutes, I help you through your job search, creating your candidate market fit, updating your LinkedIn, updating your base resume. You're going to get personalized feedback and one-on-one mentorship sessions with my co-teachers, Ankit Farmani,
@@ -202,6 +206,7 @@ Your segments, your customer data, your attribution, all of it. So instead of ex
 
 who is an AIPM at Atlassian and was a group product manager at Meta.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:29:09)
 
 Prasad Reddy, who is a CPO and has been in product for over 26 years, as well as my other live instructor, Bart Jaworski, who's going to run another 90 minute session per week where we really help you deliver on all of the deliverables in an actionable way and get you custom resume feedback, custom LinkedIn feedback. This program worked So, if you want to get a higher paying PM job, be sure to check out my The next cohort starts in February, runs through the end of April. The next time I'm opening up a cohort is in May. So if you want coaching from me to land a PM job, this cohort is a no-brainer. It is a premium priced product. It is more expensive than the average product out there, but the return is huge. Most people who join the cohort see a salary raise anywhere from $10,000 to $100,000 in the first year.
@@ -396,6 +401,7 @@ OG, you've generously shared these skill files. You guys can find the link in th
 
 Thank you, Aakash. And I hope people become even more effective product builders and hyper creators with the stuff that we've made. Super happy to share.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:03:34)
 
 I hope you learned as much from today's episode as I did. If you can do one thing that's totally free that would help the show, it would be to check that you're following on Apple and Spotify podcasts. Check that you've left ratings and reviews on those platforms. Check that you're subscribed on YouTube. Leave a like and a comment on this video and then share it with your friends. We're trying to make better and better podcasts. After two years, we think we've gotten something pretty good going. So let us know what we can do to make it even better, who else we should interview and we So check that out at bundle.akashgu.com if it interests you. And I can't wait to share our next episode soon.

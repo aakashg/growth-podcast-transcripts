@@ -86,10 +86,12 @@ Or even replicative work. A lot of the times when companies get big, there's act
 
 This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured, and actually intuitive. Adio makes that a reality. As I've profiled in the product growth newsletter, setting up Adio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to attio.com slash product growth and you'll get 15% off your first year. That's attio.com slash product growth. This episode is brought to you by Explo, a game changer for customer facing analytics and data reporting.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:05:44)
 
 Are your users craving more dashboards, reports, and analytics within your product? Are you tired of building it yourself? As a product leader, you probably have these requests on your roadmap, but the struggle to prioritize them is real. Building analytics from scratch can be a time-consuming, expensive, and challenging process. Enter Explo. Explo is a fully white label, embedded analytics solution designed entirely with your user in mind. Getting started is easy. Expo connects to any relational database or warehouse, and with its low code functionality, you can build and style dashboards in minutes. Once you're ready, embed the dashboard report into your app with a tiny code snippet. The best part, your end user can use Expo's AI features for their own report and dashboard generation. Eliminating customer data requests for your support team. Build and embed a fully white-labeled analytics experience in days. Try it free at explo.co.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:41)
 
 That's E-X-P-L-O dot C-O.

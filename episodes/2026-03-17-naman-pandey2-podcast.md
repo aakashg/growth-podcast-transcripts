@@ -48,10 +48,12 @@ Should you be using a VPS or Mac mini, Telegram or Discord? What about the secur
 
 We are going to turn any Slack channel into an AI-powered knowledge base that answers team questions from your product documentation. Every morning at 9 a.m., OpenClaus scans your team's Slack channels. It summarizes what happened overnight, identifies blockers, and posts a concise stand-up brief to product stand-up that replaces the 15-minute context-gathering ritual.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:16)
 
 So product managers are getting one step closer to Iron Man. Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. Naman, welcome to the podcast. Thank you for having me. So we've all seen the hype. It's up to 245,000 GitHub stars. There's tons of forks. There's over 2 million weekly visitors. OpenClaw is going totally viral. And it's had a tumultuous history. It used to be called Claudebot. Anthropic asked him to change the name.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:02:14)
 
 He changed it to Molpot. He realized that it wasn't such a good name. He called Sam Altman. And Sam said you can call it OpenClaw. It was called OpenClaw. And then a week later, Sam bought him for over a billion dollars. And the question on everybody's minds is how do PMs actually use this tool? So why should PMs actually care about Open Claw Nomen?
@@ -101,6 +103,7 @@ Just random side note, I do feel in terms of dollar value, it gets me the farthe
 
 don't have it already. Today's episode is brought to you by Jira Product Discovery. If you're like most product managers, you're probably in Jira, tracking tickets and managing the backlog. But what about everything that happens before delivery? Jira Product Discovery helps you move your discovery, prioritization, and even roadmapping work out of spreadsheets and into a purpose-built tool design for product teams capture insights prioritize what matters and create roadmaps you can easily tailor for any audience and because it's built to work with jira everything stays connected from idea to delivery used by product teams at canva deliveroo and even the economist check out why and try it for free today at atlassian.com slash product dash discovery That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. Today's episode is brought to you by Vanta. As a founder, you're moving fast toward product market fit, your next round, or your first big enterprise deal.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:09:58)
 
 But with AI accelerating how quickly startups build and ship, security expectations are higher earlier than ever. Getting security and compliance right can unlock growth or stall it if you wait too long. With deep integrations and automated workflows built for fast-moving teams, Vanta gets you audit-ready fast and keeps you secure with continuous monitoring as your models, infra, and customers evolve. Fast-scoring startups like LinkChain, Writer, and Cursor trusted Vanta to build a scalable foundation from the start. So go to Vanta.com slash Akash. That's V-A-N-T-A dot com slash A-A-K-A-S-H to save $1,000 and join over 10,000 ambitious companies already scaling with Vanta.
@@ -273,6 +276,7 @@ In which case, make sure you just copy and paste it back to your OpenClaw gatewa
 
 And then once you do, it'll be able to just, you know, lock and load right from that point. This section completes the setup of OpenClaw within your Slack. I'll pause real quickly, Akash. Any questions that come to mind? Anything you want me to shed more light on?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:26)
 
 Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, whatever you're facing. Over 1.7 million product builders use Mobin to benchmark against best-in-class products and show their teams proven solutions. Whether you need to convince stakeholders there's a better way to handle user activation or research how top apps approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash akash.
@@ -282,6 +286,7 @@ Before we dive deeper, let's talk about something every PM faces, getting alignm
 
 That's M-O-B-B-I-N dot com slash A-A-K-A-S-H and get 20% off your first year. AI evals are one of the most important skills for PMs. And I know you know they matter. The question is, are you doing them right? Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI, they've cracked the code on systematic evaluation. Today's episode is brought to you by the AI evals for engineers and PMs course by Hamil Hussain and Shreya Shankar. This live Maven course will teach you the battle-tested frameworks from Hamil and Shreya, who are the engineers behind GitHub Copilot's evaluation system and 25-plus production AI implementations. Four weeks, live instruction, next cohort starts July 21st. Start shipping AI that actually works. Enroll at maven.com with my code AG-product-growth for over $800 off. That's AG-PRODUCT-GROWTH. I hope you're enjoying today's episode. Are you interested in becoming an AI product manager?
 
+<!-- sponsor -->
 **Aakash Gupta** (00:34:32)
 
 making hundreds of thousands of dollars more, joining OpenAI and Anthropic, then you might want to do a course that I've taken myself, the AIPM certificate ran by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy. So check out our newsletter articles if you want to see the quality of the type of thinking you'll get. One of my frequent collaborators, Pavel Hearn, is the Build Labs leader. So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate. So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode. When I use OpenClaw in Slack versus the TUI dashboard that we're seeing in the other tab, are there any limitations or is it fully featured in Slack?
@@ -738,6 +743,7 @@ Cool. Yeah. So let's just end the podcast then. Naman, this was awesome. If peop
 
 My YouTube channel, Naman Pandey, has me just constantly breaking stuff, operating on the cutting edge of all of these tools. I already have the next three tools apparently now that OpenClaw is old. So feel free to check out my videos. Feel free to say hi on LinkedIn. Always love to engage with fellow builders such as you all.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:39:52)
 
 Amazing. Thanks so much, Naman. We'll have to have you back soon. Bye, everyone. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating, a review on Apple or Spotify and commented on YouTube. All these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akushg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode.

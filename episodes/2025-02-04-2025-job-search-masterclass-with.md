@@ -44,6 +44,7 @@ Great question. Right now, I've seen the demand has shifted and the company land
 
 So I will see the prediction 2025 is that There will be more and more competitive candidates in the job market, number one. And number two, there will also be more interesting AI-related job openings. We have seen the trend of more and more AI-related jobs and out there for product management and non-profit management role as well and lots of AI startups. getting more funding, and we have seen way more companies that pivot into AI space. For example, we have seen a crypto company not able to do well. Oh, they become crypto plus AI, then started to raise more funding. So basically, there will be higher demand towards the AI domain, but the market is also very competitive. So 2025 is a little bit tricky.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:04:04)
 
 Yeah, I think the plus side of the 2025 job market, as I've been tracking it, is that layoffs are down. There weren't actually that many layoffs here in the last five to six months, which means that your pool of highly qualified, currently experienced PM candidates is actually kind of low. For the first time, I'm seeing people like MBA candidates, aspiring PMs who don't have PM experience actually get offers again. Trust isn't just earned, it's demanded. Whether you're a startup founder navigating your first audit or a seasoned professional scaling your GRC program, proving your commitment to security has never been more critical or more complex. That's where Vanta comes in. Businesses use Vanta to establish trust by automating compliance needs across over 35 frameworks like SOC 2 and ISO 27001. centralized security workflows, complete questionnaires up to five times faster, and proactively manage vendor risk. Vanta can help you start or scale your security program by connecting you with auditors and experts to conduct your audit and set up your security program quickly.
@@ -53,6 +54,7 @@ Yeah, I think the plus side of the 2025 job market, as I've been tracking it, is
 
 Plus, with automation and AI throughout the platform, Vanta gives you time back so you can focus on building your company. This episode is brought to you by Adio, the next generation CRM. Imagine a world where your CRM is powerful, easily configured and actually intuitive. Adio makes that a reality. As I've profiled in the product growth newsletter, setting up Adio takes less than a minute. And within seconds of syncing your email and calendar, you'll see your relationships in one place, enriched with valuable data, including things like relationship strength. Adio lets you build Zapier-style automations, create powerful reports, and works for any go-to-market motion, from PLG to sales-led. Adio is designed for the next era of companies like yours. And companies like yours shouldn't have to deal with inflexible, one-size-fits-all CRMs. Join industry leaders like Eleven Labs, Replicate, and Modal. Head to addio.com slash product growth and you'll get 15% off your first year.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:06:36)
 
 That's A-T-T-I-O dot com slash product growth.

@@ -48,6 +48,7 @@ CEO of Braintrust. Last year, they bagged a series A valuation of $150 million. 
 
 I think vibe checks are evals. I actually think this tweet is. I think one of the most important things is to have evals that fail. If you only have evals that succeed, then you don't know what problems there are. Yeah,
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:01)
 
 my brain immediately went to, well, it's improved the system prom. So why should anyone care about evals to begin with? Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an annual subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. Ankur, welcome to the podcast. Thank
@@ -121,6 +122,7 @@ And then of course, there are product managers who are able to bridge from what 
 
 Today's episode is brought to you by the experimentation platform Chameleon. Nine out of 10 companies that see themselves as industry leaders and expect to grow this year say experimentation is critical to their business. But most companies still fail at it. Why? Because most experiments require too much developer involvement. Chameleon handles experimentation differently. It enables product and growth teams to create and test prototypes in minutes with prompt based experimentation. You describe what you want, Chameleon builds a variation of your webpage, lets you target a cohort of users, choose KPIs, and runs the experiment for you. Prompt-based experimentation makes what used to take days of developer time turn into minutes. Try prompt-based experimentation on your own web apps. Visit chameleon.com slash prompt to join the waitlist. That's K-A-M-E-L-E-O-O-N dot com slash prompt. ai is writing code faster than ever but can your testing keep up testcube is the kubernetes native platform that scales testing at the pace of ai accelerated development one dashboard all your tools full oversight run functional and load tests in minutes not hours across any framework any environment no vendor lock-in no bottlenecks just confidence that your ai driven releases are tested reliable and ready to ship testcube scale testing for the ai era See more at testcube.io slash akash.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:12:57)
 
 That's T-E-S-T-K-U-B-E dot I-O slash A-A-K-A-S-H. Nailed it in my opinion, which is that if you're not the end user, it becomes more and more important. And the more distance you have from that end user, like in a healthcare setting, the more and more important it is to create the evals. I think also one thing that probably CloudCode benefits from is that Anthropic in their post-training is using a bunch of evals around coding. So even if CloudCode doesn't have formalized evals, we know Anthropic does.
@@ -270,14 +272,17 @@ So now let's have a little bit of fun and actually connect this thing to the lin
 
 That's an interesting insight around just selecting the tools that you need so that it doesn't accidentally choose the wrong tool. Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen AI, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before. for, during, and after they use AI. Showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:00)
 
 Start measuring your AI's performance with Agent Analytics at pendo.io slash akash. That's p-e-n-d-o dot i-o slash a-a-k-a-s-h. Here's the dirty secret about prototyping. You spend two weeks building a prototype. You validate your assumptions. Engineering loves the direction. Then what happens? You throw the whole thing away. Bolt changes this completely. When you prototype in Bolt, you're not building throwaway mock-up. You're building real front-end code that integrates with your existing design systems. So when you hand it to engineering, they don't throw it away. They ship on top of what you've built. I use Bolt every single day. I host my land PM job cohort on it. And honestly, I'm up till 2 a.m. some days just vibing in the tool, having fun and building. That's when you know a product is good. When you're using it past midnight, not because you need to, but because you want to.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:31:47)
 
 Check out Bolt at bolt.new slash akash. That's B-O-L-T dot N-E-W slash A-A-K-A-S-H. Link in the show notes. I hope you're enjoying today's episode. Are you interested in becoming an AI product manager, making hundreds of thousands of dollars more, joining OpenAI and Anthropic? Then you might want to do a course that I've taken myself, the AIPM certificate ran by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy. So check out our newsletter articles if you want to see the quality of the type of thinking you'll get. One of my frequent collaborators, Pavel Hearn, is the Build Labs leader. So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:37)
 
 So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode.
@@ -446,10 +451,12 @@ Amazing. Couldn't agree more. This, you guys, was a less than one hour mastercla
 
 Well, you can reach out to us. www.braintrust.dev is our website. You can email me, ankur at braintrust.dev or reach out to us on X or Discord. We also have a user conference coming up. in February called Trace. So if you go to braintrust.dev slash trace, you can see information about signing up. It's a zero bullshit practitioner led conference. So a bunch of talks from people like companies, from companies like Dropbox, Ramp, Notion, other folks that we talked about earlier, who are just going to talk about how they're solving these problems and would love to meet you.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:50:39)
 
 all right guys for my money in 2026 whether or not you're building an ai feature or not right now every pm should be learning this skill i hope we got you excited enough to go out there and try this out maybe with a free brain trust account or something else whatever platform you are using Get out there. Start iterating. You saw how fun it was. You saw how I was jumping in on how I wanted to do more of the system prompt. I think you'll feel that same excitement once you get your hands into a tool like this. So I hope we remove that barrier to entry for you guys. And we'll see you in the next episode. Thanks for having me. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube, all these things will help the algorithm distribute the show to more and more people.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:51:26)
 
 As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed. I'll see you in the next episode. you

@@ -221,6 +221,7 @@ Yeah, you certainly can. I mean, we can connect to databases from right in the w
 
 We lived in New York City, and we would go out to dinner in certain neighborhoods. And she was like, I wish I could just see what neighborhood I'm in. We could kind of try to use Google Maps for this. There's some services. But I was like, I just want one button. So I actually turned this into a thing that I deployed, and I use this every week. I use this to figure out what location, whatever. It's just a super simple thing. But my wife loves it because it was software that was designed exactly to her specification, and I just have it pinned to my home screen on my phone, and we use it whenever we go somewhere. It's like, oh, this is a nice neighborhood. So this was a fun one I made for me.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:18:50)
 
 That's a really interesting future after... apps like v0 have hit the market right, which is that anybody can make personalized software. I love this. So it sounds like people can go to where.tomochino.com to try it themselves.
@@ -444,6 +445,7 @@ And pretty soon, I'll have this open to the entire internet. And then I can go f
 
 AI evals are one of the most important skills for PMs. And I know you know they matter. The question is, are you doing them right? Most teams are winging it with basic metrics and hoping for the best. Meanwhile, the teams that actually ship reliable AI, they've cracked the code on systematic evaluation. Today's episode is brought to you by the AI evals for engineers and PMs course by Hamil Hussain and Shreya Shankar. This live Maven course will teach you the battle-tested frameworks from Hamil and Shreya, who are the engineers behind GitHub Copilot's evaluation system and 25-plus production AI implementations. Four weeks, live instruction, next cohort starts July 21st. Start shipping AI that actually works. Enroll at maven.com with my code ag-product-growth for over $800 off. That's ag-p-r-o-d-u-c-t-g-r-o-w-t-h. Today's episode is brought to you by the AIPM certification on Maven. Run by Mikdad Jaffer, who is a product leader at OpenAI, this is not your typical course.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:48)
 
 It's eight weeks of live, cohort-based learning with a leader at one of the top companies in tech. OpenAI just doesn't stop shipping, and this is your chance to learn how. Run along with product faculty and Mo Ali, the course has a 4.9 rating with 133 reviews. Former students come from companies like OpenAI, Shopify, Stripe, Google, and Meta. The best part? Your company can probably cover the cost. So if you want to get $500 off, use my code AAKASH25 and head to maven.com slash product dash faculty. That's M-A-V-E-N dot com slash P-R-O-D-U-C-T dash F-A-C-U-L-T-Y. And for people who don't know, Vercel, as you can hear with the numbers, 186 people focused on this core business because you guys started that, what, almost 10 years ago, and VZero is really one of the newer things that you guys have built.

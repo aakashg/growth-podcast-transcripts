@@ -40,6 +40,7 @@ not chat gpt
 
 GPT with 4.0, I think the last two model releases, I felt like got more towards lazy and less useful. So I just don't spend as much time in there. I just feel like Claude's more reliable for me. Wow. If you're stuck behind corporate structure, enterprise tools, and your organization's not really supporting, here's how you can kind of think about working around it with your own tools and projects. That's a way better method than most people do.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:01:06)
 
 Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. Mike, welcome to the podcast. Thanks for having me. Excited to be here. What makes an AI native PM?
@@ -305,6 +306,7 @@ And second guessing yourself. And then like in this case, I'm still going to sec
 
 Yes, that's my favorite thing about AI is it's like my second brain. Sometimes I wouldn't have even asked a person for it, but I don't feel as bad asking AI. This episode is brought to you by Linear. You know what's broken about product development right now? It's not the coding. We've got AI agents for that. It's everything else. The planning, the feedback synthesis, the endless context switching between tools. You're drowning in PM busy work while the actual product work suffers. Linear started as that issue tracker that engineers actually want to use, which, let's be honest, is pretty rare. but it's evolved into something way more powerful. Your entire product development hub. Their new AI features are a game changer for PMs. Product intelligence automatically surfaces insights from customer feedback and support tickets. No more manually combing through hundreds of reports and tickets. and their AI agents will help draft PRDs, scope projects, and handle all those status updates nobody wants to take care of.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:36)
 
 Product teams from OpenAI to Vercel use Linear to build complex products at speed. There's a reason they call it magical. See for yourself at linear.app slash akash. That's L-I-N-E-A-R-A-P-P slash A-A-K-A-S-H.
@@ -597,18 +599,22 @@ garbage in garbage out still resonates with me. I think over prompting is one th
 
 Like taste is incredibly important. I think intuition is incredibly important. Being able to be like, being able to look at something and say, I did this for X reason, is 10x more valuable than like i put this dog together so being able to defend it and being really intentional about the end state of it i think is some people tend to let go of that too early on especially more people like that are junior that i've worked with tend to be like hey i put it in here like you said like i used ai i put this doc together and then i read it like but it doesn't make any sense like yeah you probably you probably did use it but like none of this ref like represents the information that we have or the interviews that we sat in like did you use any of those things or not right and they just don't check it or they don't question it like you have to be kind of skeptical with all of it i think
 
+<!-- sponsor -->
 **Aakash Gupta** (00:59:27)
 
 amazing this has been a master class truly one of the episodes that i've had the most epiphanies on in terms of the gaps I have in how I'm using AI, all of the connectors that you talked about, this concept of an operating system is an incredibly powerful concept. So if you are a product leader, start to think about, am I giving my team the access to the right tools? Have I taught them about this operating system concept? Should I go through a training on it? And then if you are a PM, are you using enough connectors? Are you building an operating system? Do you have cloud skills that are helping you? Do you have cloud projects that have the context? And then are you connecting it to all these tools? This is how you actually get the most out of AI. Nowadays, most of you guys are being evaluated in your performance reviews on how you used AI.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:00:13)
 
 This episode has just given you a bunch of keys to get a better rating on that. Mike, thank you so, so much for dropping the sauce. No problem. Thanks for having me. All right. Bye, everyone. Take care. I hope you enjoyed that episode. If you could take a moment to double check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify and commented on YouTube. All these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:01:09)
 
 I'll see you in the next
 
+<!-- sponsor -->
 **Aakash Gupta** (01:01:09)
 
 episode. you

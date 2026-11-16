@@ -48,7 +48,7 @@ A turn looks like this:
 If someone's telling you we tried it, it didn't work, don't stop there. Like think about 10 different ways.
 ```
 
-Sponsor reads are marked with `<!-- sponsor -->` on the line above, so you can strip them.
+Sponsor reads are marked with `<!-- sponsor -->` on the line above wherever they were detected, so you can strip them.
 
 ## Things to build
 

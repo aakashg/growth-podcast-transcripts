@@ -44,6 +44,7 @@ Why should they be using an AI prototyping tool or when should they be using an 
 
 You get an experience that is something that's more functional, that you can play around with, that you can put users in front of and they can actually get their real experience.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:00:51)
 
 How should PMs be preparing themselves for whatever's happening in the next three to five years with AI? Before we go any further, do me a favor and check that you are subscribed on YouTube and following on Apple and Spotify podcasts. And if you want to get access to amazing AI tools, check out my bundle, where if you become an anal subscriber to my newsletter, you get a full year free of the paid plans of Mobbin, Arise, RelayApp, Dovetail, Linear, Magic Patterns, Deep Sky, Reforge Build, Descript, and Speechify. So be sure to check that out at bundle.akashg.com. And now into today's episode. Nadav. Welcome to the podcast. Hi,
@@ -129,6 +130,7 @@ So I'm not starting from a blank page and I can basically see where I want to fi
 
 Today's podcast is brought to you by Pendo, the leading software experience management platform. McKinsey found that 78% of companies are using Gen.ai, but just as many have reported no bottom line improvements. So how do you know if your AI agents are actually working? Are they giving users the wrong answers, creating more work instead of less, improving retention, or hurting it? When your software data and AI data are disconnected, you can't answer these questions. But when you bring all your usage data together in one place, you can see what users do before, during, and after they use AI. showing you when agents work, how they help you grow, and when to prioritize on your roadmap. Pendo Agent Analytics is the only solution built to do this for product teams. Start measuring your AI's performance with Agent Analytics at pendo.io slash akash. That's p-e-n-d-o dot i-o slash a-a-k-a-s-h.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:11:01)
 
 AI is writing code faster than ever, but can your testing keep up? Testkube is the Kubernetes native platform that scales testing at the pace of AI accelerated development. One dashboard, all your tools, full oversight. Run functional and load tests in minutes, not hours, across any framework, any environment. No vendor lock-in, no bottlenecks, just confidence that your AI-driven releases are tested, reliable, and ready to ship. Testkube, scale testing for the AI era. See more at testcube.io slash Akash. That's T-E-S-T-K-U-B-E dot I-O slash A-A-K-A-S-H. So it sounds like as a product leader, if you're introducing Dazzle or an air prototyping tool to your team, you might want to do this first step for people where it brings in the design system. It starts to look like their existing product so that they can just pick it up and start using it from that.
@@ -329,14 +331,17 @@ Now, it's something that you won't see in other tools, and it's something that i
 
 It's something that I open when I want to understand the data flow in the application. Usually, it's part of debugging. In this case, I didn't expect to see a different number of items, but in some cases, you're seeing four items and you expect to see 10. This basically shows you at what level it's broken. You can go down the component tree and see where the data doesn't pass as you expected.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:30:31)
 
 Thank you. and even The Economist. Check out why and try it for free today at Atlassian.com slash product-discovery. That's A-T-L-A-S-S-I-A-N dot com slash product dash discovery. Jira Product Discovery. Build the right thing. I hope you're enjoying today's episode. Are you interested in becoming an AI product manager, making hundreds of thousands of dollars more, joining OpenAI and Anthropic? Then you might want to do a course that I've taken myself, the AIPM certificate ran by OpenAI product leader, McDad Jaffer. If you use my code and my link, you get a special discount on this course. It is a course that I highly recommend. We have done a lot of collaborations together on things like AI product strategy. So check out our newsletter articles if you want to see the quality of the type of thinking you'll get. One of my frequent collaborators, Pavel Hearn, is the Build Labs leader.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:03)
 
 So you're going to live build an AI product with Pavel's feedback if you take this AIPM certificate. So be sure to check that out. Be sure to use my code and my link in order to get a special discount. And now back into today's episode. Before we dive deeper, let's talk about something every PM faces, getting alignment on product decisions. You know that feeling when you're trying to explain a user flow to engineering or justify a design choice to leadership and you're just describing it with your hands? That's where Mobbin comes in. Mobin is the world's largest library of real-world mobile and web app designs from industry-leading apps like Airbnb, Uber, and Pinterest. Instead of spending hours taking screenshots or hunting for inspiration, you can instantly find exactly how successful products handle onboarding, paywalls, checkout flows, Whatever you're facing. Over 1.7 million product builders use Mobbin to benchmark against best-in-class products and show their team's proven solutions.
 
+<!-- sponsor -->
 **Aakash Gupta** (00:32:56)
 
 Whether you need to convince stakeholders there's a better way to handle user activation or research a top app's approach future discovery, Mobbin gives you the visual proof to back up your product decisions. Check out mobbin.com slash akash. That's M-O-B-B-I-N dot com slash A-A-K-A-S-H and get 20% off your first year.
@@ -633,10 +638,12 @@ So don't let that be your blocker. Get started today. And I'll see you in the ne
 
 Can I say one more thing, Akash? Yes. Okay. So one thing, if I can sum up and say, we keep working on new features. If you come and use DAZN and you want to see it from the other side, how this usability looks, don't just use the coupon. Give us a holler on this code, on the email, wherever you want. Talk to us and you'll get to see one of these experiences from the other side, which is, I think, super interesting as well.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:15:40)
 
 Yeah, take both sides of the chair, give them some feedback, and see it on the other end. Thanks so much, Nadav. Thank you. It's been a pleasure, Akash. Bye, everyone. I hope you enjoyed that episode. If you could take a moment to double-check that you have followed on Apple and Spotify podcasts, subscribed on YouTube, left a rating or review on Apple or Spotify, and commented on YouTube, all these things will help the algorithm distribute the show to more and more people. As we distribute the show to more people, we can grow the show, improve the quality of the content and the production to get you better insights to stay ahead in your career. Finally, do check out my bundle at bundle.akashg.com to get access to nine AI products for an entire year for free. This includes Dovetail, Mobbin, Linear, Reforge Build, Descript, and many other amazing tools that will help you as an AI product manager or builder succeed.
 
+<!-- sponsor -->
 **Aakash Gupta** (01:16:33)
 
 I'll see you in the next episode. you
