@@ -24,10 +24,11 @@ Then ask:
 You get the answer, the guests who've done it, an exact quote from each, and a YouTube link that starts at the moment
 they said it.
 
-**No download:** add the free MCP server and search the show from any Claude Code session.
+**Want it in every Claude Code session?** Paid members of [Product Growth](https://www.news.aakashg.com) get a key to the
+Growth Podcast MCP server, which adds ranked search, a context file for every episode and a framework index:
 
 ```bash
-claude mcp add --transport http growth-podcast https://growth-podcast-mcp.aakashg.workers.dev/mcp
+claude mcp add --scope user --transport http growth-podcast https://growth-podcast-mcp.aakashg.workers.dev/mcp --header "Authorization: Bearer YOUR_KEY"
 ```
 
 ## What's inside
