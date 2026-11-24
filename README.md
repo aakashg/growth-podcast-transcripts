@@ -2,7 +2,7 @@
 
 Every episode of The Growth Podcast with Aakash Gupta, as markdown, free to build on.
 
-**164 episodes. 215 hours. 2.27 million words. 150 guests.** August 2024 to November 2026.
+**166 episodes. 218 hours. 2.30 million words. 151 guests.** August 2024 to November 2026.
 
 Each line carries the speaker and the second it was said, so anything you build can link straight back to the guest
 saying it.

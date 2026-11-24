@@ -229,11 +229,11 @@
   "date": "2024-10-08",
   "host": "Aakash Gupta",
   "guests": "Wes Bush",
-  "speaker_names": "none (YouTube captions)",
+  "speaker_names": "substack",
   "substack_url": "https://www.news.aakashg.com/p/everything-you-need-to-know-about-bae",
   "youtube_url": "https://www.youtube.com/watch?v=Rd3YwdRDSWQ",
   "duration": "01:46:39",
-  "word_count": 20249,
+  "word_count": 19799,
   "source": "Substack episode transcript (aired audio)",
   "file": "episodes/2024-10-08-everything-you-need-to-know-about-bae.md"
  },
@@ -369,11 +369,11 @@
   "date": "2024-11-13",
   "host": "Aakash Gupta",
   "guests": "Vineeth Madhusudanan",
-  "speaker_names": "none (YouTube captions)",
+  "speaker_names": "inferred",
   "substack_url": "https://www.news.aakashg.com/p/stop-using-frameworks-lessons-from",
   "youtube_url": "https://www.youtube.com/watch?v=vZDTWn--zrc",
   "duration": "02:05:16",
-  "word_count": 22190,
+  "word_count": 21668,
   "source": "Substack episode transcript (aired audio)",
   "file": "episodes/2024-11-13-stop-using-frameworks-lessons-from.md"
  },
@@ -2294,5 +2294,33 @@
   "word_count": 9503,
   "source": "Substack episode transcript (aired audio)",
   "file": "episodes/2026-11-13-ai-customer-research.md"
+ },
+ {
+  "title": "How to Ship to Production with AI Agents",
+  "subtitle": "I got the CPO of a $47M AI company to open his GitHub and show me the AI reviewer and the ops agent behind it.",
+  "date": "2026-11-20",
+  "host": "Aakash Gupta",
+  "guests": "Shuhao Zhang",
+  "speaker_names": "substack",
+  "substack_url": "https://www.news.aakashg.com/p/ai-agents-ship-to-production",
+  "youtube_url": "https://www.youtube.com/watch?v=-xQPRlk7VRE",
+  "duration": "01:02:44",
+  "word_count": 9966,
+  "source": "Substack episode transcript (aired audio)",
+  "file": "episodes/2026-11-20-ai-agents-ship-to-production.md"
+ },
+ {
+  "title": "A FAANG PM's Guide to Practical AI Evals",
+  "subtitle": "Mahesh Yadav worked at Google, Amazon, Meta, and Microsoft. Today he walks you through how to build AI evals practically in Microsoft Foundry.",
+  "date": "2026-11-24",
+  "host": "Aakash Gupta",
+  "guests": "Mahesh Yadav",
+  "speaker_names": "substack",
+  "substack_url": "https://www.news.aakashg.com/p/practical-ai-evals",
+  "youtube_url": "https://www.youtube.com/watch?v=MnGPn36NgK8",
+  "duration": "02:15:26",
+  "word_count": 21997,
+  "source": "Substack episode transcript (aired audio)",
+  "file": "episodes/2026-11-24-practical-ai-evals.md"
  }
 ]
