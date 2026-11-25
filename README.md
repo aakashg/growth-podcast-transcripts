@@ -70,6 +70,10 @@ From the aired audio of each episode, the same transcript that sits on its Subst
 and were checked by hand, and 4 come from the YouTube caption track with speakers not separated (`speaker_names` in the
 frontmatter says which). Transcripts are machine-made: check a quote against the audio before you publish it.
 
+## Advertise
+
+Want to reach the PMs, AI builders and product leaders who listen to The Growth Podcast? Email productgrowthppp@gmail.com or book through [Passionfroot](https://www.passionfroot.me/aakash-gupta).
+
 ## License
 
 Build anything, including products you charge for. Credit The Growth Podcast and link back. Don't re-host the raw files
