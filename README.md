@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cover.png" alt="Learn AI Product Management: every Growth Podcast episode, free to build on" width="100%"></p>
+
 # The Growth Podcast: every transcript
 
 Every episode of The Growth Podcast with Aakash Gupta, as markdown, free to build on.
