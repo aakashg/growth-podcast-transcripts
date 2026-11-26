@@ -26,7 +26,7 @@ Then ask:
 You get the answer, the guests who've done it, an exact quote from each, and a YouTube link that starts at the moment
 they said it.
 
-**Want it in every Claude Code session?** Paid members of [Product Growth](https://www.news.aakashg.com) get a key to the
+**Want it in every Claude Code session?** Paid members of [Product Growth](https://www.news.aakashg.com/subscribe?plan=annual&utm_source=github&utm_medium=readme&utm_campaign=pod-transcripts-mcp) get a key to the
 Growth Podcast MCP server, which adds ranked search, a context file for every episode and a framework index:
 
 ```bash
@@ -62,8 +62,8 @@ debate generator. A game.
 ## The challenge
 
 Build something on this repo and post it in [Discussions → Show and tell](../../discussions/categories/show-and-tell).
-Five winners each get a year of paid [Product Growth](https://www.news.aakashg.com) and a 15-minute call with Aakash.
-Details and the deadline: [the launch post](https://www.news.aakashg.com/p/pod-transcripts-github).
+Five winners each get a year of paid [Product Growth](https://www.news.aakashg.com/?utm_source=github&utm_medium=readme&utm_campaign=pod-transcripts) and a 15-minute call with Aakash.
+Details and the deadline: [the launch post](https://www.news.aakashg.com/p/pod-transcripts-github?utm_source=github&utm_medium=readme&utm_campaign=pod-transcripts).
 
 ## How the transcripts were made
 
