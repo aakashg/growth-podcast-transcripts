@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=2LSsVgkkgd4"
 duration: "01:16:36"
 word_count: 13389
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Linear](https://linear.app/partners/aakash) and [Amplitude](https://bit.ly/4hl25RG).
 
 # How I Wrote 3 of My Biggest LinkedIn Posts - And The New Trio (PM-PMM-Growth)
 

@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=DKfrMpvbCp4"
 duration: "01:26:10"
 word_count: 13253
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [WorkOS](http://www.workos.com/aakash).
 
 # Senior Director at Meta, Salesforce - Big Tech Career Growth Case Study
 

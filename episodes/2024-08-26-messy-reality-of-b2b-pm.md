@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=qBiU-gIo6Ao"
 duration: "01:36:47"
 word_count: 19687
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Cello"
+    url: "https://cello.so/productgrowth"
+  - name: "OneSchema"
+    url: "https://oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Cello](https://cello.so/productgrowth) and [OneSchema](https://oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466).
 
 # Dealing with the Messy Reality of B2B Product Management with Jason Knight | Interim CPO with 25+ Years in Tech
 

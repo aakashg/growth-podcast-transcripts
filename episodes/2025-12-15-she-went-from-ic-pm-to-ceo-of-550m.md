@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=LR_WOmcE9WI"
 duration: "00:44:30"
 word_count: 7906
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "https://maven.com/x/aakash"
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](https://maven.com/x/aakash), [Pendo](http://www.pendo.com/aakash), [Vanta](http://vanta.com/aakash), [NayaOne](https://nayaone.com/aakash/) and [Kameleoon](http://www.kameleoon.com/).
 
 # She went from IC PM to CEO of $550M AI company Descript in 3 years
 

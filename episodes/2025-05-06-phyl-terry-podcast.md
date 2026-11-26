@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=fnBX7uc14tw"
 duration: "01:32:00"
 word_count: 16909
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Maven](http://maven.com/x/aakash) and [Amplitude](https://bit.ly/4hl25RG).
 
 # Never Search Alone: Review from the Author
 

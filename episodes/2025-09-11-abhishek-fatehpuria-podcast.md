@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=pc04_TW7Z3U"
 duration: "01:18:57"
 word_count: 11794
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-evlas"
 ---
+
+**Sponsors:** This episode is brought to you by [Kameleoon](http://www.kameleoon.com/), [Mobbin](http://mobbin.com/aakash) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-evlas).
 
 # How to Build AI products in FinTech | $100B Lessons from Robinhood VP PM
 

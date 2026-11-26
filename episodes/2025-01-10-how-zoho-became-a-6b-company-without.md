@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Yx4ZdPrgv0I"
 duration: "00:53:26"
 word_count: 9840
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Explo"
+    url: "https://www.explo.co"
 ---
+
+**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [WorkOS](http://www.workos.com/aakash) and [Explo](https://www.explo.co).
 
 # How Zoho Became a $6B Company Without Funding, former Growth PM Aishwarya Ashok
 

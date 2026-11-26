@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=tsHip4IKtoU"
 duration: "02:15:27"
 word_count: 24426
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Cello"
+    url: "https://www.cello.so/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Cello](https://www.cello.so/productgrowth) and [WorkOS](http://www.workos.com/aakash).
 
 # Build a Snap Product Strategy: How to Succeed as a PM and Product Leader
 

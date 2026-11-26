@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=HzUfdqgJbUk"
 duration: "01:50:05"
 word_count: 21469
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://june.so/aakash"
+  - name: "Statsig"
+    url: "https://www.statsig.com/growth"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Statsig](https://www.statsig.com/growth) and [Dovetail](https://www.dovetail.com/aakash/).
 
 # How to Succeed as a Head of Growth, with Andrew Capland, 2x Head of Growth at Wistia, Postscript
 

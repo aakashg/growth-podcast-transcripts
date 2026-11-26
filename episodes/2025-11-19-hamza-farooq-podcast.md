@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Pg9M-2bpOXA"
 duration: "00:28:43"
 word_count: 5234
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [NayaOne](https://nayaone.com/aakash/) and [Kameleoon](http://www.kameleoon.com/).
 
 # How to Land an AI PM Job: Complete Roadmap from Hamza Farooq
 

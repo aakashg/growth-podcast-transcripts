@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=zocznD8Z-6k"
 duration: "01:06:22"
 word_count: 9737
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
+  - name: "Viktor"
+    url: "http://ref.viktor.com/aakashgupta3"
 ---
+
+**Sponsors:** This episode is brought to you by [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Customer.io](http://customer.io/productgrowth) and [Viktor](http://ref.viktor.com/aakashgupta3).
 
 # How to build a Company Operating System with Hermes and OpenClaw
 

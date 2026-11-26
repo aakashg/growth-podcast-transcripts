@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=bITUsUsrxjM"
 duration: "01:32:39"
 word_count: 11985
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Arize"
+    url: "https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai"
 ---
+
+**Sponsors:** This episode is brought to you by [Arize](https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai).
 
 # PM's Guide to Claude - When to use Chat vs Cowork vs Code, with Pawel Huryn
 

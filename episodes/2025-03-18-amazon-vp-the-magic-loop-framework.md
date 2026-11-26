@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=z95pArx8M_c"
 duration: "01:29:33"
 word_count: 14332
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash) and [Attio](http://www.attio.com/productgrowth).
 
 # Amazon VP: The Magic Loop Framework to Get Promoted
 

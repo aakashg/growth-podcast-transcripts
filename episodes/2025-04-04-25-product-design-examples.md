@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=5u8lQPNYIwc"
 duration: "00:50:01"
 word_count: 8077
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash) and [Amplitude](https://bit.ly/4hl25RG).
 
 # 25 Product Designs That Will Make You Jealous
 

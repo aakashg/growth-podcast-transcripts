@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=DL-pUGcfrf4"
 duration: "01:19:31"
 word_count: 13497
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Superhuman"
+    url: "http://superhuman.com/akash"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Superhuman](http://superhuman.com/akash), [Vanta](http://vanta.com/aakash), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth).
 
 # How to Run Evals in Claude Code with Aparna Dhinakaran, Founder and CPO of Arize
 

@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=I_ue2vrTM9M"
 duration: "00:28:05"
 word_count: 6354
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to PM Production Changes with Devin: Tutorial From Gumroad CEO, Sahil Lavingia
 

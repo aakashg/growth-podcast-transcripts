@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=oLmHdymHHg0"
 duration: "01:12:14"
 word_count: 12043
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash), [Miro](http://miro.pxf.io/PO4WZX) and [Amplitude](https://bit.ly/4hl25RG).
 
 # Vibe Coding Tutorial in 72 mins, No Technical Background Needed (Windsurf)
 

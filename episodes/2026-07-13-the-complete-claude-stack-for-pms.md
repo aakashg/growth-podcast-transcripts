@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=uEK9ONplfRk"
 duration: "01:33:20"
 word_count: 14685
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Hyperagent"
+    url: "https://hyperagent.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Hyperagent](https://hyperagent.com/productgrowth).
 
 # Claude PM Masterclass from Former FAANG AI PM Jyothi Nookula
 

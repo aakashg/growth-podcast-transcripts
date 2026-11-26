@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=J0FOFJFtOFw"
 duration: "01:01:27"
 word_count: 9510
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Vanta](http://vanta.com/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
 
 # The Marty Cagan Episode: Product Management Crash Course in 61 Minutes
 

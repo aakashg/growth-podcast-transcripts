@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=IUvi2YHayS0"
 duration: "01:01:56"
 word_count: 10691
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "NayaOne"
+    url: "https://nayaone.com/"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Gamma"
+    url: "https://gamma.app/?utm_campaign=prompt&utm_content=Aakash+Gupta&utm_source=LinkedIn"
 ---
+
+**Sponsors:** This episode is brought to you by [NayaOne](https://nayaone.com/), [Pendo](http://www.pendo.io/aakash), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth) and [Gamma](https://gamma.app/?utm_campaign=prompt&utm_content=Aakash+Gupta&utm_source=LinkedIn).
 
 # How to Design with AI | The Complete Guide for PMs with Xinran Ma
 

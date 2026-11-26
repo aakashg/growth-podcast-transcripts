@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=B5j84VU9OeY"
 duration: "01:35:42"
 word_count: 15625
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "Sprig"
+    url: "http://sprig.com/productgrowthpodcast"
+  - name: "Attio"
+    url: "https://attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [Sprig](http://sprig.com/productgrowthpodcast) and [Attio](https://attio.com/productgrowth).
 
 # How to land your next PM role without working more, from Google PM turned Career Coach Shobhit Chugh
 

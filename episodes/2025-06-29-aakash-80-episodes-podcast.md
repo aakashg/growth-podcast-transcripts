@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=c-myAorfg_g"
 duration: "01:10:24"
 word_count: 14520
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](http://miro.pxf.io/PO4WZX), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth), [Linear](https://linear.app/partners/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # What I Learned From Filming 80 Podcast Episodes
 

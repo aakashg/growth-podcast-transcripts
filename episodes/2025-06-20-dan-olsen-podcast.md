@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=sl7r3wsoVGY"
 duration: "01:19:37"
 word_count: 17081
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # The Lean Product Playbook 10 Years Later: Product Management in the Age of AI 
 

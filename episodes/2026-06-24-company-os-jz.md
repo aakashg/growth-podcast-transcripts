@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=qsDX0PMKcaE"
 duration: "01:07:58"
 word_count: 12687
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Ariso](https://ariso.ai/aakash), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Pendo](http://www.pendo.io/aakash), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [Customer.io](http://customer.io/productgrowth).
 
 # How to Build a Company OS in Claude Code with Jiaona Zhang, CPO at Laurel
 

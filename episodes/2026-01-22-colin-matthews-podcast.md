@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Q2MfgGBUVwQ"
 duration: "01:02:22"
 word_count: 13412
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "NayaOne"
+    url: "https://nayaone.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast), [Mobbin](http://mobbin.com/aakash) and [NayaOne](https://nayaone.com/).
 
 # How to Build ChatGPT Apps (The Next App Store?) | Live Demo by Colin Matthews
 

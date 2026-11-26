@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=vPBUYcJIk1c"
 duration: "01:06:47"
 word_count: 13113
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "AutonomyAI"
+    url: "https://autonomyai.io/pre-meeting/schedule/?utm_source=aakash&utm_medium=podcast&utm_campaign=growth-podcast-pilot"
 ---
+
+**Sponsors:** This episode is brought to you by [AutonomyAI](https://autonomyai.io/pre-meeting/schedule/?utm_source=aakash&utm_medium=podcast&utm_campaign=growth-podcast-pilot).
 
 # How to Survive AI as a SaaS Company
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=o-eelkFXF-w"
 duration: "01:19:37"
 word_count: 17977
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Amplitude](https://bit.ly/4hl25RG) and [Maven](http://maven.com/x/aakash).
 
 # Vanta ($2.4B) CPO: "My Whole Org has v0 Licenses"
 

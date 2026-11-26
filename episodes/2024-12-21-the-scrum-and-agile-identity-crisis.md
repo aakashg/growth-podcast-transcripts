@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=jzFMUCN1OLo"
 duration: "01:51:12"
 word_count: 17196
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [WorkOS](http://www.workos.com/aakash) and [Dovetail](https://www.dovetail.com/aakash/).
 
 # The Scrum and Agile Identity Crisis with Maria Chec, Host of Agile State of Mind
 

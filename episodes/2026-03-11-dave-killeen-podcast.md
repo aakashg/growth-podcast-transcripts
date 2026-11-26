@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=0v8U-0aSb-g"
 duration: "00:52:48"
 word_count: 12219
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.io/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [NayaOne](https://nayaone.com/aakash/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # This CPO Uses Claude Code to Run his Entire Work Life | Dave Killeen, Field CPO @ Pendo
 

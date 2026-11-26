@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=82zF4BUqxkA"
 duration: "00:21:36"
 word_count: 4080
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash).
 
 # How Product Leaders Should Use AI, with Webflow CPO Rachel Wolan
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=kLuT4JHP0Uk"
 duration: "01:28:18"
 word_count: 14739
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://june.so/aakash"
+  - name: "Sprig"
+    url: "https://www.sprig.com/productgrowthpodcast"
+  - name: "OneSchema"
+    url: "https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Sprig](https://www.sprig.com/productgrowthpodcast) and [OneSchema](https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466).
 
 # How ZoomInfo Grows: The Story, Growth Motion, and Product Strategy with CEO and Founder Henry Shuck
 

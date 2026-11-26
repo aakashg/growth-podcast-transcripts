@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=JpyhPePe150"
 duration: "00:58:53"
 word_count: 9503
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery?utm_source=aakash_gupta&utm_medium=referral&utm_campaign=growth-podcast-greg-greiner"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery?utm_source=aakash_gupta&utm_medium=referral&utm_campaign=growth-podcast-greg-greiner).
 
 # How to Build an AI Customer Research Agent in Claude Code
 

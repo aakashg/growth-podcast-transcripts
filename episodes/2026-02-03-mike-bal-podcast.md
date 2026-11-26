@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=1C0daBcDBig"
 duration: "01:01:20"
 word_count: 12211
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash).
 
 # How to Build An AI Native PM Operating System with Mike Bal, Head of Product at David's Bridal
 

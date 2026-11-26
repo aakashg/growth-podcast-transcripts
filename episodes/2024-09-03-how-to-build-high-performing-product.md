@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=erql22ZbLWI"
 duration: "01:31:31"
 word_count: 15648
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "Cello"
+    url: "https://cello.so/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Enterpret](https://www.enterpret.com/productgrowth) and [Cello](https://cello.so/productgrowth).
 
 # How to Build High Performing Product Teams | Lessons from 15+ Years in Product with Stephanie Leue
 

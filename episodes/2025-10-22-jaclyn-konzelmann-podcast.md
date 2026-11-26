@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=rcz39Y0qFxw"
 duration: "00:32:13"
 word_count: 6314
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Pendo](http://www.pendo.com/aakash), [Linear](https://linear.app/partners/aakash) and [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery).
 
 # Google AI PM Director drops an AI PM Masterclass + Tutorial on Google's AI Tools
 

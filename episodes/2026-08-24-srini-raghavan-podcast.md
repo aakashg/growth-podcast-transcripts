@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=0qNZVlW8IR4"
 duration: "01:05:19"
 word_count: 11690
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Customer.io"
+    url: "https://www.try.customer.io/paid/trial?utm_medium=ads&utm_source=sponsored&utm_campaign=q22026_productgrowthpod&utm_term=demand%20gen"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Customer.io](https://www.try.customer.io/paid/trial?utm_medium=ads&utm_source=sponsored&utm_campaign=q22026_productgrowthpod&utm_term=demand%20gen) and [Ariso](https://ariso.ai/aakash).
 
 # How Srini Raghavan helped $3.4B SaaS Giant Freshworks Embrace the AI PDLC
 

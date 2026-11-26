@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=ODpFomsUb_s"
 duration: "01:12:05"
 word_count: 13125
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash), [GibsonAI](http://www.gibsonai.com/aakash) and [Amplitude](https://bit.ly/4hl25RG).
 
 # This PM Went From $50k to $750k/Year - Here's How
 

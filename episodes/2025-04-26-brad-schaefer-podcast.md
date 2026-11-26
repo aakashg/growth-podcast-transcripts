@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=EJK_NEK3R4Q"
 duration: "00:56:24"
 word_count: 11284
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Amplitude](https://bit.ly/4hl25RG) and [Attio](http://www.attio.com/productgrowth).
 
 # How to Go from PM to VP - My Story
 

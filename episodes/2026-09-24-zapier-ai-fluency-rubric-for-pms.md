@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=WbvJMnlB6wA"
 duration: "01:14:10"
 word_count: 13729
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Arize"
+    url: "https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai"
 ---
+
+**Sponsors:** This episode is brought to you by [Arize](https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai).
 
 # How to Get a ‘Transformative’ AI Fluency Rating as a PM, with Wade Foster | CEO of Zapier
 

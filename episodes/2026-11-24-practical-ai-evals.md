@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=MnGPn36NgK8"
 duration: "02:15:26"
 word_count: 21997
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Ariso](https://ariso.ai/aakash).
 
 # A FAANG PM's Guide to Practical AI Evals
 

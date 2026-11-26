@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=X_ho4XPWrek"
 duration: "01:44:37"
 word_count: 18547
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://www.june.so/aakash"
+  - name: "Cello"
+    url: "https://www.cello.so/productgrowth"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "Statsig"
+    url: "http://statsig.com/growth"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](http://www.attio.com/productgrowth) and [Statsig](http://statsig.com/growth).
 
 # How Maven Builds Product, and Whether You Should Take a Maven PM Course with Maven CEO Gagan Biyani
 

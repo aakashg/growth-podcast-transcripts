@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=gLDUddhkgMs"
 duration: "02:33:31"
 word_count: 28564
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [WorkOS](http://www.workos.com/aakash) and [Vanta](http://vanta.com/aakash).
 
 # He Was Promoted 3x in 5 Years at Google (Bilawal Sidhu)
 

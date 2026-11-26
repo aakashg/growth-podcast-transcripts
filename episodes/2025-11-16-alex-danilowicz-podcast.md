@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=qPFRsJzb8tk"
 duration: "00:41:36"
 word_count: 6922
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # I put the 5 best AI prototyping tools to the test with Magic Patterns CEO Alex Danilowicz
 

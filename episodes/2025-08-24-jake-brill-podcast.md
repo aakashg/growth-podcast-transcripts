@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=j4gdMHYfHaE"
 duration: "01:21:05"
 word_count: 15089
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth) and [Maven](http://maven.com/x/aakash).
 
 # OpenAI Head of Product (Integrity) on the Future of AI Agents, PM, and AI threats
 

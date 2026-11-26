@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=WK0bZrS8pVs"
 duration: "00:53:00"
 word_count: 11590
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.io/aakash), [Testkube](http://testkube.io/), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth).
 
 # Claude Code + Analytics = Vibe PMing
 

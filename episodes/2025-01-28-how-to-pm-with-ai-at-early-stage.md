@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=oJLcUx2Vd8U"
 duration: "02:08:54"
 word_count: 19545
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Attio](http://www.attio.com/productgrowth).
 
 # How to PM with AI at Early Stage Startups | Fractional CPO and CTO, Sergio Pereira
 

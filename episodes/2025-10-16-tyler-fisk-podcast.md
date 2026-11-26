@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=WVU7MCfFet4"
 duration: "01:41:02"
 word_count: 17444
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to Build Multi-Agent AI Systems That Actually Work in Production | Tyler Fisk
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=nBrHS7kIVnY"
 duration: "02:13:10"
 word_count: 27666
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Statsig"
+    url: "https://www.statsig.com/growth"
+  - name: "SectaLabs"
+    url: "https://secta.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Statsig](https://www.statsig.com/growth) and [SectaLabs](https://secta.ai/aakash).
 
 # How to Get a Product Leadership Job, with Collin Lernell, 3x Sr. Dir of Product (Udacity, Noom, Patreon)
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=o_KfvIHTsiA"
 duration: "01:51:38"
 word_count: 15289
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://june.so/aakash"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
+  - name: "SectaLabs"
+    url: "https://secta.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Dovetail](https://www.dovetail.com/aakash/) and [SectaLabs](https://secta.ai/aakash).
 
 # How Tibo Sold over $10M in SaaS Products by Breaking All the Rules of Traditional Product Building
 

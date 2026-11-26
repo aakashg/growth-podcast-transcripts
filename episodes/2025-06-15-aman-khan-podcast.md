@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Ej4pBDaHspk"
 duration: "02:04:36"
 word_count: 22052
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](http://miro.pxf.io/PO4WZX), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [Amplitude](https://bit.ly/4hl25RG).
 
 # AI PM Crash Course 2026: Prototyping → Observability → Evals
 

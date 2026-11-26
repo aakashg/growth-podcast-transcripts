@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Eo26_4JcyNA"
 duration: "01:04:41"
 word_count: 9776
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Customer.io](http://customer.io/productgrowth) and [Ariso](https://ariso.ai/aakash).
 
 # 3x CPO Oji Udezue on the Essential Claude Skills for PMs
 

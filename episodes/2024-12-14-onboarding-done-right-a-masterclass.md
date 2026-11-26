@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Bifdm8y2Pww"
 duration: "01:51:02"
 word_count: 19096
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Sprig"
+    url: "https://www.sprig.com/productgrowthpodcast"
+  - name: "SectaLabs"
+    url: "https://secta.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Sprig](https://www.sprig.com/productgrowthpodcast) and [SectaLabs](https://secta.ai/aakash).
 
 # Onboarding Done Right: A Masterclass with Ramli John, Author of Product-Led Onboarding
 

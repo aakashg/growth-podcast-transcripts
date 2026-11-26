@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=vTGNp7iqsLY"
 duration: "01:08:01"
 word_count: 13676
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Mobbin"
+    url: "https://www.mobbin.com?via=aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Mobbin](https://www.mobbin.com?via=aakash).
 
 # The Roadmap to Becoming a Product Builder, with Ankit Shukla
 

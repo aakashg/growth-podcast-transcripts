@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=-n8T6S_sD7Y"
 duration: "01:15:15"
 word_count: 13191
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # Behind v0 (Top AI Prototyping Tool): Tutorial and Story from the CPO in 2026
 

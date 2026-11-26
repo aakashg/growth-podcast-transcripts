@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=tTTG1Nn-kkw"
 duration: "01:14:44"
 word_count: 12500
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Arize"
+    url: "https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai"
 ---
+
+**Sponsors:** This episode is brought to you by [Arize](https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai).
 
 # The PM's Guide to AI Design that isn't Slop
 

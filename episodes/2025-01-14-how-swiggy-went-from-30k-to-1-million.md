@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=uq68g8iROWk"
 duration: "01:21:30"
 word_count: 15318
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Explo"
+    url: "https://www.explo.co"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "Vanta"
+    url: "https://www.vanta.com"
 ---
+
+**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](http://www.attio.com/productgrowth) and [Vanta](https://www.vanta.com).
 
 # How Swiggy Went From 30K to 1 Million Orders Per DAY With Fmr SVP of Product + Growth, Anuj Rathi
 

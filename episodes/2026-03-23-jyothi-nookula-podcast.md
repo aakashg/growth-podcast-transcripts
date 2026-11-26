@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=RlsOGvrpEsw"
 duration: "01:12:54"
 word_count: 11036
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7), [Pendo](http://www.pendo.io/aakash), [NayaOne](https://nayaone.com/aakash/) and [Kameleoon](http://www.kameleoon.com/).
 
 # AI PM at Netflix, Amazon and Meta - Here's How to Become an AI PM (Fundamentals + Job Search)
 

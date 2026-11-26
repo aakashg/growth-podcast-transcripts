@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=fQiW3C_az0c"
 duration: "01:42:34"
 word_count: 19200
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Statsig"
+    url: "http://statsig.com/growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [WorkOS](http://www.workos.com/aakash) and [Statsig](http://statsig.com/growth).
 
 # 21 Harsh Truths about Product Management in AI | Scott Jones, VP of Product at Realeyes
 

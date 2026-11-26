@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=1UAwtKjgO9Y"
 duration: "01:16:53"
 word_count: 14527
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "AI Product Strategy Certificate"
+    url: "https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Mobbin](http://mobbin.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25), [AI Product Strategy Certificate](https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth).
 
 # AI Product Leadership Masterclass: The Makings of a Manager (With Author of the Book)
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=-1rtFfeDv3E"
 duration: "01:01:28"
 word_count: 10833
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # How Zoom Took Over The World
 

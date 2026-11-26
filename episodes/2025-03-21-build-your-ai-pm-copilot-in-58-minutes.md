@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=sLI4KCjGXdQ"
 duration: "00:58:46"
 word_count: 9827
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
 
 # We Built an AI Product Manager in 58 mins (Claude, ChatGPT, Loom + Notion AI)
 

@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=74kamD2jUng"
 duration: "01:12:39"
 word_count: 12752
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Reforge"
+    url: "http://reforge.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Reforge](http://reforge.com/aakash).
 
 # Advanced Guide to AI Prototyping with Sachin Rekhi (Reforge)
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=WQMQ4XPTJ_U"
 duration: "01:28:33"
 word_count: 15811
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Attio"
+    url: "https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24"
+  - name: "Cello"
+    url: "https://cello.so/productgrowth"
+  - name: "BuildBetter"
+    url: "https://www.buildbetter.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24), [Cello](https://cello.so/productgrowth) and [BuildBetter](https://www.buildbetter.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=aakash).
 
 # Pricing Masterclass: Everything you need to know about SaaS Pricing
 

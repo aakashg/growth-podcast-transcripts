@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=-xQPRlk7VRE"
 duration: "01:02:44"
 word_count: 9966
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth) and [Ariso](https://ariso.ai/aakash).
 
 # How to Ship to Production with AI Agents
 

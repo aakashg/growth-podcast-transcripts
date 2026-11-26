@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=FTbkpiKWLKw"
 duration: "01:07:29"
 word_count: 12251
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Ariso](https://ariso.ai/aakash) and [Customer.io](http://customer.io/productgrowth).
 
 # Claude Code for Growth: Complete Masterclass with James McAulay
 

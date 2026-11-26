@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Zn8oryvqsTo"
 duration: "02:20:34"
 word_count: 28089
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "Anvil"
+    url: "http://www.useanvil.com/aakash"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [Anvil](http://www.useanvil.com/aakash) and [Dovetail](https://www.dovetail.com/aakash/).
 
 # Mastering Product Strategy With Melissa Perri, Author of Escaping the Build Trap
 

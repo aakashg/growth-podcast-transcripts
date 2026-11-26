@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=kQelqKkI-EQ"
 duration: "02:15:18"
 word_count: 16771
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Testkube](http://testkube.io/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to Build a Full AI Dev Team in Claude Code | Guide from Google PM Gabor Meyer
 

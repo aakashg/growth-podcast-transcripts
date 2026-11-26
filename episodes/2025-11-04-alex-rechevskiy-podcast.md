@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=7nbu9JNPDig"
 duration: "01:06:37"
 word_count: 12032
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash?utm_source=aakash&utm_medium=newsletter&utm_campaign=product_growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash?utm_source=aakash&utm_medium=newsletter&utm_campaign=product_growth).
 
 # How to Land a $700K+ AI PM Job Using AI by Google PM Alex Rechevskiy
 

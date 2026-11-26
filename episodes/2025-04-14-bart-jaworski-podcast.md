@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=UnBNfJPLYNw"
 duration: "01:10:12"
 word_count: 9365
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [Amplitude](https://bit.ly/4hl25RG) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # “I Got Laid Off. Here’s What Happened Next.”
 

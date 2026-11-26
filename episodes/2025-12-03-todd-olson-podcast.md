@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=C9hL_4Hrr8E"
 duration: "01:11:39"
 word_count: 13415
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Reforge"
+    url: "http://reforge.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Reforge](http://reforge.com/aakash).
 
 # How to Upskill from Core PM to Great AI PM: Masterclass from Pendo CEO Todd Olson
 

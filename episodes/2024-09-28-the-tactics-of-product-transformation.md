@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=P-GMqgU4L8k"
 duration: "01:27:18"
 word_count: 15514
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Anvil"
+    url: "http://useanvil.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [WorkOS](http://www.workos.com/aakash) and [Anvil](http://useanvil.com/aakash).
 
 # The Tactics of Product Transformation: How to Build a Better Working Environment with Christian Idiodi
 

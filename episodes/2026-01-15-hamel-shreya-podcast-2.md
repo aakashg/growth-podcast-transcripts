@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=J7N9FMouSKg"
 duration: "01:05:43"
 word_count: 10624
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Vanta"
+    url: "https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth), [Vanta](https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [Pendo](http://www.pendo.com/aakash).
 
 # How to Do AI Evals Step-by-Step with Real Production Data | Tutorial by Hamel Husain and Shreya Shankar
 

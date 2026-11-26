@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=qMfdPodjfmA"
 duration: "00:39:24"
 word_count: 6642
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-evlas"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Kameleoon](http://www.kameleoon.com/) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-evlas).
 
 # The AI PM’s Guide to Building AI Agents, with Warp CEO Zach Lloyd
 

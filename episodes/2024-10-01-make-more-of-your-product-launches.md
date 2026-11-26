@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=FOow1L7jkmA"
 duration: "01:50:21"
 word_count: 18859
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://www.june.so/aakash"
+  - name: "Cello"
+    url: "https://www.cello.so/productgrowth"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "Anvil"
+    url: "http://useanvil.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](http://www.attio.com/productgrowth) and [Anvil](http://useanvil.com/aakash).
 
 # Make More of Your Product Launches Succeed with Itamar Gilad, Ex-Google PM
 

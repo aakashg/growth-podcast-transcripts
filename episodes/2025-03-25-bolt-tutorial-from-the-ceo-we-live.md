@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=FE20SlPGSMw"
 duration: "01:08:33"
 word_count: 11955
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash), [GibsonAI](http://www.gibsonai.com/aakash) and [Amplitude](https://bit.ly/4hl25RG).
 
 # Bolt Tutorial from the CEO: We Live Build a Remote Job board
 

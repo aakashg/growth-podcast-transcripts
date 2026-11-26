@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=YLXRg078EKs"
 duration: "01:40:51"
 word_count: 18923
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [Vanta](http://vanta.com/aakash), [Mobbin](http://mobbin.com/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # The Complete Guide to OpenClaw for PMs [EXCLUSIVE]
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=59gy_24KIVE"
 duration: "01:20:34"
 word_count: 18601
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
 ---
+
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [Miro](http://miro.pxf.io/PO4WZX).
 
 # 8 months of Claude Code Lessons in 80 minutes, with Carl Vellotti
 

@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=vJvSPW9_0Hw"
 duration: "00:58:07"
 word_count: 11399
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [Mobbin](http://mobbin.com/aakash), [Pendo](http://www.pendo.com/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # AI Agent Browsers: Should you use one? | ChatGPT Atlas vs Perplexity Comet vs Arc Dia
 

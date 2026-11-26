@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=u2NFqrbvAeY"
 duration: "01:12:12"
 word_count: 13031
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Ariso](https://ariso.ai/aakash) and [Customer.io](http://customer.io/productgrowth).
 
 # How you need to think about product strategy in the age of AI
 

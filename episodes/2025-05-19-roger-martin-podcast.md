@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=BD_4nsx5fTg"
 duration: "01:20:02"
 word_count: 11886
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Amplitude](https://bit.ly/4hl25RG) and [Linear](https://linear.app/partners/aakash).
 
 # Product Strategy Masterclass from Global Authority on Strategy
 

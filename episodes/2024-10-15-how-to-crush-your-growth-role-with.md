@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=AdSoYYPPfNc"
 duration: "01:48:02"
 word_count: 16049
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Statsig"
+    url: "http://statsig.com/growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [WorkOS](http://www.workos.com/aakash) and [Statsig](http://statsig.com/growth).
 
 # How to Crush Your Growth Role, with Former Gitlab and Acorns VP of Growth Hila Qu
 

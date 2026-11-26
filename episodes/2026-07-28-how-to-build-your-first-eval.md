@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=ztN6bE_FuQQ"
 duration: "00:56:56"
 word_count: 9705
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7), [Ariso](https://ariso.ai/aakash) and [Pendo](http://www.pendo.io/aakash).
 
 # How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google
 

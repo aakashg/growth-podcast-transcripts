@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=bYiXxeinhbg"
 duration: "01:09:37"
 word_count: 12654
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Ariso](https://ariso.ai/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # Claude Code for Non-Technical PMs, with Andre Albuquerque
 

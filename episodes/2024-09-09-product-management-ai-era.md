@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Q3jc5NAAUT4"
 duration: "01:42:25"
 word_count: 19407
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://www.june.so/aakash"
+  - name: "Cello"
+    url: "https://www.cello.so/productgrowth"
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth) and [Enterpret](https://www.enterpret.com/productgrowth).
 
 # Product Management in the Era of AI | Lessons from 15+ Years of PM Experience | Sam Kawsarani, VP PM at Paramount Commerce
 

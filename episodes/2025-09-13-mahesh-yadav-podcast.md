@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=cddB0JA5kAg"
 duration: "01:12:22"
 word_count: 12378
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-evlas"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](http://miro.pxf.io/PO4WZX), [Kameleoon](http://www.kameleoon.com/) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-evlas).
 
 # FAANG PM Reveals How to Build AI Agents (and Get Paid $750K+)
 

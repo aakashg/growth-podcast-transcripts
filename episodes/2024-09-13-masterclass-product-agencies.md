@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=k-dfgYRJtFM"
 duration: "01:14:47"
 word_count: 11924
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta) and [Attio](http://www.attio.com/productgrowth).
 
 # Masterclass: Product Agencies by Mirela Mus | Founder at Product People, 12+ Years of PM Experience
 

@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=l2YhkstnRcg"
 duration: "01:29:45"
 word_count: 15001
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "Attio"
+    url: "https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth) and [Attio](https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24).
 
 # How to Develop Your Product Strategy, with Satyajeet Salgar | Director of Product, Google
 

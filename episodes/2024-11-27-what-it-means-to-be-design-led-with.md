@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=Rdo2N_xO8z8"
 duration: "01:48:49"
 word_count: 19844
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "SectaLabs"
+    url: "https://secta.ai/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta) and [SectaLabs](https://secta.ai/aakash).
 
 # What it means to be Design-Led, with Benjamin Humphrey (Former Growth Designer at Atlassian, CEO at Dovetail)
 

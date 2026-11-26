@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=GQd54gFtQJE"
 duration: "01:27:33"
 word_count: 14562
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Maven](http://maven.com/x/aakash).
 
 # How to Become and Succeed as an AI Product Manager in 2026
 

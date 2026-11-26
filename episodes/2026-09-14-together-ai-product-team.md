@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=8TgxUPSuvNQ"
 duration: "00:59:27"
 word_count: 10195
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Arize"
+    url: "https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai"
 ---
+
+**Sponsors:** This episode is brought to you by [Arize](https://arize.com/?utm_source=aakashgupta&utm_medium=newsletter&utm_campaign=arize_sponsor_ai).
 
 # Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI
 

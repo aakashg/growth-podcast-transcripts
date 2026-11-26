@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=rW4MZEwGYY0"
 duration: "01:16:35"
 word_count: 13213
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Gamma"
+    url: "https://gamma.app/?utm_campaign=prompt&utm_content=Aakash+Gupta&utm_source=LinkedIn"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.io/aakash), [Testkube](http://testkube.io/), [Gamma](https://gamma.app/?utm_campaign=prompt&utm_content=Aakash+Gupta&utm_source=LinkedIn), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [Mobbin](http://mobbin.com/aakash).
 
 # How to AI Prototype Well | Masterclass from $5.5B Founder, Nadav Abrahami (Wix)
 

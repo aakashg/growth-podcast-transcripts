@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=Ds7q3vGfyTg"
 duration: "00:39:35"
 word_count: 6633
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "https://maven.com/x/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](https://maven.com/x/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [Vanta](http://vanta.com/aakash), [Mobbin](http://mobbin.com/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # This is what a Google AI PM's Tool Stack Looks Like - Live Demo from Marily Nika
 

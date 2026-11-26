@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=59mpQHNXsPI"
 duration: "01:12:31"
 word_count: 12513
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Attio](http://www.attio.com/productgrowth).
 
 # How He Became a Series C VP of Product in 10 Years: Mike Davey
 

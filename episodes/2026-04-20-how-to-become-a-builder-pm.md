@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=PL7908aNeSE"
 duration: "01:36:49"
 word_count: 16088
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [NayaOne](https://nayaone.com/aakash/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to Become a "Builder PM" with n8n, Claude Code, and OpenClaw | Mahesh Yadav (ex-Google, AWS, Meta, Microsoft; Founder LegalGraph AI)
 

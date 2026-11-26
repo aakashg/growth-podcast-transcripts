@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=kmvrlSghI8w"
 duration: "01:09:22"
 word_count: 12322
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
 
 # Cracking the PM Interview, with the author of the book Gayle McDowell
 

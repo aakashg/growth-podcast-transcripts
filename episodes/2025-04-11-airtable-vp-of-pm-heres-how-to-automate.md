@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=vh-urCCJhTs"
 duration: "01:13:50"
 word_count: 11970
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [Amplitude](https://bit.ly/4hl25RG) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # We Built an AI Agent to Automate PM in 73 mins (ZERO CODING)
 

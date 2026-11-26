@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=vZDTWn--zrc"
 duration: "02:05:16"
 word_count: 21668
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Zeda.io"
+    url: "https://zeda.io/lps/aakashgupta"
+  - name: "Sprig"
+    url: "https://www.sprig.com/productgrowthpodcast"
+  - name: "Anvil"
+    url: "http://www.useanvil.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Sprig](https://www.sprig.com/productgrowthpodcast) and [Anvil](http://www.useanvil.com/aakash).
 
 # Stop Using Frameworks: Lessons from Super-Senior IC PM Vineeth Madhusudanan (Microsoft, Meta, Statsig)
 

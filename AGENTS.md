@@ -5,7 +5,7 @@ This repo is every episode of The Growth Podcast with Aakash Gupta, one markdown
 ## Layout
 
 - `index.json` and `index.csv`: one row per episode. Read these first. Fields: `title`, `subtitle`, `date`, `guests`,
-  `substack_url`, `youtube_url`, `duration`, `word_count`, `speaker_names`, `file`.
+  `substack_url`, `youtube_url`, `duration`, `word_count`, `speaker_names`, `sponsors`, `file`.
 - `episodes/<date>-<slug>.md`: the transcript. YAML frontmatter (same fields), then speaker turns:
 
   ```

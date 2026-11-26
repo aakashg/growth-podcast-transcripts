@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=uqwnqa_HiGQ"
 duration: "01:50:58"
 word_count: 16006
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [WorkOS](http://www.workos.com/aakash) and [Dovetail](https://www.dovetail.com/aakash/).
 
 # How to Drive Growth in B2B Products with, Ben Williams 2x VP of Product @Synk, CloudBees
 

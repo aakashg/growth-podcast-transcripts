@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=Uhs_p-Is0lo"
 duration: "01:02:03"
 word_count: 9194
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash) and [Maven](http://maven.com/x/aakash).
 
 # We Built an AI Employee in 62 mins (Cursor, ChatGPT, Gibson, Crew AI)
 

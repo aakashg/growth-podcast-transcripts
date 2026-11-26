@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=I_S5Cc0fPMo"
 duration: "01:45:43"
 word_count: 22045
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
+  - name: "Sprig"
+    url: "https://www.sprig.com/productgrowthpodcast"
+  - name: "Statsig"
+    url: "https://www.statsig.com/growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [Dovetail](https://www.dovetail.com/aakash/), [Sprig](https://www.sprig.com/productgrowthpodcast) and [Statsig](https://www.statsig.com/growth).
 
 # The Ultimate Guide To Growth Marketing And Sales | Shubham Khoker, Head of Growth @ TopMate
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=uYZoki_7pac"
 duration: "00:59:34"
 word_count: 10281
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Maven](http://maven.com/x/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
 
 # 11 Lessons From 50 Episodes + The Podcast's Future
 

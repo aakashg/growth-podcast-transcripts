@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=NYSZ4g7igDg"
 duration: "01:00:12"
 word_count: 12313
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [Vanta](http://vanta.com/aakash), [Kameleoon](http://www.kameleoon.com/), [NayaOne](https://nayaone.com/aakash/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # The Ultimate Guide to ChatGPT Codex: OpenAI's Claude Code Killer
 

@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=SGUXMugyo6g"
 duration: "00:49:19"
 word_count: 9267
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [Mobbin](http://mobbin.com/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to Build AI Agents to 10x your PM Productivity with CEO of Relay.app (fmr Dir PM of Gmail)
 

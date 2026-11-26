@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=MZlKnSJ_gaA"
 duration: "01:20:59"
 word_count: 16386
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth), [Maven](http://maven.com/x/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # Full Roadmap: Become an AI PM in 2025 | Ankit Shukla, HelloPM Founder
 

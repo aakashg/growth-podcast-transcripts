@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=1vWZavmtoT0"
 duration: "01:41:58"
 word_count: 16665
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Attio](http://www.attio.com/productgrowth).
 
 # 2026 Job Search Masterclass with Dr. Nancy Li
 

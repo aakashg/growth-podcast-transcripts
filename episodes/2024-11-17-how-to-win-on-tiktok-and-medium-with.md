@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=XSvWRQzGCdY"
 duration: "02:06:21"
 word_count: 25687
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Anvil"
+    url: "http://www.useanvil.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [WorkOS](http://www.workos.com/aakash) and [Anvil](http://www.useanvil.com/aakash).
 
 # How to Win on TikTok and Medium with Professor Aaron Dinin, 100K+ on each
 

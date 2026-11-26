@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=Kj3KVV5yghc"
 duration: "00:59:01"
 word_count: 9457
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "Pendo"
+    url: "http://www.pendo.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/) and [Pendo](http://www.pendo.com/aakash).
 
 # The Ultimate Guide to n8n for PMs, with Pawel Huryn
 

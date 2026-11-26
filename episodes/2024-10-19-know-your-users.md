@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=igo5c_OoTe8"
 duration: "01:23:08"
 word_count: 12952
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "Sprig"
+    url: "http://sprig.com/productgrowthpodcast"
+  - name: "Cello"
+    url: "https://www.cello.so/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [Sprig](http://sprig.com/productgrowthpodcast) and [Cello](https://www.cello.so/productgrowth).
 
 # The Ultimate Guide to Knowing Your Users as a PM | George Harter, 20+ Years of PM
 

@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=rzAGo_XML1U"
 duration: "01:12:40"
 word_count: 13353
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.io/aakash) and [Kameleoon](http://www.kameleoon.com/).
 
 # How to Do AI-Powered Discovery (Step-by-Step with Live Demo) | Caitlin Sullivan
 

@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=4dWbwGCPjUY"
 duration: "01:30:22"
 word_count: 15817
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-evlas"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-evlas), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [Kameleoon](http://www.kameleoon.com/).
 
 # The AI PM's Guide to Security - with Okta's VP of PM & AI, Jack Hirsch
 

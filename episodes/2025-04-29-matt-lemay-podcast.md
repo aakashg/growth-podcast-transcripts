@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=OviaaAZ7fMM"
 duration: "01:17:22"
 word_count: 13073
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Miro](http://miro.pxf.io/PO4WZX) and [Amplitude](https://bit.ly/4hl25RG).
 
 # Do THIS to Build a $1M+ Product Team (Matt Lemay, ex Google, Bitly PM)
 

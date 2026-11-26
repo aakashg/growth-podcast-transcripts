@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=fbeNnNh1LGY"
 duration: "00:53:09"
 word_count: 10617
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "AI Product Strategy Certificate"
+    url: "https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1"
 ---
+
+**Sponsors:** This episode is brought to you by [Mobbin](http://mobbin.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25) and [AI Product Strategy Certificate](https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1).
 
 # He built the top AI agent startup | Flo Crivello, Former PM, now CEO & Founder, Lindy AI
 

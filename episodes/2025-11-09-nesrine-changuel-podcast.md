@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=0rTAZ7qnKgc"
 duration: "01:20:19"
 word_count: 13693
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1), [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/) and [Kameleoon](http://www.kameleoon.com/).
 
 # How to Engineer Delight Into AI Products: The Complete Playbook from Spotify & Google PM Nesrine Changuel
 

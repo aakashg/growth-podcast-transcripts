@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=Raa3qjEBvKE"
 duration: "01:04:09"
 word_count: 14132
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Reforge"
+    url: "http://reforge.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Reforge](http://reforge.com/aakash).
 
 # AI Evals Explained Simply by Ankit Shukla
 

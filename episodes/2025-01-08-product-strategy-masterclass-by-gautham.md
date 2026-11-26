@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=7NLLUfqv9uA"
 duration: "01:16:37"
 word_count: 11926
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Explo"
+    url: "https://www.explo.co"
+  - name: "Attio"
+    url: "http://www.attio.com/productgrowth"
+  - name: "Enterpret"
+    url: "https://www.enterpret.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](http://www.attio.com/productgrowth) and [Enterpret](https://www.enterpret.com/productgrowth).
 
 # Product Strategy Masterclass by Gautham Krishnan, Product Leader @ Disney+ Hotstar
 

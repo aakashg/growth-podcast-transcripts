@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=-k002Ey24O8"
 duration: "01:00:27"
 word_count: 11359
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Vanta"
+    url: "https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth), [Vanta](https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25) and [Maven](http://maven.com/x/aakash).
 
 # How Linear Built a $1.25B Unicorn with Just 2 PMs
 

@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=Gp6tMkCr_0w"
 duration: "01:18:14"
 word_count: 14593
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "GibsonAI"
+    url: "http://www.gibsonai.com/aakash"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash) and [Vanta](http://vanta.com/aakash).
 
 # Best AI Prototyping Tools in 2026: Lovable vs Bolt vs Replit vs v0
 

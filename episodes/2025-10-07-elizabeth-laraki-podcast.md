@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=83ajrVQDowc"
 duration: "01:12:12"
 word_count: 12371
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-evlas"
 ---
+
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash), [Kameleoon](http://www.kameleoon.com/), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-evlas).
 
 # Crash Course in AI Product Design from Google Search + Maps Designer, Elizabeth Laraki
 

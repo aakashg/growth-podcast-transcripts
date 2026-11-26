@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=MC1FfWdAyX4"
 duration: "01:02:34"
 word_count: 9753
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Mobbin"
+    url: "http://mobbin.com/aakash"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI Product Strategy Certificate"
+    url: "https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Mobbin](http://mobbin.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [AI Product Strategy Certificate](https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1) and [Maven](http://maven.com/x/aakash).
 
 # Complete Course: AI Experimentation
 

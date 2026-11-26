@@ -10,7 +10,22 @@ youtube_url: "https://www.youtube.com/watch?v=g-Yb7CFWItk"
 duration: "01:09:20"
 word_count: 11047
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
+  - name: "Vanta"
+    url: "http://vanta.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "AI Product Strategy Certificate"
+    url: "https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1"
 ---
+
+**Sponsors:** This episode is brought to you by [Kameleoon](http://www.kameleoon.com), [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth), [Vanta](http://vanta.com/aakash), [Amplitude](https://bit.ly/4hl25RG), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25) and [AI Product Strategy Certificate](https://maven.com/product-faculty/ai-product-strategy-certificate?promoCode=AAKASH550C1).
 
 # AI Agents for PMs in 69 Minutes — Masterclass with IBM VP
 

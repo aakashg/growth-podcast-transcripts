@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=wGuRuuPuYNQ"
 duration: "00:56:04"
 word_count: 10728
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "https://miro.com/innovation-workspace/?irclickid=VCiVcr1RbxycTNSy1219xzQHUkpxGiT7VWmDzE0&utm_source=Test%20partner%20account%20miro&utm_medium=cpa&utm_campaign=&utm_affiliate_network=impact&utm_custom=Aakash&irgwc=1"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](https://miro.com/innovation-workspace/?irclickid=VCiVcr1RbxycTNSy1219xzQHUkpxGiT7VWmDzE0&utm_source=Test%20partner%20account%20miro&utm_medium=cpa&utm_campaign=&utm_affiliate_network=impact&utm_custom=Aakash&irgwc=1), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # Teresa Torres' Step-by-Step Guide to AI Product Discovery
 

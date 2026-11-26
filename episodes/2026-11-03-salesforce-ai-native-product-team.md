@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=_jBa_YEobGI"
 duration: "00:57:29"
 word_count: 9491
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [Ariso](https://ariso.ai/aakash) and [Customer.io](http://customer.io/productgrowth).
 
 # What an AI-Native Product Team Actually Looks Like at Salesforce
 

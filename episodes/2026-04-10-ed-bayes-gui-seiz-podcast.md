@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=C_eXo6oCvRA"
 duration: "00:53:35"
 word_count: 10680
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "NayaOne"
+    url: "https://nayaone.com/aakash/"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Pendo](http://www.pendo.io/aakash), [NayaOne](https://nayaone.com/aakash/) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # How to Design like OpenAI and Figma
 

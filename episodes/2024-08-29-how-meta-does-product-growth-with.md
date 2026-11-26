@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=Z_wiaxKOIXY"
 duration: "01:32:21"
 word_count: 17550
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://june.so/aakash"
+  - name: "Cello"
+    url: "https://cello.so/productgrowth"
+  - name: "Attio"
+    url: "http://attio.com/productgrowth"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Cello](https://cello.so/productgrowth) and [Attio](http://attio.com/productgrowth).
 
 # How Meta Does Product Growth with Andre Nader, 9+ Years at Meta (fka Facebook)
 

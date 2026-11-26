@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=CoRJEXzMiMA"
 duration: "00:43:05"
 word_count: 8861
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth).
 
 # This $20M AI Founder Is Challenging Elon and Sam Altman | Roy Lee, Cluely
 

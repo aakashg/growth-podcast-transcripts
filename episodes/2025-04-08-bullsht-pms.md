@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=0kHsnDxpETI"
 duration: "01:04:49"
 word_count: 10672
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
 ---
+
+**Sponsors:** This episode is brought to you by [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25) and [Amplitude](https://bit.ly/4hl25RG).
 
 # PMs Are Screwed (Here’s Why)
 

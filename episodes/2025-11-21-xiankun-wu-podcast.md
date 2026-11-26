@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=jxxD3tVJm0o"
 duration: "00:43:32"
 word_count: 6888
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Reforge"
+    url: "http://reforge.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Reforge](http://reforge.com/aakash).
 
 # Context Engineering: The Secret Behind $10M ARR in 60 Days, with Kuse Founder Xiankun Wu
 

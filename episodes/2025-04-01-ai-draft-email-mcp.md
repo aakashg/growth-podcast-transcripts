@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=a9wO6GSAoGk"
 duration: "00:42:32"
 word_count: 7819
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "Maven"
+    url: "http://maven.com/x/aakash"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification"
 ---
+
+**Sponsors:** This episode is brought to you by [Amplitude](https://bit.ly/4hl25RG), [Maven](http://maven.com/x/aakash) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification).
 
 # Model Context Protocol (MCP) Explained for Product Managers in 2026
 

@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=2oKBJKFZKlE"
 duration: "01:08:49"
 word_count: 11313
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth).
 
 # He Runs a $2M/Yr One-Person Business - Here's How You Can Too
 

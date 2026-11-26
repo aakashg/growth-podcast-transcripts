@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=6oottgko7pQ"
 duration: "01:28:28"
 word_count: 15463
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Jira Product Discovery"
+    url: "https://www.atlassian.com/software/jira/product-discovery"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
+  - name: "Vanta"
+    url: "https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast"
+  - name: "The AI Evals Course for PMs & Engineers"
+    url: "https://maven.com/parlance-labs/evals?promoCode=ag-product-growth"
 ---
+
+**Sponsors:** This episode is brought to you by [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery), [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25), [Vanta](https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-growth&utm_medium=podcast) and [The AI Evals Course for PMs & Engineers](https://maven.com/parlance-labs/evals?promoCode=ag-product-growth).
 
 # AI Product Discovery: Complete Course
 

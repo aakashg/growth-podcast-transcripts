@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=G1uZZG6s7cc"
 duration: "00:55:26"
 word_count: 9023
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Mobbin"
+    url: "https://www.mobbin.com/?via=aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Mobbin](https://www.mobbin.com/?via=aakash).
 
 # How to steal your way to a hit product, with Mark Pincus (founder, Zynga)
 

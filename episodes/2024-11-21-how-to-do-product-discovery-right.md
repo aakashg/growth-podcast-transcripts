@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=KkqYDbSPrbQ"
 duration: "01:32:12"
 word_count: 12338
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "June"
+    url: "http://june.so/aakash"
+  - name: "Sprig"
+    url: "https://www.sprig.com/productgrowthpodcast"
+  - name: "Dovetail"
+    url: "https://www.dovetail.com/aakash/"
 ---
+
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Sprig](https://www.sprig.com/productgrowthpodcast) and [Dovetail](https://www.dovetail.com/aakash/).
 
 # How to Do Product Discovery Right with Pawel Huryn, 175K+ on LinkedIn, Senior PM and Author
 

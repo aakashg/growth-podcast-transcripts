@@ -10,7 +10,16 @@ youtube_url: "https://www.youtube.com/watch?v=SonOYmc0BVQ"
 duration: "01:19:16"
 word_count: 14295
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "WorkOS"
+    url: "http://www.workos.com/aakash"
+  - name: "Amplitude"
+    url: "https://bit.ly/4hl25RG"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25"
 ---
+
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Amplitude](https://bit.ly/4hl25RG) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH25).
 
 # Amplitude CEO: Demo, Story, and How They Build Product
 

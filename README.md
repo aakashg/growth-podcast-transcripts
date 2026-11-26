@@ -53,6 +53,8 @@ If someone's telling you we tried it, it didn't work, don't stop there. Like thi
 
 Sponsor reads are marked with `<!-- sponsor -->` on the line above wherever they were detected, so you can strip them.
 
+Each episode lists its sponsors at the top. They make the show free, so check them out.
+
 ## Things to build
 
 An X bot that answers with a guest quote. A "which episode should I watch" recommender. A library of every framework

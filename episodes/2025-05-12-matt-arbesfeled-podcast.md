@@ -10,7 +10,14 @@ youtube_url: "https://www.youtube.com/watch?v=LofdaeSJiLs"
 duration: "00:53:44"
 word_count: 9691
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Miro"
+    url: "http://miro.pxf.io/PO4WZX"
+  - name: "Linear"
+    url: "https://linear.app/partners/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Miro](http://miro.pxf.io/PO4WZX) and [Linear](https://linear.app/partners/aakash).
 
 # 15 Steps to Build a $100M+ AI Company (From Someone Who Has Done It)
 

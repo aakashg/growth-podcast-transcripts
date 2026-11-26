@@ -10,7 +10,20 @@ youtube_url: "https://www.youtube.com/watch?v=71qvIkO9d_A"
 duration: "00:51:56"
 word_count: 9691
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Kameleoon"
+    url: "http://www.kameleoon.com/"
+  - name: "Testkube"
+    url: "http://testkube.io/"
+  - name: "Pendo"
+    url: "http://www.pendo.io/aakash"
+  - name: "Bolt"
+    url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
+  - name: "AI PM Certification"
+    url: "https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7"
 ---
+
+**Sponsors:** This episode is brought to you by [Kameleoon](http://www.kameleoon.com/), [Testkube](http://testkube.io/), [Pendo](http://www.pendo.io/aakash), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth) and [AI PM Certification](https://maven.com/product-faculty/ai-product-management-certification?promoCode=AAKASH550C7).
 
 # Evals are the new PRD. Here is the playbook with the CEO of the leader in the space (Ankur Goyal, Founder and CEO, Braintrust)
 

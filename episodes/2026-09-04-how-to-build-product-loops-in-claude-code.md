@@ -10,7 +10,18 @@ youtube_url: "https://www.youtube.com/watch?v=XsnSvFo4MHQ"
 duration: "01:08:51"
 word_count: 13363
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Customer.io"
+    url: "http://customer.io/productgrowth"
+  - name: "Ariso"
+    url: "https://ariso.ai/aakash"
+  - name: "Viktor"
+    url: "http://viktor.com/aakashgupta3"
+  - name: "Bolt"
+    url: "http://bolt.new/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Ariso](https://ariso.ai/aakash), [Viktor](http://viktor.com/aakashgupta3) and [Bolt](http://bolt.new/aakash).
 
 # How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman
 

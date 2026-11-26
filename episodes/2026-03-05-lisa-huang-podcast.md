@@ -10,7 +10,12 @@ youtube_url: "https://www.youtube.com/watch?v=HnIbYsXdJ1Y"
 duration: "00:52:11"
 word_count: 10142
 source: "Substack episode transcript (aired audio)"
+sponsors:
+  - name: "Reforge"
+    url: "http://reforge.com/aakash"
 ---
+
+**Sponsors:** This episode is brought to you by [Reforge](http://reforge.com/aakash).
 
 # Gemini Gem Masterclass From the Creator Lisa Huang
 
