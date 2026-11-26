@@ -14,7 +14,7 @@ This repo is every episode of The Growth Podcast with Aakash Gupta, one markdown
   What they said...
   ```
 
-  The timestamp is when the turn starts in the aired episode. To link a quote, append `&t=<seconds>s` to `youtube_url`.
+  Timestamps come from the audio transcript and can be offset from the YouTube video by up to a few minutes. For exact clips, search the YouTube video near that time.
 
 ## How to work with it
 

@@ -6,7 +6,7 @@ host: "Aakash Gupta"
 guests: ["Nan Yu"]
 speaker_names: "substack"
 substack_url: "https://www.news.aakashg.com/p/nan-yu-podcast"
-youtube_url: "https://www.youtube.com/watch?v=e_T8Sn8s46M"
+youtube_url: "https://www.youtube.com/watch?v=-k002Ey24O8"
 duration: "01:00:27"
 word_count: 11359
 source: "Substack episode transcript (aired audio)"
