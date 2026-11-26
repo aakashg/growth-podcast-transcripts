@@ -12,12 +12,12 @@ word_count: 16176
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24"
+    url: "https://attio.com"
   - name: "BuildBetter"
     url: "https://www.buildbetter.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24) and [BuildBetter](https://www.buildbetter.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=aakash).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com) and [BuildBetter](https://www.buildbetter.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=aakash).
 
 # The Ultimate Guide to Positioning
 

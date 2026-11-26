@@ -16,10 +16,10 @@ sponsors:
   - name: "Jira Product Discovery"
     url: "https://www.atlassian.com/software/jira/product-discovery"
   - name: "Miro"
-    url: "http://miro.pxf.io/PO4WZX"
+    url: "https://miro.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [Miro](http://miro.pxf.io/PO4WZX).
+**Sponsors:** This episode is brought to you by [Pendo](http://www.pendo.com/aakash), [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) and [Miro](https://miro.com).
 
 # 8 months of Claude Code Lessons in 80 minutes, with Carl Vellotti
 

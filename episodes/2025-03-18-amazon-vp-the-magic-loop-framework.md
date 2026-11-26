@@ -12,12 +12,12 @@ word_count: 14332
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash) and [Attio](http://www.attio.com/productgrowth).
+**Sponsors:** This episode is brought to you by [GibsonAI](https://memorilabs.ai) and [Attio](https://attio.com).
 
 # Amazon VP: The Magic Loop Framework to Get Promoted
 

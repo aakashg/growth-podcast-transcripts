@@ -12,7 +12,7 @@ word_count: 20486
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Dovetail"
     url: "https://www.dovetail.com/aakash/"
   - name: "Enterpret"
@@ -21,7 +21,7 @@ sponsors:
     url: "http://www.useanvil.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [Dovetail](https://www.dovetail.com/aakash/), [Enterpret](https://www.enterpret.com/productgrowth) and [Anvil](http://www.useanvil.com/aakash).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com), [Dovetail](https://www.dovetail.com/aakash/), [Enterpret](https://www.enterpret.com/productgrowth) and [Anvil](http://www.useanvil.com/aakash).
 
 # How to Build Things Faster as a Product Team | Maria Cuasay, Director of Product Growth @ Ancestry
 

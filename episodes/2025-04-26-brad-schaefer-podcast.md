@@ -16,10 +16,10 @@ sponsors:
   - name: "Amplitude"
     url: "https://bit.ly/4hl25RG"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Amplitude](https://bit.ly/4hl25RG) and [Attio](http://www.attio.com/productgrowth).
+**Sponsors:** This episode is brought to you by [Linear](https://linear.app/partners/aakash), [Amplitude](https://bit.ly/4hl25RG) and [Attio](https://attio.com).
 
 # How to Go from PM to VP - My Story
 

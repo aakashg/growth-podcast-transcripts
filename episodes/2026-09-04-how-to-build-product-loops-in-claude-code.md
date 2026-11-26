@@ -16,12 +16,12 @@ sponsors:
   - name: "Ariso"
     url: "https://ariso.ai/aakash"
   - name: "Viktor"
-    url: "http://viktor.com/aakashgupta3"
+    url: "https://viktor.com"
   - name: "Bolt"
     url: "http://bolt.new/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Ariso](https://ariso.ai/aakash), [Viktor](http://viktor.com/aakashgupta3) and [Bolt](http://bolt.new/aakash).
+**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Ariso](https://ariso.ai/aakash), [Viktor](https://viktor.com) and [Bolt](http://bolt.new/aakash).
 
 # How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman
 

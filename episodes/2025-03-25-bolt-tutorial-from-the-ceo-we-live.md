@@ -14,12 +14,12 @@ sponsors:
   - name: "Maven"
     url: "http://maven.com/x/aakash"
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
   - name: "Amplitude"
     url: "https://bit.ly/4hl25RG"
 ---
 
-**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash), [GibsonAI](http://www.gibsonai.com/aakash) and [Amplitude](https://bit.ly/4hl25RG).
+**Sponsors:** This episode is brought to you by [Maven](http://maven.com/x/aakash), [GibsonAI](https://memorilabs.ai) and [Amplitude](https://bit.ly/4hl25RG).
 
 # Bolt Tutorial from the CEO: We Live Build a Remote Job board
 

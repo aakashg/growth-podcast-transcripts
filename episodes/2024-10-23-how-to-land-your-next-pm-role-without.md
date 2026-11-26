@@ -16,10 +16,10 @@ sponsors:
   - name: "Sprig"
     url: "http://sprig.com/productgrowthpodcast"
   - name: "Attio"
-    url: "https://attio.com/productgrowth"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [Sprig](http://sprig.com/productgrowthpodcast) and [Attio](https://attio.com/productgrowth).
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth), [Sprig](http://sprig.com/productgrowthpodcast) and [Attio](https://attio.com).
 
 # How to land your next PM role without working more, from Google PM turned Career Coach Shobhit Chugh
 

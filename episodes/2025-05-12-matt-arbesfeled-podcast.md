@@ -12,12 +12,12 @@ word_count: 9691
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Miro"
-    url: "http://miro.pxf.io/PO4WZX"
+    url: "https://miro.com"
   - name: "Linear"
     url: "https://linear.app/partners/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Miro](http://miro.pxf.io/PO4WZX) and [Linear](https://linear.app/partners/aakash).
+**Sponsors:** This episode is brought to you by [Miro](https://miro.com) and [Linear](https://linear.app/partners/aakash).
 
 # 15 Steps to Build a $100M+ AI Company (From Someone Who Has Done It)
 

@@ -12,12 +12,12 @@ word_count: 12997
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash) and [Vanta](http://vanta.com/aakash).
+**Sponsors:** This episode is brought to you by [GibsonAI](https://memorilabs.ai) and [Vanta](http://vanta.com/aakash).
 
 # Reforge Growth Crash Course in 82 Minutes | The Brian Balfour Episode
 

@@ -12,12 +12,12 @@ word_count: 14403
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Explo"
     url: "https://www.explo.co"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth) and [Explo](https://www.explo.co).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com) and [Explo](https://www.explo.co).
 
 # How Airbnb Went From $0 to $85B Valuation with Mona Gandhi, Early on Airbnb’s Growth Team
 

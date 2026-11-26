@@ -14,10 +14,10 @@ sponsors:
   - name: "WorkOS"
     url: "http://www.workos.com/aakash"
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
 ---
 
-**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash) and [GibsonAI](https://memorilabs.ai).
 
 # We Built an AI Product Manager in 58 mins (Claude, ChatGPT, Loom + Notion AI)
 

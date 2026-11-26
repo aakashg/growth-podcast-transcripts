@@ -12,12 +12,12 @@ word_count: 17477
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth) and [Vanta](http://vanta.com/aakash).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com) and [Vanta](http://vanta.com/aakash).
 
 # Growing to 125K+ on LinkedIn and Cracking B2B Content with Pierre Herubel
 

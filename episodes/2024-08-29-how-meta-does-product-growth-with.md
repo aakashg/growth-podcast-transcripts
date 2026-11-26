@@ -16,10 +16,10 @@ sponsors:
   - name: "Cello"
     url: "https://cello.so/productgrowth"
   - name: "Attio"
-    url: "http://attio.com/productgrowth"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Cello](https://cello.so/productgrowth) and [Attio](http://attio.com/productgrowth).
+**Sponsors:** This episode is brought to you by [June](http://june.so/aakash), [Cello](https://cello.so/productgrowth) and [Attio](https://attio.com).
 
 # How Meta Does Product Growth with Andre Nader, 9+ Years at Meta (fka Facebook)
 

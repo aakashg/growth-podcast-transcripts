@@ -14,12 +14,12 @@ sponsors:
   - name: "Explo"
     url: "https://www.explo.co"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Enterpret"
     url: "https://www.enterpret.com/productgrowth"
 ---
 
-**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](http://www.attio.com/productgrowth) and [Enterpret](https://www.enterpret.com/productgrowth).
+**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](https://attio.com) and [Enterpret](https://www.enterpret.com/productgrowth).
 
 # Product Strategy Masterclass by Gautham Krishnan, Product Leader @ Disney+ Hotstar
 

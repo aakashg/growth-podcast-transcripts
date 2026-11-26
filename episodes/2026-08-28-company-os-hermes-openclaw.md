@@ -16,10 +16,10 @@ sponsors:
   - name: "Customer.io"
     url: "http://customer.io/productgrowth"
   - name: "Viktor"
-    url: "http://ref.viktor.com/aakashgupta3"
+    url: "https://viktor.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Customer.io](http://customer.io/productgrowth) and [Viktor](http://ref.viktor.com/aakashgupta3).
+**Sponsors:** This episode is brought to you by [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth), [Customer.io](http://customer.io/productgrowth) and [Viktor](https://viktor.com).
 
 # How to build a Company Operating System with Hermes and OpenClaw
 

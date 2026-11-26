@@ -12,12 +12,12 @@ word_count: 15276
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "WorkOS"
     url: "http://www.workos.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth) and [WorkOS](http://www.workos.com/aakash).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com) and [WorkOS](http://www.workos.com/aakash).
 
 # Master Go-to-Market Strategy: GTM Motions, ICP, and AI Products with Google, Bayer Advisor Maja Voje
 

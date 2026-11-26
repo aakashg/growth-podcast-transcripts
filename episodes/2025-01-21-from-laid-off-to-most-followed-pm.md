@@ -14,12 +14,12 @@ sponsors:
   - name: "Explo"
     url: "https://www.explo.co"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](http://www.attio.com/productgrowth) and [Vanta](http://vanta.com/aakash).
+**Sponsors:** This episode is brought to you by [Explo](https://www.explo.co), [Attio](https://attio.com) and [Vanta](http://vanta.com/aakash).
 
 # From Laid Off to Most Followed PM: How Chloe Shih Grew to 750K+ on Insta, 300K+ on YT
 

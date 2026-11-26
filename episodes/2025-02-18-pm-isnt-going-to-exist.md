@@ -12,14 +12,14 @@ word_count: 15150
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
   - name: "Maven"
     url: "http://maven.com/x/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [Vanta](http://vanta.com/aakash) and [Maven](http://maven.com/x/aakash).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com), [Vanta](http://vanta.com/aakash) and [Maven](http://maven.com/x/aakash).
 
 # “Product Management isn’t going to exist in 5 years” - 2x CPO
 

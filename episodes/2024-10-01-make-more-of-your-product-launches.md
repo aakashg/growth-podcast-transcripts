@@ -16,12 +16,12 @@ sponsors:
   - name: "Cello"
     url: "https://www.cello.so/productgrowth"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Anvil"
     url: "http://useanvil.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](http://www.attio.com/productgrowth) and [Anvil](http://useanvil.com/aakash).
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](https://attio.com) and [Anvil](http://useanvil.com/aakash).
 
 # Make More of Your Product Launches Succeed with Itamar Gilad, Ex-Google PM
 

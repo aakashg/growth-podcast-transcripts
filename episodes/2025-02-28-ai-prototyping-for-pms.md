@@ -12,12 +12,12 @@ word_count: 14593
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash) and [Vanta](http://vanta.com/aakash).
+**Sponsors:** This episode is brought to you by [GibsonAI](https://memorilabs.ai) and [Vanta](http://vanta.com/aakash).
 
 # Best AI Prototyping Tools in 2026: Lovable vs Bolt vs Replit vs v0
 

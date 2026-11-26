@@ -12,14 +12,14 @@ word_count: 12540
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
   - name: "Maven"
     url: "http://maven.com/x/aakash"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [GibsonAI](http://www.gibsonai.com/aakash), [Maven](http://maven.com/x/aakash) and [Vanta](http://vanta.com/aakash).
+**Sponsors:** This episode is brought to you by [GibsonAI](https://memorilabs.ai), [Maven](http://maven.com/x/aakash) and [Vanta](http://vanta.com/aakash).
 
 # PM is Dead. So Now What? | The Claire Vo Episode
 

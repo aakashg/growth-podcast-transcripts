@@ -12,7 +12,7 @@ word_count: 11411
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Miro"
-    url: "https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1"
+    url: "https://miro.com"
   - name: "Vanta"
     url: "http://vanta.com/aakash"
   - name: "Testkube"
@@ -23,7 +23,7 @@ sponsors:
     url: "https://dovetail.com/"
 ---
 
-**Sponsors:** This episode is brought to you by [Miro](https://miro.com/innovation-workspace/?irclickid=yIg1Kj2P2xycUXeyopwbUQf0UkpwPezrCXtgyg0&irgwc=1), [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/) and [Dovetail](https://dovetail.com/).
+**Sponsors:** This episode is brought to you by [Miro](https://miro.com), [Vanta](http://vanta.com/aakash), [Testkube](http://testkube.io/), [Kameleoon](http://www.kameleoon.com/) and [Dovetail](https://dovetail.com/).
 
 # Here's my brutally honest ranking of the top 70 AI PM Tools, with Google Product Leader Anshumani Ruddra
 

@@ -16,10 +16,10 @@ sponsors:
   - name: "Vanta"
     url: "http://vanta.com/aakash"
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
 ---
 
-**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Vanta](http://vanta.com/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Vanta](http://vanta.com/aakash) and [GibsonAI](https://memorilabs.ai).
 
 # The Marty Cagan Episode: Product Management Crash Course in 61 Minutes
 

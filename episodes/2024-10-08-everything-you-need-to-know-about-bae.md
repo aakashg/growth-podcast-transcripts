@@ -12,7 +12,7 @@ word_count: 19799
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "OneSchema"
     url: "https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466"
   - name: "Cello"
@@ -21,7 +21,7 @@ sponsors:
     url: "http://statsig.com/growth"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [OneSchema](https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466), [Cello](https://www.cello.so/productgrowth) and [Statsig](http://statsig.com/growth).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com), [OneSchema](https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466), [Cello](https://www.cello.so/productgrowth) and [Statsig](http://statsig.com/growth).
 
 # Everything You Need to Know About Product-Led Growth with the author of the book, Wes Bush
 

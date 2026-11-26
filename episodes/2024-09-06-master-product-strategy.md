@@ -12,14 +12,14 @@ word_count: 17923
 source: "Substack episode transcript (aired audio)"
 sponsors:
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "OneSchema"
     url: "https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466"
   - name: "Cello"
     url: "https://www.cello.so/productgrowth"
 ---
 
-**Sponsors:** This episode is brought to you by [Attio](http://www.attio.com/productgrowth), [OneSchema](https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466) and [Cello](https://www.cello.so/productgrowth).
+**Sponsors:** This episode is brought to you by [Attio](https://attio.com), [OneSchema](https://www.oneschema.co/?utm_source=aakash&utm_medium=email&utm_campaign=79755466) and [Cello](https://www.cello.so/productgrowth).
 
 # Write a Great Product Strategy: Lessons from Ravi Mehta | Former CPO at Tinder, Director at Meta, VP at TripAdvisor
 

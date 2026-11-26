@@ -14,14 +14,14 @@ sponsors:
   - name: "Zeda.io"
     url: "https://zeda.io/lps/aakashgupta"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Anvil"
     url: "http://useanvil.com/aakash"
   - name: "WorkOS"
     url: "http://www.workos.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Attio](http://www.attio.com/productgrowth), [Anvil](http://useanvil.com/aakash) and [WorkOS](http://www.workos.com/aakash).
+**Sponsors:** This episode is brought to you by [Zeda.io](https://zeda.io/lps/aakashgupta), [Attio](https://attio.com), [Anvil](http://useanvil.com/aakash) and [WorkOS](http://www.workos.com/aakash).
 
 # The Ultimate Guide to Your Next Product Management Job | Diego Granados, AI PM at Google
 

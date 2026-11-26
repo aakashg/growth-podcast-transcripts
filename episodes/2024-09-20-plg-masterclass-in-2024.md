@@ -14,12 +14,12 @@ sponsors:
   - name: "June"
     url: "http://www.june.so/aakash"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "WorkOS"
     url: "http://www.workos.com/aakash"
 ---
 
-**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Attio](http://www.attio.com/productgrowth) and [WorkOS](http://www.workos.com/aakash).
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Attio](https://attio.com) and [WorkOS](http://www.workos.com/aakash).
 
 # Product-Led Growth (PLG) Masterclass: How World Class Companies Grow in 2024
 

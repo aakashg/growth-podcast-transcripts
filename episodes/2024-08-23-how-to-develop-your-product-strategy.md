@@ -14,10 +14,10 @@ sponsors:
   - name: "Enterpret"
     url: "https://www.enterpret.com/productgrowth"
   - name: "Attio"
-    url: "https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth) and [Attio](https://attio.com/productgrowth?utm_source=product_growth&utm_medium=podcast_sponsorship&utm_campaign=product_growth-H2Y24).
+**Sponsors:** This episode is brought to you by [Enterpret](https://www.enterpret.com/productgrowth) and [Attio](https://attio.com).
 
 # How to Develop Your Product Strategy, with Satyajeet Salgar | Director of Product, Google
 

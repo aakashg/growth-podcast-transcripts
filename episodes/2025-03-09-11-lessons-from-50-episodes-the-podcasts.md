@@ -16,10 +16,10 @@ sponsors:
   - name: "Maven"
     url: "http://maven.com/x/aakash"
   - name: "GibsonAI"
-    url: "http://www.gibsonai.com/aakash"
+    url: "https://memorilabs.ai"
 ---
 
-**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Maven](http://maven.com/x/aakash) and [GibsonAI](http://www.gibsonai.com/aakash).
+**Sponsors:** This episode is brought to you by [WorkOS](http://www.workos.com/aakash), [Maven](http://maven.com/x/aakash) and [GibsonAI](https://memorilabs.ai).
 
 # 11 Lessons From 50 Episodes + The Podcast's Future
 

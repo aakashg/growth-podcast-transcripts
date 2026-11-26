@@ -16,12 +16,12 @@ sponsors:
   - name: "Cello"
     url: "https://www.cello.so/productgrowth"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
   - name: "Statsig"
     url: "http://statsig.com/growth"
 ---
 
-**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](http://www.attio.com/productgrowth) and [Statsig](http://statsig.com/growth).
+**Sponsors:** This episode is brought to you by [June](http://www.june.so/aakash), [Cello](https://www.cello.so/productgrowth), [Attio](https://attio.com) and [Statsig](http://statsig.com/growth).
 
 # How Maven Builds Product, and Whether You Should Take a Maven PM Course with Maven CEO Gagan Biyani
 

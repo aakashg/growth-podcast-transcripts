@@ -14,10 +14,10 @@ sponsors:
   - name: "Vanta"
     url: "http://vanta.com/aakash"
   - name: "Attio"
-    url: "http://www.attio.com/productgrowth"
+    url: "https://attio.com"
 ---
 
-**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Attio](http://www.attio.com/productgrowth).
+**Sponsors:** This episode is brought to you by [Vanta](http://vanta.com/aakash) and [Attio](https://attio.com).
 
 # How He Became a Series C VP of Product in 10 Years: Mike Davey
 

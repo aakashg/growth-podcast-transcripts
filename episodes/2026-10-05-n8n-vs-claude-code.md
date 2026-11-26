@@ -14,14 +14,14 @@ sponsors:
   - name: "Customer.io"
     url: "http://customer.io/productgrowth"
   - name: "Kameleoon"
-    url: "http://www.kameleoon.com/prompt"
+    url: "https://www.kameleoon.com"
   - name: "Bolt"
     url: "https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth"
   - name: "Jira Product Discovery"
     url: "https://www.atlassian.com/software/jira/product-discovery"
 ---
 
-**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Kameleoon](http://www.kameleoon.com/prompt), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth) and [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery).
+**Sponsors:** This episode is brought to you by [Customer.io](http://customer.io/productgrowth), [Kameleoon](https://www.kameleoon.com), [Bolt](https://bolt.new/solutions/product-manager?utm_source=Promoted&utm_medium=email&utm_campaign=aakash-product-growth) and [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery).
 
 # n8n CEO: Why we aren’t dead, how to build great AI products, and what I look for in an AI PM
 
